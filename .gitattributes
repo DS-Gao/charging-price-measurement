@@ -7,4 +7,3 @@
 *.csv -text
 *.parquet binary
 *.gz binary
-
