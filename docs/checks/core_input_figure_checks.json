@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "source_hashes": {
+    "amount_summary.csv": "72e449222666c8123dab345a11d7da74782be7cfcb609adb69b4511a2004515a",
+    "screening_pooled.csv": "86c813efb5d119af93d41022b78bbff093064d77c48c81f6120a4b94c50f9716"
+  },
+  "screening": [
+    {
+      "system": "Beijing",
+      "A": 8133,
+      "membership_counts": {
+        "Electricity only": 773,
+        "Both inputs": 861,
+        "Total price only": 770,
+        "Neither input": 5729
+      },
+      "symmetric_difference": 1543
+    },
+    {
+      "system": "UrbanEV",
+      "A": 49369,
+      "membership_counts": {
+        "Electricity only": 0,
+        "Both inputs": 49369,
+        "Total price only": 0,
+        "Neither input": 0
+      },
+      "symmetric_difference": 0
+    }
+  ],
+  "scope": "Redrawing frozen summaries; no change to populations, thresholds, scores or statistical results."
+}

@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "tables": [
+    "[local execution path omitted]",
+    "[local execution path omitted]",
+    "[local execution path omitted]",
+    "[local execution path omitted]",
+    "[local execution path omitted]",
+    "[local execution path omitted]"
+  ],
+  "figures": [
+    "[local execution path omitted]",
+    "[local execution path omitted]"
+  ],
+  "strata_rows": 46,
+  "threshold_rows": 9,
+  "input_audit_rows": 18,
+  "figure_vector_formats": [
+    "pdf",
+    "svg"
+  ],
+  "clearpage_inserted": false,
+  "report": "[local execution path omitted]",
+  "source": "[local execution path omitted]"
+}

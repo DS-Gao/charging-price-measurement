@@ -1,0 +1,477 @@
+{
+  "scientific_status": "R4 post-review covariance sensitivity with reliable constrained bootstrap fitting",
+  "input_contract": {
+    "project_root": "source-provenance/EV charging",
+    "output_root": "outputs\\09_price_architecture\\post_review_r4_verified_revision_20260912",
+    "panel": "outputs\\09_price_architecture\\09b_charging_activity_exposure\\station_boundary_exposure_panel.parquet",
+    "panel_sha256": "a8d543b38622dc1f01c3d14484b5f62a4d1492bd84de017e39b0bef7878b6e93",
+    "raw_orders_read": false
+  },
+  "sample": {
+    "observations": 7531,
+    "stations": 2216,
+    "layers": 10,
+    "layer_counts": [
+      79,
+      96,
+      634,
+      518,
+      404,
+      515,
+      2103,
+      1086,
+      1054,
+      1042
+    ]
+  },
+  "segment_design": {
+    "segment_ids": [
+      "2025-01|07_10",
+      "2025-01|10_13",
+      "2025-01|13_17",
+      "2025-01|17_18",
+      "2025-01|21_22",
+      "2025-01|22_23",
+      "2025-01|23_07",
+      "2025-07|07_10",
+      "2025-07|10_11",
+      "2025-07|17_22",
+      "2025-07|22_23",
+      "2025-07|23_07"
+    ],
+    "shape": [
+      10,
+      12
+    ],
+    "kernel_min_eigenvalue": 0.19806226419516124,
+    "kernel_max_eigenvalue": 3.8019377358048376,
+    "kernel_diagonal": [
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0,
+      2.0
+    ],
+    "signed_offdiagonal_nonzero_pairs": 8
+  },
+  "baseline_face_reproduction": {
+    "expected_minus2_reml": -16658.51638164946,
+    "evaluated_minus2_reml": -16658.5163816495,
+    "absolute_error": 4.001776687800884e-11,
+    "pass": true
+  },
+  "dense_block_objective_check": {
+    "subset_stations": 63,
+    "subset_observations": 314,
+    "block_minus2": -265.7068579692533,
+    "dense_minus2": -265.70685796925625,
+    "absolute_error": 2.9558577807620168e-12,
+    "pass": true
+  },
+  "analytic_gradient_check": {
+    "parameters": [
+      0.002,
+      0.0004,
+      0.004
+    ],
+    "analytic_log_gradient": [
+      -36.86948568841617,
+      -111.95036794374846,
+      120.95616053609457
+    ],
+    "numerical_log_gradient": [
+      -36.869485666102264,
+      -111.95036968274506,
+      120.95615984435425
+    ],
+    "max_abs_error": 1.7389966018299674e-06,
+    "pass": true
+  },
+  "draw2_counterexample": {
+    "available": true,
+    "draw": 2,
+    "seed": 20260912,
+    "multiplicity_sum": 2216,
+    "unique_original_stations": 1384,
+    "stored_warm_path": {
+      "selected_face": "INDEPENDENT_RESIDUAL_ZERO",
+      "sigma2_station": 0.00232427833542433,
+      "sigma2_shared_segment": 0.002297300711838441,
+      "sigma2_independent_residual": 0.0,
+      "station_marginal_share": 0.3359327544848478,
+      "minus2_reml_re_evaluated": -18806.4128185701
+    },
+    "fresh_fit": {
+      "valid": true,
+      "selected_face": "INDEPENDENT_RESIDUAL_ZERO",
+      "sigma2_station": 0.0035174118495605966,
+      "sigma2_shared_segment": 0.0018125235926078143,
+      "sigma2_independent_residual": 0.0,
+      "minus2_reml_re_evaluated": -18926.958718710972
+    },
+    "warm_fit_with_interior_starts": {
+      "valid": true,
+      "selected_face": "INDEPENDENT_RESIDUAL_ZERO",
+      "minus2_reml_re_evaluated": -18926.958718710976
+    },
+    "minus2_improvement_fresh_minus_stored": -120.5459001408708,
+    "minus2_improvement_stored_minus_fresh": 120.5459001408708
+  },
+  "point_fit": {
+    "face": "INDEPENDENT_RESIDUAL_ZERO",
+    "valid": true,
+    "strict_interior": true,
+    "boundary_components": "sigma2_independent_residual",
+    "sigma2_station": 0.0023242783290013578,
+    "sigma2_shared_segment": 0.0022973007190494684,
+    "sigma2_independent_residual": 0.0,
+    "nll": -9141.30291831261,
+    "minus2_reml": -18282.60583662522,
+    "iterations": 7,
+    "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+    "successful_starts": 3,
+    "reliable_starts": 2,
+    "kkt_pass_starts": 2,
+    "attempted_starts": 3,
+    "max_kkt_violation": 0.0,
+    "beta": [
+      0.023050179574362353,
+      -0.006413392585961398,
+      -0.016471793394288073,
+      -0.010432927184923455,
+      -0.01090530299259815,
+      0.017235858454347396,
+      0.028115269575908618,
+      -0.007680814070853144,
+      0.0015856002239150002,
+      0.017722729739115897
+    ],
+    "selected_face": "INDEPENDENT_RESIDUAL_ZERO",
+    "station_marginal_share": 0.3359327531681424,
+    "shared_segment_marginal_share": 0.6640672468318577,
+    "independent_residual_marginal_share": 0.0,
+    "marginal_variance_total": 0.006918879767100294,
+    "face_summaries": [
+      {
+        "face": "ALL_POSITIVE",
+        "valid": false,
+        "strict_interior": false,
+        "boundary_components": "sigma2_independent_residual",
+        "nll": -9141.302918288344,
+        "minus2_reml": -18282.605836576688,
+        "successful_starts": 3,
+        "reliable_starts": 0,
+        "kkt_pass_starts": 0,
+        "attempted_starts": 3,
+        "max_kkt_violation": 0.005238114645719971,
+        "failure_reason": "no_reliable_strict_interior_start"
+      },
+      {
+        "face": "INDEPENDENT_RESIDUAL_ZERO",
+        "valid": true,
+        "strict_interior": true,
+        "boundary_components": "sigma2_independent_residual",
+        "sigma2_station": 0.0023242783290013578,
+        "sigma2_shared_segment": 0.0022973007190494684,
+        "sigma2_independent_residual": 0.0,
+        "nll": -9141.30291831261,
+        "minus2_reml": -18282.60583662522,
+        "iterations": 7,
+        "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+        "successful_starts": 3,
+        "reliable_starts": 2,
+        "kkt_pass_starts": 2,
+        "attempted_starts": 3,
+        "max_kkt_violation": 0.0
+      },
+      {
+        "face": "STATION_ZERO",
+        "valid": false,
+        "strict_interior": false,
+        "boundary_components": "sigma2_station|sigma2_independent_residual",
+        "nll": -8701.39527997353,
+        "minus2_reml": -17402.79055994706,
+        "successful_starts": 3,
+        "reliable_starts": 0,
+        "kkt_pass_starts": 0,
+        "attempted_starts": 3,
+        "max_kkt_violation": 4962.596643009363,
+        "failure_reason": "no_reliable_strict_interior_start"
+      },
+      {
+        "face": "SHARED_ZERO_BASELINE",
+        "valid": false,
+        "strict_interior": false,
+        "boundary_components": "sigma2_shared_segment",
+        "nll": -8329.258190824741,
+        "minus2_reml": -16658.516381649482,
+        "successful_starts": 3,
+        "reliable_starts": 0,
+        "kkt_pass_starts": 0,
+        "attempted_starts": 3,
+        "max_kkt_violation": 2482.2226812511544,
+        "failure_reason": "no_reliable_strict_interior_start"
+      },
+      {
+        "face": "SHARED_ONLY",
+        "valid": false,
+        "strict_interior": false,
+        "boundary_components": "sigma2_station|sigma2_independent_residual",
+        "nll": -8701.39527998458,
+        "minus2_reml": -17402.79055996916,
+        "successful_starts": 3,
+        "reliable_starts": 0,
+        "kkt_pass_starts": 0,
+        "attempted_starts": 3,
+        "max_kkt_violation": 4962.596643314258,
+        "failure_reason": "no_reliable_strict_interior_start"
+      },
+      {
+        "face": "RESIDUAL_ONLY",
+        "valid": false,
+        "strict_interior": false,
+        "boundary_components": "sigma2_station|sigma2_shared_segment",
+        "nll": -8039.221580648395,
+        "minus2_reml": -16078.44316129679,
+        "successful_starts": 3,
+        "reliable_starts": 0,
+        "kkt_pass_starts": 0,
+        "attempted_starts": 3,
+        "max_kkt_violation": 3029.1256507834555,
+        "failure_reason": "no_reliable_strict_interior_start"
+      }
+    ],
+    "face_comparison": [
+      {
+        "face": "ALL_POSITIVE",
+        "valid": false,
+        "nll": -9141.302918288344,
+        "minus2_reml": -18282.605836576688,
+        "reliable_starts": 0,
+        "attempted_starts": 3,
+        "boundary_components": "sigma2_independent_residual",
+        "failure_reason": "no_reliable_strict_interior_start"
+      },
+      {
+        "face": "INDEPENDENT_RESIDUAL_ZERO",
+        "valid": true,
+        "nll": -9141.30291831261,
+        "minus2_reml": -18282.60583662522,
+        "reliable_starts": 2,
+        "attempted_starts": 3,
+        "boundary_components": "sigma2_independent_residual",
+        "failure_reason": null
+      },
+      {
+        "face": "STATION_ZERO",
+        "valid": false,
+        "nll": -8701.39527997353,
+        "minus2_reml": -17402.79055994706,
+        "reliable_starts": 0,
+        "attempted_starts": 3,
+        "boundary_components": "sigma2_station|sigma2_independent_residual",
+        "failure_reason": "no_reliable_strict_interior_start"
+      },
+      {
+        "face": "SHARED_ZERO_BASELINE",
+        "valid": false,
+        "nll": -8329.258190824741,
+        "minus2_reml": -16658.516381649482,
+        "reliable_starts": 0,
+        "attempted_starts": 3,
+        "boundary_components": "sigma2_shared_segment",
+        "failure_reason": "no_reliable_strict_interior_start"
+      },
+      {
+        "face": "SHARED_ONLY",
+        "valid": false,
+        "nll": -8701.39527998458,
+        "minus2_reml": -17402.79055996916,
+        "reliable_starts": 0,
+        "attempted_starts": 3,
+        "boundary_components": "sigma2_station|sigma2_independent_residual",
+        "failure_reason": "no_reliable_strict_interior_start"
+      },
+      {
+        "face": "RESIDUAL_ONLY",
+        "valid": false,
+        "nll": -8039.221580648395,
+        "minus2_reml": -16078.44316129679,
+        "reliable_starts": 0,
+        "attempted_starts": 3,
+        "boundary_components": "sigma2_station|sigma2_shared_segment",
+        "failure_reason": "no_reliable_strict_interior_start"
+      }
+    ]
+  },
+  "bootstrap": {
+    "seed": 20260912,
+    "scheduled": 1000,
+    "successful": 1000,
+    "failed": 0,
+    "failure_reasons": {},
+    "face_counts": {
+      "INDEPENDENT_RESIDUAL_ZERO": 999,
+      "ALL_POSITIVE": 1
+    },
+    "minimum_success": 950,
+    "workers": 4,
+    "blas_threads": 1,
+    "retries": 4,
+    "attempt_rows": 24144,
+    "attempts_per_draw_face_initial": 4,
+    "boundary_attempt_rows": 23664,
+    "kkt_failed_attempt_rows": 20561,
+    "face_comparison_recorded": true,
+    "draw_identity_fixed_on_retry": true,
+    "selected_draws_with_exact_residual_zero": 999,
+    "selected_draws_with_positive_residual": 1,
+    "draw_rows": 1000
+  },
+  "boundary_interpretation": {
+    "independent_residual_zero_is_constrained_boundary": true,
+    "zero_share_is_not_exact_population_parameter_claim": true,
+    "boundary_attempts_are_recorded_in": "covariance_fit_attempts.parquet"
+  },
+  "interpretation": "The shared-segment term is a working covariance sensitivity based on the signed before/after segment-incidence kernel. It is not a causal measurement-error correction and may also absorb other covariance aligned with that kernel.",
+  "runtime_seconds": 2111.027097940445,
+  "environment": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "source-provenance/python.exe",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "numpy": "2.5.1",
+    "pandas": "3.0.5",
+    "scipy": "1.18.0",
+    "pyarrow": "25.0.0",
+    "blas_thread_variables": {
+      "OMP_NUM_THREADS": "1",
+      "OPENBLAS_NUM_THREADS": "1",
+      "MKL_NUM_THREADS": "1",
+      "BLIS_NUM_THREADS": "1",
+      "NUMEXPR_NUM_THREADS": "1"
+    }
+  },
+  "interval_comparison_r3_vs_r4": [
+    {
+      "metric": "sigma2_station",
+      "r3_bootstrap_median": 0.00232427833542,
+      "r3_ci_lower": 0.00157485186068,
+      "r3_ci_upper": 0.00297610306158,
+      "r3_successful_draws": 1000,
+      "r3_failed_draws": 0,
+      "r4_bootstrap_median": 0.00232793231738,
+      "r4_ci_lower": 0.00157485316599,
+      "r4_ci_upper": 0.00342500883482,
+      "r4_successful_draws": 1000,
+      "r4_failed_draws": 0
+    },
+    {
+      "metric": "sigma2_shared_segment",
+      "r3_bootstrap_median": 0.00229730071184,
+      "r3_ci_lower": 0.00181012623024,
+      "r3_ci_upper": 0.00295599977476,
+      "r3_successful_draws": 1000,
+      "r3_failed_draws": 0,
+      "r4_bootstrap_median": 0.00224409951004,
+      "r4_ci_lower": 0.0017828575522,
+      "r4_ci_upper": 0.00295599983025,
+      "r4_successful_draws": 1000,
+      "r4_failed_draws": 0
+    },
+    {
+      "metric": "sigma2_independent_residual",
+      "r3_bootstrap_median": 0.0,
+      "r3_ci_lower": 0.0,
+      "r3_ci_upper": 1.1548224173e-17,
+      "r3_successful_draws": 1000,
+      "r3_failed_draws": 0,
+      "r4_bootstrap_median": 0.0,
+      "r4_ci_lower": 0.0,
+      "r4_ci_upper": 0.0,
+      "r4_successful_draws": 1000,
+      "r4_failed_draws": 0
+    },
+    {
+      "metric": "station_marginal_share",
+      "r3_bootstrap_median": 0.335932754485,
+      "r3_ci_lower": 0.217739927253,
+      "r3_ci_upper": 0.431530439076,
+      "r3_successful_draws": 1000,
+      "r3_failed_draws": 0,
+      "r4_bootstrap_median": 0.342398802086,
+      "r4_ci_lower": 0.217739928121,
+      "r4_ci_upper": 0.474447495327,
+      "r4_successful_draws": 1000,
+      "r4_failed_draws": 0
+    },
+    {
+      "metric": "shared_segment_marginal_share",
+      "r3_bootstrap_median": 0.664067245515,
+      "r3_ci_lower": 0.568469560924,
+      "r3_ci_upper": 0.782260072747,
+      "r3_successful_draws": 1000,
+      "r3_failed_draws": 0,
+      "r4_bootstrap_median": 0.657601197914,
+      "r4_ci_lower": 0.525552504673,
+      "r4_ci_upper": 0.782260071879,
+      "r4_successful_draws": 1000,
+      "r4_failed_draws": 0
+    },
+    {
+      "metric": "independent_residual_marginal_share",
+      "r3_bootstrap_median": 0.0,
+      "r3_ci_lower": 0.0,
+      "r3_ci_upper": 1.89813147285e-15,
+      "r3_successful_draws": 1000,
+      "r3_failed_draws": 0,
+      "r4_bootstrap_median": 0.0,
+      "r4_ci_lower": 0.0,
+      "r4_ci_upper": 0.0,
+      "r4_successful_draws": 1000,
+      "r4_failed_draws": 0
+    }
+  ],
+  "boundary_frequency": [
+    {
+      "diagnostic": "selected_face",
+      "category": "INDEPENDENT_RESIDUAL_ZERO",
+      "count": 999,
+      "share": 0.999
+    },
+    {
+      "diagnostic": "selected_face",
+      "category": "ALL_POSITIVE",
+      "count": 1,
+      "share": 0.001
+    },
+    {
+      "diagnostic": "selected_independent_residual",
+      "category": "exact_zero",
+      "count": 999,
+      "share": 0.999
+    },
+    {
+      "diagnostic": "selected_independent_residual",
+      "category": "positive_interior",
+      "count": 1,
+      "share": 0.001
+    },
+    {
+      "diagnostic": "attempt_boundary",
+      "category": "any_component_boundary",
+      "count": 23664,
+      "share": 0.980119284294
+    },
+    {
+      "diagnostic": "attempt_kkt",
+      "category": "physical_kkt_failed",
+      "count": 20561,
+      "share": 0.851598740888
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+candidate_partition,month,formation_complete_menus,validation_complete_menus,formation_validation_complete_menus,cross_month_crossfit_stations,latent_type_quantity_status,cross_month_transport_quantity_status
+COMMON_10,2025-01,10,8,6,5,INSUFFICIENT_QUANTITY,INSUFFICIENT_QUANTITY
+COMMON_10,2025-07,781,787,686,5,INSUFFICIENT_QUANTITY,INSUFFICIENT_QUANTITY
+NATIVE_8,2025-01,14,12,6,5,INSUFFICIENT_QUANTITY,INSUFFICIENT_QUANTITY
+NATIVE_8,2025-07,860,854,742,5,INSUFFICIENT_QUANTITY,INSUFFICIENT_QUANTITY

@@ -1,0 +1,343 @@
+{
+  "checks": {
+    "all_zero_and_tie_handling": {
+      "all_zero_E_rows": 0,
+      "all_zero_E_selection_is_full_layer": true,
+      "all_zero_T_rows": 2,
+      "all_zero_T_selection_is_full_layer": true,
+      "all_zero_layers_retained_in_output": true,
+      "all_zero_score_layer_rows_n": 2,
+      "cutoff_tie_rows_n": 368,
+      "flat_E_rows": 0,
+      "flat_T_rows": 2,
+      "selected_all_units_E_rows": 47,
+      "selected_all_units_T_rows": 75,
+      "tie_added_units_total": 128981
+    },
+    "amount_formula_checks": {
+      "Beijing": {
+        "A_finite_D30_n": 8133,
+        "D30_abs_formula_max_abs_error_RMB": 0.0,
+        "D30_formula_max_abs_error_RMB": 0.0
+      },
+      "UrbanEV": {
+        "A_finite_D30_n": 49369,
+        "D30_abs_formula_max_abs_error_RMB": 0.0,
+        "D30_formula_max_abs_error_RMB": 7.105427357601002e-15
+      }
+    },
+    "concentration_checks": {
+      "boundary|abs_D30_gt_0_90_RMB|Beijing": {
+        "group_denominator_sum": 8133,
+        "group_event_sum": 2795,
+        "system_A_n": 8133,
+        "system_event_n": 2795
+      },
+      "boundary|abs_D30_gt_0_90_RMB|UrbanEV": {
+        "group_denominator_sum": 49369,
+        "group_event_sum": 5235,
+        "system_A_n": 49369,
+        "system_event_n": 5235
+      },
+      "boundary|labels_unequal_kappa_0_03|Beijing": {
+        "group_denominator_sum": 8133,
+        "group_event_sum": 92,
+        "system_A_n": 8133,
+        "system_event_n": 92
+      },
+      "boundary|labels_unequal_kappa_0_03|UrbanEV": {
+        "group_denominator_sum": 49369,
+        "group_event_sum": 3893,
+        "system_A_n": 49369,
+        "system_event_n": 3893
+      },
+      "boundary|primary_screening_symmetric_difference|Beijing": {
+        "group_denominator_sum": 8133,
+        "group_event_sum": 1543,
+        "system_A_n": 8133,
+        "system_event_n": 1543
+      },
+      "boundary|primary_screening_symmetric_difference|UrbanEV": {
+        "group_denominator_sum": 49369,
+        "group_event_sum": 0,
+        "system_A_n": 49369,
+        "system_event_n": 0
+      },
+      "month|abs_D30_gt_0_90_RMB|Beijing": {
+        "group_denominator_sum": 8133,
+        "group_event_sum": 2795,
+        "system_A_n": 8133,
+        "system_event_n": 2795
+      },
+      "month|abs_D30_gt_0_90_RMB|UrbanEV": {
+        "group_denominator_sum": 49369,
+        "group_event_sum": 5235,
+        "system_A_n": 49369,
+        "system_event_n": 5235
+      },
+      "month|labels_unequal_kappa_0_03|Beijing": {
+        "group_denominator_sum": 8133,
+        "group_event_sum": 92,
+        "system_A_n": 8133,
+        "system_event_n": 92
+      },
+      "month|labels_unequal_kappa_0_03|UrbanEV": {
+        "group_denominator_sum": 49369,
+        "group_event_sum": 3893,
+        "system_A_n": 49369,
+        "system_event_n": 3893
+      },
+      "month|primary_screening_symmetric_difference|Beijing": {
+        "group_denominator_sum": 8133,
+        "group_event_sum": 1543,
+        "system_A_n": 8133,
+        "system_event_n": 1543
+      },
+      "month|primary_screening_symmetric_difference|UrbanEV": {
+        "group_denominator_sum": 49369,
+        "group_event_sum": 0,
+        "system_A_n": 49369,
+        "system_event_n": 0
+      },
+      "station|abs_D30_gt_0_90_RMB|Beijing": {
+        "group_denominator_sum": 8133,
+        "group_event_sum": 2795,
+        "system_A_n": 8133,
+        "system_event_n": 2795
+      },
+      "station|abs_D30_gt_0_90_RMB|UrbanEV": {
+        "group_denominator_sum": 49369,
+        "group_event_sum": 5235,
+        "system_A_n": 49369,
+        "system_event_n": 5235
+      },
+      "station|labels_unequal_kappa_0_03|Beijing": {
+        "group_denominator_sum": 8133,
+        "group_event_sum": 92,
+        "system_A_n": 8133,
+        "system_event_n": 92
+      },
+      "station|labels_unequal_kappa_0_03|UrbanEV": {
+        "group_denominator_sum": 49369,
+        "group_event_sum": 3893,
+        "system_A_n": 49369,
+        "system_event_n": 3893
+      },
+      "station|primary_screening_symmetric_difference|Beijing": {
+        "group_denominator_sum": 8133,
+        "group_event_sum": 1543,
+        "system_A_n": 8133,
+        "system_event_n": 1543
+      },
+      "station|primary_screening_symmetric_difference|UrbanEV": {
+        "group_denominator_sum": 49369,
+        "group_event_sum": 0,
+        "system_A_n": 49369,
+        "system_event_n": 0
+      }
+    },
+    "concentration_group_closure": true,
+    "cross_tab_count_closure": true,
+    "cross_tab_counts": {
+      "Beijing": {
+        "A_n": 8133,
+        "both_neutral_n": 564,
+        "either_nonneutral_n": 7569,
+        "mismatch_n": 92,
+        "mismatch_within_either_nonneutral_n": 92
+      },
+      "UrbanEV": {
+        "A_n": 49369,
+        "both_neutral_n": 44093,
+        "either_nonneutral_n": 5276,
+        "mismatch_n": 3893,
+        "mismatch_within_either_nonneutral_n": 3893
+      }
+    },
+    "finite_required_values": true,
+    "full_primary_counts_match": true,
+    "screening_group_amount_count": 960,
+    "screening_identities": {
+      "layer_and_pooled_count_identities": true,
+      "layer_denominator_closure": true,
+      "pooled_group_amount_identities": true
+    },
+    "screening_layer_count": 184,
+    "screening_pooled_count": 8,
+    "source_category_and_amount_identities": {
+      "Beijing": {
+        "D30_abs_formula_max_abs_error_RMB": 0.0,
+        "D30_formula_max_abs_error_RMB": 0.0,
+        "signed_category_mismatch_n": 0,
+        "total_category_mismatch_n": 0
+      },
+      "UrbanEV": {
+        "D30_abs_formula_max_abs_error_RMB": 0.0,
+        "D30_formula_max_abs_error_RMB": 7.105427357601002e-15,
+        "signed_category_mismatch_n": 0,
+        "total_category_mismatch_n": 0
+      }
+    },
+    "subset_checks": {
+      "C_subset_A": true,
+      "H_subset_R": true,
+      "R_subset_A": true,
+      "duplicate_unit_keys": 0,
+      "rows_total": 67605
+    }
+  },
+  "computed_primary_counts": {
+    "Beijing": {
+      "A": 8133,
+      "C": 3916,
+      "H": 7479,
+      "R": 7531
+    },
+    "UrbanEV": {
+      "A": 49369,
+      "C": 48180,
+      "H": 1377,
+      "R": 4921
+    }
+  },
+  "expected_primary_counts": {
+    "Beijing": {
+      "A": 8133,
+      "C": 3916,
+      "H": 7479,
+      "R": 7531
+    },
+    "UrbanEV": {
+      "A": 49369,
+      "C": 48180,
+      "H": 1377,
+      "R": 4921
+    }
+  },
+  "input": {
+    "columns": [
+      "system",
+      "station_id",
+      "month",
+      "boundary",
+      "boundary_value",
+      "source_row",
+      "A",
+      "R",
+      "H",
+      "C",
+      "E_star",
+      "S_star",
+      "T_star",
+      "D30",
+      "D30_no_residual",
+      "residual_star_reconstructed",
+      "total_category",
+      "signed_category",
+      "signed_category_no_residual",
+      "D30_abs"
+    ],
+    "float_precision": "round_trip",
+    "path": "[local execution path omitted]",
+    "protocol_expected_sha256": "103cecc145bd6e5d378da5a66f826e9642554c328b6aeb021ab21849c28a5132",
+    "protocol_path": "[local execution path omitted]",
+    "rows": 67605,
+    "sha256": "103cecc145bd6e5d378da5a66f826e9642554c328b6aeb021ab21849c28a5132",
+    "sha256_match": true
+  },
+  "output_artifacts": {
+    "Figure_input_application.pdf": {
+      "bytes": 85474,
+      "sha256": "74e0431a63be44de40791cc37a350971e3cfb5f4f829778254a085c7bedecec9"
+    },
+    "Figure_input_application.png": {
+      "bytes": 359312,
+      "sha256": "2ede866cf4daaa78837212640c876e57156be1504334d8eacc832eeca1d2fa94"
+    },
+    "README.md": {
+      "bytes": 3383,
+      "sha256": "1fec9dcb29e4c894978bb45a52620b3b137bcf742e8705592382e1b9926a8e3a"
+    },
+    "amount_summary.csv": {
+      "bytes": 2688,
+      "sha256": "72e449222666c8123dab345a11d7da74782be7cfcb609adb69b4511a2004515a"
+    },
+    "concentration_by_boundary.csv": {
+      "bytes": 6019,
+      "sha256": "ac8f888d1e818d431566ea698ecb0bd7592c42b318400991883ac673bfd64bfa"
+    },
+    "concentration_by_month.csv": {
+      "bytes": 4053,
+      "sha256": "3c8d837162c46958973166d1f00ffdf1a1318f8042ac2c822a72169e41267cab"
+    },
+    "concentration_by_station.csv": {
+      "bytes": 1605420,
+      "sha256": "8f7802f0a3abf5a2553e9b6e5c0291f0ac95afa828d05eb159004a2df12a01c3"
+    },
+    "concentration_summary.csv": {
+      "bytes": 6693,
+      "sha256": "470c863a0b7279417832bed3fe5817292b4fa9be06ef5e230df04ae5edcb8626"
+    },
+    "input_label_crosstab.csv": {
+      "bytes": 1468,
+      "sha256": "00143e07f8107d3da95cfc6862cf4c83093ac9252042c7fe1fdcdfe2a3bc4987"
+    },
+    "screening_by_layer.csv": {
+      "bytes": 42720,
+      "sha256": "2a64a76c05a9e5ba65cde8e0d55244a9c866d60b7eb6cdfce181dfa081d1d515"
+    },
+    "screening_group_amounts.csv": {
+      "bytes": 126331,
+      "sha256": "497ba3c7829bf13a03b9792afcd9db432d6c1b0634969f3bcc8c22f6d70792bb"
+    },
+    "screening_pooled.csv": {
+      "bytes": 2098,
+      "sha256": "86c813efb5d119af93d41022b78bbff093064d77c48c81f6120a4b94c50f9716"
+    },
+    "tables/input_application_amount_summary.tex": {
+      "bytes": 1110,
+      "sha256": "38a35adb07a5f7092b185f4a7d9b11430d67551ef3dae630bfa4d7eedc5a620d"
+    },
+    "tables/input_application_concentration_summary.tex": {
+      "bytes": 1920,
+      "sha256": "48d2866ce3775f37ac885c485100661957f989acc1bc21f26aec8a4790fa0bdc"
+    },
+    "tables/input_application_screening_summary.tex": {
+      "bytes": 1132,
+      "sha256": "04409a5af957fb597d284cfb2fb5d72596623ff1980324b9e27c9ca0fe08bf74"
+    }
+  },
+  "parameters": {
+    "amount_threshold_RMB": 0.9,
+    "concentration_events": [
+      "labels_unequal_kappa_0_03",
+      "abs_D30_gt_0_90_RMB",
+      "primary_screening_symmetric_difference"
+    ],
+    "interpretation": "observed input sensitivity and post-observation descriptive concentration; not truth accuracy",
+    "label_kappa_RMB_per_kWh": 0.03,
+    "nominal_fractions": [
+      0.2,
+      0.1
+    ],
+    "populations": [
+      "A",
+      "R",
+      "H"
+    ],
+    "reference_kWh": 30.0,
+    "screening_populations": [
+      "A",
+      "R"
+    ],
+    "strata": [
+      "system",
+      "month",
+      "boundary"
+    ],
+    "threshold_rule": "strict tails; inclusive neutral/near interval; all cutoff ties included",
+    "tie_grid_RMB_per_kWh": 1e-06
+  },
+  "schema": "applied-energy/input-application-v1",
+  "status": "PASS"
+}

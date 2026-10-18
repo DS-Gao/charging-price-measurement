@@ -1,0 +1,62 @@
+{
+  "status": "PASS",
+  "baseline_match": true,
+  "menu_join_ok": true,
+  "beijing": {
+    "rows": 8133,
+    "key_duplicates": 0,
+    "menu_native_rows": 14213,
+    "menu_native_duplicate_keys": 0,
+    "menu_join_counts": {
+      "both": 8133,
+      "left_only": 0,
+      "right_only": 0
+    },
+    "menu_missing_after_join": 0,
+    "source_total_category_matches": true,
+    "denominator_A": 8133,
+    "denominator_R": 7531,
+    "complete_menu_C_within_A": 3916
+  },
+  "urbanev": {
+    "rows_all_variants": 178416,
+    "base_rows": 59472,
+    "base_key_duplicates": 0,
+    "base_variant_count": 59472,
+    "base_D30_max_abs_recompute_difference": 7.105427357601002e-15,
+    "A": 49369,
+    "R": 4921,
+    "H": 1377,
+    "C": 48180
+  },
+  "rows": [
+    {
+      "system": "Beijing",
+      "R_category_sum": 7531,
+      "R_n": 7531,
+      "R_closure": true,
+      "H_category_sum": 7479,
+      "H_n": 7479,
+      "H_closure": true,
+      "H_abs_gt_amount_signed_sum": 2706,
+      "H_abs_gt_amount_n": 2706,
+      "H_signed_absolute_closure": true,
+      "C_subset_A": true
+    },
+    {
+      "system": "UrbanEV",
+      "R_category_sum": 4921,
+      "R_n": 4921,
+      "R_closure": true,
+      "H_category_sum": 1377,
+      "H_n": 1377,
+      "H_closure": true,
+      "H_abs_gt_amount_signed_sum": 1338,
+      "H_abs_gt_amount_n": 1338,
+      "H_signed_absolute_closure": true,
+      "C_subset_A": true
+    }
+  ],
+  "residual_identity_max_abs_RMB": 7.105427357601002e-15,
+  "residual_identity_tolerance_RMB": 1e-09
+}

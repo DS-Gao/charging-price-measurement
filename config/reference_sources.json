@@ -1,0 +1,692 @@
+[
+  {
+    "id": "01_menu_feasibility__behavior_candidate_counts",
+    "original_path": "outputs/09_price_architecture/01_menu_feasibility/behavior_candidate_counts.csv",
+    "package_path": "data/reference/historical/01_menu_feasibility/behavior_candidate_counts.csv",
+    "sha256": "d600cf081faa748eab65788270229fd6f2b1c5d3f6078e77c2d8e6424956d982"
+  },
+  {
+    "id": "01_menu_feasibility__candidate_partition_coverage",
+    "original_path": "outputs/09_price_architecture/01_menu_feasibility/candidate_partition_coverage.csv",
+    "package_path": "data/reference/historical/01_menu_feasibility/candidate_partition_coverage.csv",
+    "sha256": "256e9424fb564a9d2324b30bacf9a8f2d1c2198284e8bb36020fe8b65b160391"
+  },
+  {
+    "id": "01_menu_feasibility__component_aggregation_check",
+    "original_path": "outputs/09_price_architecture/01_menu_feasibility/component_aggregation_check.csv",
+    "package_path": "data/reference/historical/01_menu_feasibility/component_aggregation_check.csv",
+    "sha256": "741550bbafe953d5cf6b92e71ec501ffde8ea4731b178b82949953a5d8f66174"
+  },
+  {
+    "id": "01_menu_feasibility__crossfit_eligibility",
+    "original_path": "outputs/09_price_architecture/01_menu_feasibility/crossfit_eligibility.csv",
+    "package_path": "data/reference/historical/01_menu_feasibility/crossfit_eligibility.csv",
+    "sha256": "892d06e7b04d56a5d144076b1970bf23e42e1b6359d76f51bf52906b74950119"
+  },
+  {
+    "id": "01_menu_feasibility__sample_flow",
+    "original_path": "outputs/09_price_architecture/01_menu_feasibility/sample_flow.csv",
+    "package_path": "data/reference/historical/01_menu_feasibility/sample_flow.csv",
+    "sha256": "67b477b9c3f3cfbfabd488c3ffa26c9dc99bbe064896e116db8d45366fbaa230"
+  },
+  {
+    "id": "01_menu_feasibility__selection_profile",
+    "original_path": "outputs/09_price_architecture/01_menu_feasibility/selection_profile.csv",
+    "package_path": "data/reference/historical/01_menu_feasibility/selection_profile.csv",
+    "sha256": "f78f42dfb27df4aa30d73623719d0e4ff391098b9f5ad9e895fe3d0b9eb3257d"
+  },
+  {
+    "id": "01_menu_feasibility__spatial_feasibility",
+    "original_path": "outputs/09_price_architecture/01_menu_feasibility/spatial_feasibility.csv",
+    "package_path": "data/reference/historical/01_menu_feasibility/spatial_feasibility.csv",
+    "sha256": "1f11cd22815dba9761b5ab7b32abbfdfc15869e1538b8ef8857d0aa96a134fe1"
+  },
+  {
+    "id": "02_boundary_signal_core__boundary_coverage",
+    "original_path": "outputs/09_price_architecture/02_boundary_signal_core/boundary_coverage.csv",
+    "package_path": "data/reference/historical/02_boundary_signal_core/boundary_coverage.csv",
+    "sha256": "97a8dab105b1eb1115859746151480a0313be6bfeb35846706f81fffe11d5bb9"
+  },
+  {
+    "id": "02_boundary_signal_core__boundary_support_profile",
+    "original_path": "outputs/09_price_architecture/02_boundary_signal_core/boundary_support_profile.csv",
+    "package_path": "data/reference/historical/02_boundary_signal_core/boundary_support_profile.csv",
+    "sha256": "3bfdacab2a8eeb775697f7879fbf149f38c399efe08a487ca6441518a70890de"
+  },
+  {
+    "id": "02_boundary_signal_core__fig_boundary_signal_distribution_source",
+    "original_path": "outputs/09_price_architecture/02_boundary_signal_core/fig_boundary_signal_distribution_source.csv",
+    "package_path": "data/reference/historical/02_boundary_signal_core/fig_boundary_signal_distribution_source.csv",
+    "sha256": "1c157cc9c41fb155448d6ae28a6149dfa5ae766cc490778a4479fa9df21ff2b8"
+  },
+  {
+    "id": "02_boundary_signal_core__fig_network_fragmentation_30kwh_source",
+    "original_path": "outputs/09_price_architecture/02_boundary_signal_core/fig_network_fragmentation_30kwh_source.csv",
+    "package_path": "data/reference/historical/02_boundary_signal_core/fig_network_fragmentation_30kwh_source.csv",
+    "sha256": "5a233ea91aafa5cb6221df2ab8b7b49defd8ce570dfaa4f0031305611a3f85e6"
+  },
+  {
+    "id": "02_boundary_signal_core__formation_validation_scorecard",
+    "original_path": "outputs/09_price_architecture/02_boundary_signal_core/formation_validation_scorecard.csv",
+    "package_path": "data/reference/historical/02_boundary_signal_core/formation_validation_scorecard.csv",
+    "sha256": "a695264b1bad1eb7f05355d1c7c8d1847935b65909389233e488bbeaad4c67fc"
+  },
+  {
+    "id": "02_boundary_signal_core__formation_validation_service_confusion",
+    "original_path": "outputs/09_price_architecture/02_boundary_signal_core/formation_validation_service_confusion.csv",
+    "package_path": "data/reference/historical/02_boundary_signal_core/formation_validation_service_confusion.csv",
+    "sha256": "9d7ae1d9ab379cbe949e444f6cde8cbf249c6cb20db5ae9b566a9dbf3a2ea9bd"
+  },
+  {
+    "id": "02_boundary_signal_core__formation_validation_total_confusion",
+    "original_path": "outputs/09_price_architecture/02_boundary_signal_core/formation_validation_total_confusion.csv",
+    "package_path": "data/reference/historical/02_boundary_signal_core/formation_validation_total_confusion.csv",
+    "sha256": "10feba1664ab108a2e47f608368cbed37e8c02b6da773301b62620b9167dfa38"
+  },
+  {
+    "id": "02_boundary_signal_core__institutional_mixed_cases",
+    "original_path": "outputs/09_price_architecture/02_boundary_signal_core/institutional_mixed_cases.csv",
+    "package_path": "data/reference/historical/02_boundary_signal_core/institutional_mixed_cases.csv",
+    "sha256": "b2906015bb004bfbfb021baf208b6fd068668c00f59b2a2b82a8c72e705146be"
+  },
+  {
+    "id": "02_boundary_signal_core__network_signal_dispersion",
+    "original_path": "outputs/09_price_architecture/02_boundary_signal_core/network_signal_dispersion.csv",
+    "package_path": "data/reference/historical/02_boundary_signal_core/network_signal_dispersion.csv",
+    "sha256": "029be8b42f506b5d616c0e598e5de0bfa43c288de21256b144a2ba131732f3e6"
+  },
+  {
+    "id": "02_boundary_signal_core__signal_action_outcome_crosstab",
+    "original_path": "outputs/09_price_architecture/02_boundary_signal_core/signal_action_outcome_crosstab.csv",
+    "package_path": "data/reference/historical/02_boundary_signal_core/signal_action_outcome_crosstab.csv",
+    "sha256": "9b908c28af326a67c20cea9315660c063a58852b3a78d33694c4005894010de9"
+  },
+  {
+    "id": "02b_stable_signal_cohort__fig_stable_cohort_diagnostic_source",
+    "original_path": "outputs/09_price_architecture/02b_stable_signal_cohort/fig_stable_cohort_diagnostic_source.csv",
+    "package_path": "data/reference/historical/02b_stable_signal_cohort/fig_stable_cohort_diagnostic_source.csv",
+    "sha256": "90d453ecbf3a0bb76f870cd2dc49577d92ef89bedd98030695e72f30e6fb7dab"
+  },
+  {
+    "id": "02b_stable_signal_cohort__stable_cohort_fragmentation",
+    "original_path": "outputs/09_price_architecture/02b_stable_signal_cohort/stable_cohort_fragmentation.csv",
+    "package_path": "data/reference/historical/02b_stable_signal_cohort/stable_cohort_fragmentation.csv",
+    "sha256": "42dd6bca0ab3f24cd211cd3e2c9a9419b144e8abb5ceae7c15e05e7ccc47ca2e"
+  },
+  {
+    "id": "02b_stable_signal_cohort__stable_signal_cohort_membership",
+    "original_path": "outputs/09_price_architecture/02b_stable_signal_cohort/stable_signal_cohort_membership.csv",
+    "package_path": "data/reference/historical/02b_stable_signal_cohort/stable_signal_cohort_membership.csv",
+    "sha256": "516d5d750c4a6cbadc1e9f7409f7747e98d5ea01e5a91627dc69551e81e00118"
+  },
+  {
+    "id": "09a_network_composition_standardization__composition_balance_before_after",
+    "original_path": "outputs/09_price_architecture/09a_network_composition_standardization/composition_balance_before_after.csv",
+    "package_path": "data/reference/historical/09a_network_composition_standardization/composition_balance_before_after.csv",
+    "sha256": "f433523d4e36d4821601c318b625e8f47025acd31cb5aec2ca932be6d25420de"
+  },
+  {
+    "id": "09a_network_composition_standardization__composition_standardized_layer_estimates",
+    "original_path": "outputs/09_price_architecture/09a_network_composition_standardization/composition_standardized_layer_estimates.csv",
+    "package_path": "data/reference/historical/09a_network_composition_standardization/composition_standardized_layer_estimates.csv",
+    "sha256": "c278912799abba008f98c26d8c354aabe1a66410b33726cae69c10f64a62d064"
+  },
+  {
+    "id": "09a_network_composition_standardization__composition_weight_diagnostics",
+    "original_path": "outputs/09_price_architecture/09a_network_composition_standardization/composition_weight_diagnostics.csv",
+    "package_path": "data/reference/historical/09a_network_composition_standardization/composition_weight_diagnostics.csv",
+    "sha256": "0e76628f14d476a020906b6a0719cb601cb3b5dfc7532c1edeb904271330de0f"
+  },
+  {
+    "id": "09a_network_composition_standardization__fig_raw_fixed_standardized_dispersion_source",
+    "original_path": "outputs/09_price_architecture/09a_network_composition_standardization/fig_raw_fixed_standardized_dispersion_source.csv",
+    "package_path": "data/reference/historical/09a_network_composition_standardization/fig_raw_fixed_standardized_dispersion_source.csv",
+    "sha256": "277609f2ba8804260cbec8f98cc591a3a76cc32a3896cd27f52a14ae8be14b72"
+  },
+  {
+    "id": "09a_network_composition_standardization__module_c_claim_evidence_matrix",
+    "original_path": "outputs/09_price_architecture/09a_network_composition_standardization/module_c_claim_evidence_matrix.csv",
+    "package_path": "data/reference/historical/09a_network_composition_standardization/module_c_claim_evidence_matrix.csv",
+    "sha256": "72ba7b1b5685a41531fa7401f1b93607d01f17183a3d83b91e29099a139299d4"
+  },
+  {
+    "id": "09a_network_composition_standardization__propensity_overlap_by_layer",
+    "original_path": "outputs/09_price_architecture/09a_network_composition_standardization/propensity_overlap_by_layer.csv",
+    "package_path": "data/reference/historical/09a_network_composition_standardization/propensity_overlap_by_layer.csv",
+    "sha256": "83b7d651dce651f54d6391724be9937652a884efb263e764bfe7a0b531c2ac4f"
+  },
+  {
+    "id": "09a_network_composition_standardization__raw_fixed_standardized_comparison",
+    "original_path": "outputs/09_price_architecture/09a_network_composition_standardization/raw_fixed_standardized_comparison.csv",
+    "package_path": "data/reference/historical/09a_network_composition_standardization/raw_fixed_standardized_comparison.csv",
+    "sha256": "acf648371e3373ffa84a2bf856d091849afd831b00e5041b5b36b3caffc3e9f3"
+  },
+  {
+    "id": "09a_network_composition_standardization__support_selection_average_marginal_effects",
+    "original_path": "outputs/09_price_architecture/09a_network_composition_standardization/support_selection_average_marginal_effects.csv",
+    "package_path": "data/reference/historical/09a_network_composition_standardization/support_selection_average_marginal_effects.csv",
+    "sha256": "3d2d8ad376125ae1aa388f84fd16015e6b39eeae6e0b44b545b8c5449cc244b0"
+  },
+  {
+    "id": "09a_network_composition_standardization__support_selection_model",
+    "original_path": "outputs/09_price_architecture/09a_network_composition_standardization/support_selection_model.csv",
+    "package_path": "data/reference/historical/09a_network_composition_standardization/support_selection_model.csv",
+    "sha256": "e7310ab9b0adcd956d7e86f67f80209e24b838684fc677c3a6d194a1fef94cce"
+  },
+  {
+    "id": "09a_network_composition_standardization__table_composition_selection_and_overlap",
+    "original_path": "outputs/09_price_architecture/09a_network_composition_standardization/table_composition_selection_and_overlap.csv",
+    "package_path": "data/reference/historical/09a_network_composition_standardization/table_composition_selection_and_overlap.csv",
+    "sha256": "864ca35edd85cca85a191c7a8752aea6c479fdb32015bc7fb27000f8b31d2660"
+  },
+  {
+    "id": "09a_network_composition_standardization__table_raw_fixed_standardized_results",
+    "original_path": "outputs/09_price_architecture/09a_network_composition_standardization/table_raw_fixed_standardized_results.csv",
+    "package_path": "data/reference/historical/09a_network_composition_standardization/table_raw_fixed_standardized_results.csv",
+    "sha256": "8fd2db704284f36943f3536f48f519b649196c2896c9f09c685b7f0b98ae328c"
+  },
+  {
+    "id": "09a_network_composition_standardization__target_frame_flow",
+    "original_path": "outputs/09_price_architecture/09a_network_composition_standardization/target_frame_flow.csv",
+    "package_path": "data/reference/historical/09a_network_composition_standardization/target_frame_flow.csv",
+    "sha256": "a5f7dca841c593c166ccc73a983dc0c06ddc30a278be2bef370aea68d2217a68"
+  },
+  {
+    "id": "final_figure_table_visual_correction_only__visual_sources__appendix_figure_a3_frozen_source",
+    "original_path": "outputs/09_price_architecture/final_figure_table_visual_correction_only/visual_sources/appendix_figure_a3_frozen_source.csv",
+    "package_path": "data/reference/historical/final_figure_table_visual_correction_only/visual_sources/appendix_figure_a3_frozen_source.csv",
+    "sha256": "67d145af2c542eb90427aea6c130913142412ac094170d8e3f50c080f5bc9571"
+  },
+  {
+    "id": "final_figure_table_visual_correction_only__visual_sources__figure_3_multilevel_decomposition_frozen_source",
+    "original_path": "outputs/09_price_architecture/final_figure_table_visual_correction_only/visual_sources/figure_3_multilevel_decomposition_frozen_source.csv",
+    "package_path": "data/reference/historical/final_figure_table_visual_correction_only/visual_sources/figure_3_multilevel_decomposition_frozen_source.csv",
+    "sha256": "5d323dbc3af04e470c8cae4d5993c122d2edb16ce7edea983ab2232d007ab02c"
+  },
+  {
+    "id": "final_figure_table_visual_correction_only__visual_sources__figure_5_activity_exposure_frozen_source",
+    "original_path": "outputs/09_price_architecture/final_figure_table_visual_correction_only/visual_sources/figure_5_activity_exposure_frozen_source.csv",
+    "package_path": "data/reference/historical/final_figure_table_visual_correction_only/visual_sources/figure_5_activity_exposure_frozen_source.csv",
+    "sha256": "5e525c02c2ac316f5cca00820a9c02529940b53dca93825a12776024ca40e8d6"
+  },
+  {
+    "id": "focused_manuscript_revision_20260914__analysis_results__e2_reporting__scenario_summary",
+    "original_path": "outputs/09_price_architecture/focused_manuscript_revision_20260914/analysis_results/e2_reporting/scenario_summary.csv",
+    "package_path": "data/reference/historical/focused_manuscript_revision/analysis_results/e2_reporting/scenario_summary.csv",
+    "sha256": "af013ab75ba24fd2dbab27943f2864c62a2c5f5895e7a3cdb40062ac441e6ef1"
+  },
+  {
+    "id": "measurement_bounded_validation_20260913__joint_chain__formal__paired_performance",
+    "original_path": "outputs/09_price_architecture/measurement_bounded_validation_20260913/joint_chain/formal/paired_performance.csv",
+    "package_path": "data/reference/historical/measurement_bounded_validation/joint_chain/formal/paired_performance.csv",
+    "sha256": "c81501d449ed350101d3857b65828ae44c21bafe84d41592fdbd62c42c71cfeb"
+  },
+  {
+    "id": "measurement_bounded_validation_20260913__joint_chain__formal__performance_summary",
+    "original_path": "outputs/09_price_architecture/measurement_bounded_validation_20260913/joint_chain/formal/performance_summary.csv",
+    "package_path": "data/reference/historical/measurement_bounded_validation/joint_chain/formal/performance_summary.csv",
+    "sha256": "a66598904d81bb01d420a86fd8aa7f4a79b6a1fd8871a09da3c63d75cb5fae39"
+  },
+  {
+    "id": "measurement_framework_empirical_extension_20260913__a1__activity_coverage",
+    "original_path": "outputs/09_price_architecture/measurement_framework_empirical_extension_20260913/a1/activity_coverage.csv",
+    "package_path": "data/reference/historical/support_and_weighting/a1/activity_coverage.csv",
+    "sha256": "580fc460608de00ac155d5214ae60197799f981c4d2da3435949d181ff70ceb3"
+  },
+  {
+    "id": "measurement_framework_empirical_extension_20260913__a1__all_grid_menu_coverage",
+    "original_path": "outputs/09_price_architecture/measurement_framework_empirical_extension_20260913/a1/all_grid_menu_coverage.csv",
+    "package_path": "data/reference/historical/support_and_weighting/a1/all_grid_menu_coverage.csv",
+    "sha256": "eea8ded167dcdb11f3c3f80d0c2b4286138ab09c54684954660f54d7cec6a853"
+  },
+  {
+    "id": "measurement_framework_empirical_extension_20260913__a1__complete_profiles",
+    "original_path": "outputs/09_price_architecture/measurement_framework_empirical_extension_20260913/a1/complete_profiles.csv",
+    "package_path": "data/reference/historical/support_and_weighting/a1/complete_profiles.csv",
+    "sha256": "b351ba4347b6fdf6169258f5d4a98cf6a5ba401b1d63c134967d104eec226535"
+  },
+  {
+    "id": "measurement_framework_empirical_extension_20260913__a1__coverage_by_layer",
+    "original_path": "outputs/09_price_architecture/measurement_framework_empirical_extension_20260913/a1/coverage_by_layer.csv",
+    "package_path": "data/reference/historical/support_and_weighting/a1/coverage_by_layer.csv",
+    "sha256": "96b0b293c2d755215ecd7421286cfc064e133ea12e613dc5825c174c374335e6"
+  },
+  {
+    "id": "measurement_framework_empirical_extension_20260913__a1__coverage_by_month",
+    "original_path": "outputs/09_price_architecture/measurement_framework_empirical_extension_20260913/a1/coverage_by_month.csv",
+    "package_path": "data/reference/historical/support_and_weighting/a1/coverage_by_month.csv",
+    "sha256": "f412a852ce066fe02d1e2a3bbddfdb80a256a50495e58634178352c0b0bd43ef"
+  },
+  {
+    "id": "measurement_framework_empirical_extension_20260913__a1__geometry",
+    "original_path": "outputs/09_price_architecture/measurement_framework_empirical_extension_20260913/a1/geometry.csv",
+    "package_path": "data/reference/historical/support_and_weighting/a1/geometry.csv",
+    "sha256": "0d61c7a17afa9839fc2c8e0653fb702ed33a0334cde14123f2905bc509a4c5e4"
+  },
+  {
+    "id": "measurement_framework_empirical_extension_20260913__a1__group_contrasts",
+    "original_path": "outputs/09_price_architecture/measurement_framework_empirical_extension_20260913/a1/group_contrasts.csv",
+    "package_path": "data/reference/historical/support_and_weighting/a1/group_contrasts.csv",
+    "sha256": "8707bfe10c7db829da5eaee07da01d399558924ace2fb542539bdb2933a33ee0"
+  },
+  {
+    "id": "measurement_framework_empirical_extension_20260913__a1__group_feature_summaries",
+    "original_path": "outputs/09_price_architecture/measurement_framework_empirical_extension_20260913/a1/group_feature_summaries.csv",
+    "package_path": "data/reference/historical/support_and_weighting/a1/group_feature_summaries.csv",
+    "sha256": "64d49ab8ac64758f7dcc107b6f2914415762a652e4d4dc8410bd34a932f1ee6f"
+  },
+  {
+    "id": "measurement_framework_empirical_extension_20260913__a1__resolution_comparison",
+    "original_path": "outputs/09_price_architecture/measurement_framework_empirical_extension_20260913/a1/resolution_comparison.csv",
+    "package_path": "data/reference/historical/support_and_weighting/a1/resolution_comparison.csv",
+    "sha256": "da58df21a5720102165ffba31f12c29c920810a8ead5053afd2fd61b88a1657c"
+  },
+  {
+    "id": "measurement_framework_empirical_extension_20260913__a1__station_neighbor_diagnostics",
+    "original_path": "outputs/09_price_architecture/measurement_framework_empirical_extension_20260913/a1/station_neighbor_diagnostics.csv",
+    "package_path": "data/reference/historical/support_and_weighting/a1/station_neighbor_diagnostics.csv",
+    "sha256": "ae10a3c4a6fb25fc80c4a956ffb8c959110ef37068bcf64ec22dc1722b6d4564"
+  },
+  {
+    "id": "measurement_framework_empirical_extension_20260913__a3__a3_marginal_intervals",
+    "original_path": "outputs/09_price_architecture/measurement_framework_empirical_extension_20260913/a3/a3_marginal_intervals.csv",
+    "package_path": "data/reference/historical/support_and_weighting/a3/a3_marginal_intervals.csv",
+    "sha256": "59275b912a1c50c494100e896ff877ff514de593172e21fa2d5215ea16599bb2"
+  },
+  {
+    "id": "measurement_framework_empirical_extension_20260913__a3__a3_progress_log",
+    "original_path": "outputs/09_price_architecture/measurement_framework_empirical_extension_20260913/a3/a3_progress_log.csv",
+    "package_path": "data/reference/historical/support_and_weighting/a3/a3_progress_log.csv",
+    "sha256": "8773520168f2269cb6983fabf1233a2fbac160d6731e4c952dfd220ae892e915"
+  },
+  {
+    "id": "measurement_framework_empirical_extension_20260913__a3__independent_draw_checks",
+    "original_path": "outputs/09_price_architecture/measurement_framework_empirical_extension_20260913/a3/independent_draw_checks.csv",
+    "package_path": "data/reference/historical/support_and_weighting/a3/independent_draw_checks.csv",
+    "sha256": "50b8260e9648133aaa8ce59295deb40d4027031cf1c8757e15f7163d50a91a1f"
+  },
+  {
+    "id": "measurement_framework_empirical_extension_20260913__a3__quantile_stability_diagnostic",
+    "original_path": "outputs/09_price_architecture/measurement_framework_empirical_extension_20260913/a3/quantile_stability_diagnostic.csv",
+    "package_path": "data/reference/historical/support_and_weighting/a3/quantile_stability_diagnostic.csv",
+    "sha256": "4bac17490e8c3690589bf43b52a98fffd859889b1b54852f7e72dc5a56642c4e"
+  },
+  {
+    "id": "measurement_inference_improvement_20260913__covariance__empirical__moment_influence_concentration",
+    "original_path": "outputs/09_price_architecture/measurement_inference_improvement_20260913/covariance/empirical/moment_influence_concentration.csv",
+    "package_path": "data/reference/historical/inference_experiments/covariance/empirical/moment_influence_concentration.csv",
+    "sha256": "def284651ff0b52e85c6af4ddfa1d7726f754033e79e067681f903de414274c9"
+  },
+  {
+    "id": "measurement_inference_improvement_20260913__covariance__empirical__moment_intervals",
+    "original_path": "outputs/09_price_architecture/measurement_inference_improvement_20260913/covariance/empirical/moment_intervals.csv",
+    "package_path": "data/reference/historical/inference_experiments/covariance/empirical/moment_intervals.csv",
+    "sha256": "ee8e9116a55ffd3528d100d4de70815b2a871f5d373edc1fafebd6f31c7d869c"
+  },
+  {
+    "id": "measurement_inference_improvement_20260913__covariance__empirical__posthoc_station_deletion_diagnostic",
+    "original_path": "outputs/09_price_architecture/measurement_inference_improvement_20260913/covariance/empirical/posthoc_station_deletion_diagnostic.csv",
+    "package_path": "data/reference/historical/inference_experiments/covariance/empirical/posthoc_station_deletion_diagnostic.csv",
+    "sha256": "72b783c712e1a6b8f63b0e5c98eecbc3d6c3674b0940d5e8c9e782356e53baa1"
+  },
+  {
+    "id": "measurement_inference_improvement_20260913__covariance__empirical__profile_intervals",
+    "original_path": "outputs/09_price_architecture/measurement_inference_improvement_20260913/covariance/empirical/profile_intervals.csv",
+    "package_path": "data/reference/historical/inference_experiments/covariance/empirical/profile_intervals.csv",
+    "sha256": "e6a28942f61691d7bc29c2accef163e7b84e9bbe65ac464489528e38cd2b7442"
+  },
+  {
+    "id": "measurement_inference_improvement_20260913__covariance__empirical__station_share_method_comparison",
+    "original_path": "outputs/09_price_architecture/measurement_inference_improvement_20260913/covariance/empirical/station_share_method_comparison.csv",
+    "package_path": "data/reference/historical/inference_experiments/covariance/empirical/station_share_method_comparison.csv",
+    "sha256": "eddc14eda58e9cc73dd7be1ee9fba9bd04ddeee7981f5b87a98fb3ed2b81743d"
+  },
+  {
+    "id": "measurement_inference_improvement_20260913__covariance__empirical__support_pattern_moments",
+    "original_path": "outputs/09_price_architecture/measurement_inference_improvement_20260913/covariance/empirical/support_pattern_moments.csv",
+    "package_path": "data/reference/historical/inference_experiments/covariance/empirical/support_pattern_moments.csv",
+    "sha256": "fb0a2595aff9030ade499685645cc1031a395b837169a5ec7100c148c6cda8fa"
+  },
+  {
+    "id": "measurement_inference_improvement_20260913__covariance__formal__coverage_summary",
+    "original_path": "outputs/09_price_architecture/measurement_inference_improvement_20260913/covariance/formal/coverage_summary.csv",
+    "package_path": "data/reference/historical/inference_experiments/covariance/formal/coverage_summary.csv",
+    "sha256": "f97d2f73038ab9d458a63cdaad92ad1ff6a353071d58511d6db3d4fdd78923f2"
+  },
+  {
+    "id": "measurement_inference_improvement_20260913__covariance__formal__moment_coverage_summary",
+    "original_path": "outputs/09_price_architecture/measurement_inference_improvement_20260913/covariance/formal/moment_coverage_summary.csv",
+    "package_path": "data/reference/historical/inference_experiments/covariance/formal/moment_coverage_summary.csv",
+    "sha256": "f717f6d9392c759a64345a6b42e7bd75f810ceb0664acd03aa324719216ec445"
+  },
+  {
+    "id": "measurement_inference_improvement_20260913__latent__formal__performance",
+    "original_path": "outputs/09_price_architecture/measurement_inference_improvement_20260913/latent/formal/performance.csv",
+    "package_path": "data/reference/historical/inference_experiments/latent/formal/performance.csv",
+    "sha256": "a82dbc24216096594e1ae7ec4d86abacd907244dd8bea8724fa249c5fc6a2602"
+  },
+  {
+    "id": "measurement_integration_20260913__a2__a2_permutation_reference_summary",
+    "original_path": "outputs/09_price_architecture/measurement_integration_20260913/a2/a2_permutation_reference_summary.csv",
+    "package_path": "data/reference/historical/component_pairing/a2/a2_permutation_reference_summary.csv",
+    "sha256": "bc4bd9fb54234e7c38a0c0af89629ae20aef8f69a566a5d0426429723730364a"
+  },
+  {
+    "id": "measurement_integration_20260913__a2__a2_point_dispersion",
+    "original_path": "outputs/09_price_architecture/measurement_integration_20260913/a2/a2_point_dispersion.csv",
+    "package_path": "data/reference/historical/component_pairing/a2/a2_point_dispersion.csv",
+    "sha256": "2a400f5b2281304bd074fa32677ef3c1ac5d7e1b2ac27cd6d8d5482bfa36dedc"
+  },
+  {
+    "id": "measurement_integration_20260913__a2__a2_progress",
+    "original_path": "outputs/09_price_architecture/measurement_integration_20260913/a2/a2_progress.csv",
+    "package_path": "data/reference/historical/component_pairing/a2/a2_progress.csv",
+    "sha256": "1f1877f1909ab133f9ede8088934ffe9c9aff1053eb61d07602ee9eedc2fd01f"
+  },
+  {
+    "id": "measurement_integration_20260913__a2__a2_winsorized_sensitivity",
+    "original_path": "outputs/09_price_architecture/measurement_integration_20260913/a2/a2_winsorized_sensitivity.csv",
+    "package_path": "data/reference/historical/component_pairing/a2/a2_winsorized_sensitivity.csv",
+    "sha256": "bdb593ea6e081c65a8da18d1f4fe813ed0eddf36dec6e51fa0062fedfe17567b"
+  },
+  {
+    "id": "measurement_integration_20260913__formation__formation_cohort_reconstruction",
+    "original_path": "outputs/09_price_architecture/measurement_integration_20260913/formation/formation_cohort_reconstruction.csv",
+    "package_path": "data/reference/historical/component_pairing/formation/formation_cohort_reconstruction.csv",
+    "sha256": "0e30c56e127cd5dc852ad8542ed90e61832bc59d3bf43ae85bff890f389dea41"
+  },
+  {
+    "id": "measurement_integration_20260913__formation__formation_integration_summary",
+    "original_path": "outputs/09_price_architecture/measurement_integration_20260913/formation/formation_integration_summary.csv",
+    "package_path": "data/reference/historical/component_pairing/formation/formation_integration_summary.csv",
+    "sha256": "00b41f3c725dd3710e608cf27da3bc29a788f72a4cbbbe95995aac7f9415627e"
+  },
+  {
+    "id": "measurement_integration_20260913__formation__formation_support_counts",
+    "original_path": "outputs/09_price_architecture/measurement_integration_20260913/formation/formation_support_counts.csv",
+    "package_path": "data/reference/historical/component_pairing/formation/formation_support_counts.csv",
+    "sha256": "9b654803e1677a8516561da11ec4808cb49dbfa285c761de9a75fe5e02b363fe"
+  },
+  {
+    "id": "measurement_validation_20260913__v1__v1_fixed_A_availability",
+    "original_path": "outputs/09_price_architecture/measurement_validation_20260913/v1/v1_fixed_A_availability.csv",
+    "package_path": "data/reference/historical/window_and_mixture_validation/v1/v1_fixed_A_availability.csv",
+    "sha256": "a53114eb3d9f39553a7ef2d1c8ec0f4b6d928379fac54dae5da2af8d4089f876"
+  },
+  {
+    "id": "measurement_validation_20260913__v1__v1_fixed_A_classification_transitions",
+    "original_path": "outputs/09_price_architecture/measurement_validation_20260913/v1/v1_fixed_A_classification_transitions.csv",
+    "package_path": "data/reference/historical/window_and_mixture_validation/v1/v1_fixed_A_classification_transitions.csv",
+    "sha256": "94aa8ef50a453fe149d2598620249e0d6f12abda8fc0dbbe03b60788fb2a0799"
+  },
+  {
+    "id": "measurement_validation_20260913__v1__v1_fixed_A_composition_medians",
+    "original_path": "outputs/09_price_architecture/measurement_validation_20260913/v1/v1_fixed_A_composition_medians.csv",
+    "package_path": "data/reference/historical/window_and_mixture_validation/v1/v1_fixed_A_composition_medians.csv",
+    "sha256": "7a60623e65d8e37dfa7df85c4aee2b215be73db6dd7db25d7a159ce95e7a0ed6"
+  },
+  {
+    "id": "measurement_validation_20260913__v1__v1_fixed_A_paired_half_errors",
+    "original_path": "outputs/09_price_architecture/measurement_validation_20260913/v1/v1_fixed_A_paired_half_errors.csv",
+    "package_path": "data/reference/historical/window_and_mixture_validation/v1/v1_fixed_A_paired_half_errors.csv",
+    "sha256": "7fb1f98e1865d8ed4b3fb1d16c62f85fe84c4ec9b670e403875baafdf902e266"
+  },
+  {
+    "id": "measurement_validation_20260913__v1__v1_native_two_endpoint_support",
+    "original_path": "outputs/09_price_architecture/measurement_validation_20260913/v1/v1_native_two_endpoint_support.csv",
+    "package_path": "data/reference/historical/window_and_mixture_validation/v1/v1_native_two_endpoint_support.csv",
+    "sha256": "e63f1b7cbd3df756b7fd8642ad7c2479587dcf1d05cfc5e05f0fb287b648e7bf"
+  },
+  {
+    "id": "measurement_validation_20260913__v1__v1_root_distribution_diagnostics",
+    "original_path": "outputs/09_price_architecture/measurement_validation_20260913/v1/v1_root_distribution_diagnostics.csv",
+    "package_path": "data/reference/historical/window_and_mixture_validation/v1/v1_root_distribution_diagnostics.csv",
+    "sha256": "df5e722a5b5e1af3fb1454fc2c82322f16a54551ecbcf169ccece18585681b80"
+  },
+  {
+    "id": "measurement_validation_20260913__v1__v1_unsupported_fields",
+    "original_path": "outputs/09_price_architecture/measurement_validation_20260913/v1/v1_unsupported_fields.csv",
+    "package_path": "data/reference/historical/window_and_mixture_validation/v1/v1_unsupported_fields.csv",
+    "sha256": "d9a69df19f949c86ae56bf46ee3c4be393ae5a43c1de96639a27b2adac57da28"
+  },
+  {
+    "id": "measurement_validation_20260913__v2__formal__adaptive_scenario16_summary",
+    "original_path": "outputs/09_price_architecture/measurement_validation_20260913/v2/formal/adaptive_scenario16_summary.csv",
+    "package_path": "data/reference/historical/window_and_mixture_validation/v2/formal/adaptive_scenario16_summary.csv",
+    "sha256": "28bbb36122c0f698bb5145061ca62b45e0a65e61538d13fdfbf71ec5d96f6a2c"
+  },
+  {
+    "id": "measurement_validation_20260913__v2__formal__inner_endpoint_diagnostic",
+    "original_path": "outputs/09_price_architecture/measurement_validation_20260913/v2/formal/inner_endpoint_diagnostic.csv",
+    "package_path": "data/reference/historical/window_and_mixture_validation/v2/formal/inner_endpoint_diagnostic.csv",
+    "sha256": "182434a3fb199cd4d23ac4617ee338dd16d521a635fd4a5015c8c536acad8e04"
+  },
+  {
+    "id": "measurement_validation_20260913__v2__formal__inner_endpoint_summary",
+    "original_path": "outputs/09_price_architecture/measurement_validation_20260913/v2/formal/inner_endpoint_summary.csv",
+    "package_path": "data/reference/historical/window_and_mixture_validation/v2/formal/inner_endpoint_summary.csv",
+    "sha256": "61f7bd702afdd8279d6c628405db53c8e542e0746ee2058974d34f8b065bc6d8"
+  },
+  {
+    "id": "measurement_validation_20260913__v2__formal__performance_summary",
+    "original_path": "outputs/09_price_architecture/measurement_validation_20260913/v2/formal/performance_summary.csv",
+    "package_path": "data/reference/historical/window_and_mixture_validation/v2/formal/performance_summary.csv",
+    "sha256": "60b6392f1e1ba7735f8a98896efaa550b8485c8f168fdba558a79d52a8b3c248"
+  },
+  {
+    "id": "measurement_validation_20260913__v2__formal__population_truth",
+    "original_path": "outputs/09_price_architecture/measurement_validation_20260913/v2/formal/population_truth.csv",
+    "package_path": "data/reference/historical/window_and_mixture_validation/v2/formal/population_truth.csv",
+    "sha256": "ed569031bc213735f541376e618ddd565c35c78a5179a63d692d8bae751830f3"
+  },
+  {
+    "id": "measurement_validation_20260913__v2__formal__progress",
+    "original_path": "outputs/09_price_architecture/measurement_validation_20260913/v2/formal/progress.csv",
+    "package_path": "data/reference/historical/window_and_mixture_validation/v2/formal/progress.csv",
+    "sha256": "fd032318e8ee92505698395a63d0a208c7f89a65770c41b61a103d2cad245a71"
+  },
+  {
+    "id": "measurement_validation_20260913__v2__formal__scenarios",
+    "original_path": "outputs/09_price_architecture/measurement_validation_20260913/v2/formal/scenarios.csv",
+    "package_path": "data/reference/historical/window_and_mixture_validation/v2/formal/scenarios.csv",
+    "sha256": "dc9133568cbb78554b1eba6397fddc5abf0394de2b9674f6476c516461a42f7b"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__aggregation_residual_sensitivity",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/aggregation_residual_sensitivity.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/aggregation_residual_sensitivity.csv",
+    "sha256": "e346901d4f3e184027ebd0acd5f21276a716863a111c17e50db3cc0ec9c3f06b"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__appendix_figure_a5_source",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/appendix_figure_a5_source.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/appendix_figure_a5_source.csv",
+    "sha256": "d016ccf95bef586ee0f8e8d5dda4f8f5ae2ecc0709d58ecbb9a49b258ffe2d11"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__benchmark_information_gain",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/benchmark_information_gain.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/benchmark_information_gain.csv",
+    "sha256": "02cec0ae2b42fce1fd0fb029129f5c293247dd716bcc3510827147862e8e739f"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__common_population_magnitude",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/common_population_magnitude.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/common_population_magnitude.csv",
+    "sha256": "c98f9a2cc5a992347e3bbd712b632695e5edb23973d0d179e9f6cb05024407d1"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__component_discrepancy_screen",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/component_discrepancy_screen.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/component_discrepancy_screen.csv",
+    "sha256": "e1dee08414ca76a09060ed2436a75fe688255a3642dac6ca05c2bacb645b133c"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__covariance_boundary_diagnostics",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/covariance_boundary_diagnostics.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/covariance_boundary_diagnostics.csv",
+    "sha256": "3bb1bc7c72863f3c3fa3940ab392f470344417d420ea6838a378a2092057762a"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__covariance_interval_comparison",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/covariance_interval_comparison.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/covariance_interval_comparison.csv",
+    "sha256": "416b91dcf2d2907e8a53c7e400b3527a5f159f4059faee7642e13f2fec6c78cc"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__covariance_sensitivity",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/covariance_sensitivity.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/covariance_sensitivity.csv",
+    "sha256": "a248a2a1c78754f1474c066d60c533c9ffae3a5307d80fd88fd211fa20315b69"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__denominator_bridge",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/denominator_bridge.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/denominator_bridge.csv",
+    "sha256": "008491b8baa101be8996b83d7d964bb3b941725e6dfce93ec18601e899791f75"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__denominator_bridge_threshold_sensitivity",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/denominator_bridge_threshold_sensitivity.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/denominator_bridge_threshold_sensitivity.csv",
+    "sha256": "a348aef675e40d2e7a762ba8427c4a16e2d9398b8ed9f08e12813b8378738750"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__figure_4_source",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/figure_4_source.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/figure_4_source.csv",
+    "sha256": "2e2b0e1c9a40a3568dc8245e4f610b9b7db68e1ee841f3ccb156d36792c2e9a0"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__figure_5_source",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/figure_5_source.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/figure_5_source.csv",
+    "sha256": "63eb04073ce8466784ab67f0364ae7074c0ebc7649fdd458b72f688c90ea2310"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__figure_6_source",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/figure_6_source.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/figure_6_source.csv",
+    "sha256": "52626e8e9db8b108d9d9405ca4f987258a9a6c1ca6d877a9d5039236e53b7636"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__figure_7_source",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/figure_7_source.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/figure_7_source.csv",
+    "sha256": "e1dee08414ca76a09060ed2436a75fe688255a3642dac6ca05c2bacb645b133c"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__model_fit_diagnostics",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/model_fit_diagnostics.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/model_fit_diagnostics.csv",
+    "sha256": "f25e8af25f75db77c130331a22f37729559e536b84d0dd59d4c521b0743cbade"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__monitoring_screen",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/monitoring_screen.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/monitoring_screen.csv",
+    "sha256": "6cbe79d50aac416b67f02810173a9ff20bcbeb4a922b034ea6a7a32e764f61b0"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__quantile_sensitivity",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/quantile_sensitivity.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/quantile_sensitivity.csv",
+    "sha256": "c4d545ef9e687730666ed593bca14cd892577ba39768e5c097231d426c768411"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__quantile_sensitivity_point_estimates",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/quantile_sensitivity_point_estimates.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/quantile_sensitivity_point_estimates.csv",
+    "sha256": "a9cb951b7d6cf7fa70a46982fde33a8d58695093c594fddb236659b605b78051"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__reconstruction_stability",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/reconstruction_stability.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/reconstruction_stability.csv",
+    "sha256": "8b667236593afff620df24645c83d1f21a9664af9d6a065a34ca5efdae6f571d"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__repeatability_ratio_uncertainty",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/repeatability_ratio_uncertainty.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/repeatability_ratio_uncertainty.csv",
+    "sha256": "0b05107c64b1f46f1d66ec8fdff33b1ac785a49ca9ed82323816cbc913a5cb8f"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__reused_cross_boundary_cross_boundary_exclusion_by_pure_tou_boundary",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/reused_cross_boundary_cross_boundary_exclusion_by_pure_tou_boundary.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/reused_cross_boundary_cross_boundary_exclusion_by_pure_tou_boundary.csv",
+    "sha256": "9675ae335ff10a860ece07d98d99c0dd7ff0b31c452eed5dab099ebe75ef61bb"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__reused_cross_boundary_direct_station_attribute_comparison",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/reused_cross_boundary_direct_station_attribute_comparison.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/reused_cross_boundary_direct_station_attribute_comparison.csv",
+    "sha256": "81b00e4e22982d25939b358ef8840835f3dbfabd97ebfa42e00be47371c25788"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__reused_cross_boundary_included_vs_excluded_session_profile",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/reused_cross_boundary_included_vs_excluded_session_profile.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/reused_cross_boundary_included_vs_excluded_session_profile.csv",
+    "sha256": "ade6346d26e0828bfb2a57e019b88d91013cae758c5a9171ac7bc418ef3953c7"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__reused_cross_boundary_session_classification_summary",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/reused_cross_boundary_session_classification_summary.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/reused_cross_boundary_session_classification_summary.csv",
+    "sha256": "520890b36e40fb4831636cb8a43f56489b0dbe80fd80369145812989be53e56c"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__reused_cross_boundary_unique_first_boundary_reconciliation",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/reused_cross_boundary_unique_first_boundary_reconciliation.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/reused_cross_boundary_unique_first_boundary_reconciliation.csv",
+    "sha256": "56cf30648336312f6827b66cb71b1c99b3553f835188fa380dad7e815a7ef7f2"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__selected_activity_contrasts",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/selected_activity_contrasts.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/selected_activity_contrasts.csv",
+    "sha256": "c0dc64e613e49757471736553ff0ec4a3b7f607dd3a503ddf23e3dc5a05db392"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__selected_activity_estimates",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/selected_activity_estimates.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/selected_activity_estimates.csv",
+    "sha256": "c98f9a2cc5a992347e3bbd712b632695e5edb23973d0d179e9f6cb05024407d1"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__shared_segment_diagnostic",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/shared_segment_diagnostic.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/shared_segment_diagnostic.csv",
+    "sha256": "e0ac4dcaecba3816a73fc2e857a89596dfc44a0f8a47429cdf8c89b33701de58"
+  },
+  {
+    "id": "post_review_r4_verified_revision_20260912__analysis_results__weight_concentration_diagnostics",
+    "original_path": "outputs/09_price_architecture/post_review_r4_verified_revision_20260912/analysis_results/weight_concentration_diagnostics.csv",
+    "package_path": "data/reference/historical/robustness_checks/analysis_results/weight_concentration_diagnostics.csv",
+    "sha256": "7c5d1df17c41e83649bae2e263c452673b89614ca213912ee1bee8ae7f5e768d"
+  },
+  {
+    "id": "urbanev_external_analysis_20260913__e1_layers",
+    "original_path": "outputs/09_price_architecture/urbanev_external_analysis_20260913/e1_layers.csv",
+    "package_path": "data/reference/historical/urbanev/e1_layers.csv",
+    "sha256": "af8bc71c5e44116434e9a8cec5f90baf16263a351c3c4d80c1cc2c1d5cebf4e9"
+  },
+  {
+    "id": "urbanev_external_analysis_20260913__e2__scenario_summary",
+    "original_path": "outputs/09_price_architecture/urbanev_external_analysis_20260913/e2/scenario_summary.csv",
+    "package_path": "data/reference/historical/urbanev/e2/scenario_summary.csv",
+    "sha256": "fe8cb8b16c3dc185565a860a2960c8a39e40a7b4c19bfbafae0fa6f35f4ced03"
+  },
+  {
+    "id": "urbanev_external_analysis_20260913__e3_conditions",
+    "original_path": "outputs/09_price_architecture/urbanev_external_analysis_20260913/e3_conditions.csv",
+    "package_path": "data/reference/historical/urbanev/e3_conditions.csv",
+    "sha256": "8a07442fe1dfe61965f15830664d93e6e5849f49edce497186cb3d0df67dc176"
+  },
+  {
+    "id": "urbanev_external_analysis_20260913__natural_support_comparison",
+    "original_path": "outputs/09_price_architecture/urbanev_external_analysis_20260913/natural_support_comparison.csv",
+    "package_path": "data/reference/historical/urbanev/natural_support_comparison.csv",
+    "sha256": "7bf819dfe10b958f871c4d7788e1024545e5cf1ee5c165b9fa19260529965e87"
+  }
+]

@@ -1,0 +1,4 @@
+case,removed_stations,remaining_stations,remaining_rows,MOM_valid,REML_valid,MOM_station_raw_share,REML_station_share
+full_R,0,2216,7531,True,True,0.2140771950700578,0.3359327542522591
+leave_largest_MOM_station_influence,1,2215,7523,True,True,0.19370970054431982,0.39721789116374395
+leave_top_one_percent_MOM_station_influence,23,2193,7402,True,True,0.16708767934981303,0.37645690378765484

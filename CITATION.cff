@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite this software and the underlying datasets when using these analyses."
+type: software
+title: "EV-Charing: Component-resolved measurement of time-of-use prices for public charging assessment"
+authors:
+  - family-names: Gao
+    given-names: Dongsheng
+  - family-names: Hu
+    given-names: Junjie
+  - family-names: Lee
+    given-names: Jaeyoung Jay
+repository-code: "https://github.com/superGDS/EV-Charing"
+url: "https://github.com/superGDS/EV-Charing"
+license: MIT
+keywords:
+  - electric vehicle charging
+  - time-of-use prices
+  - measurement
+  - reproducibility

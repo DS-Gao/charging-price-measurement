@@ -1,0 +1,10 @@
+phase,scenario,replicate,seed,metric,method,cutoff,valid_interval,point,lower,upper,lower_status,upper_status,disconnected,truth,profile_evaluations,grid_invalid_evaluations,dataset_runtime_seconds
+empirical,-1,-1,,station_marginal_share,chi2_1,3.841459,True,0.3359327542522591,0.3046041619215542,0.3677774779174079,brentq,brentq,False,,50,1,24.26928330003284
+empirical,-1,-1,,station_marginal_share,grid_calibrated_pointwise,4.2578683589999855,True,0.3359327542522591,0.30296842463197204,0.36946832722605877,brentq,brentq,False,,50,1,24.269285499991383
+empirical,-1,-1,,station_marginal_share,grid_calibrated_simultaneous,6.9958269329763425,True,0.3359327542522591,0.2938208736776813,0.3789823518420613,brentq,brentq,False,,50,1,24.269286299997475
+empirical,-1,-1,,shared_segment_marginal_share,chi2_1,3.841459,True,0.6640672457477409,0.6322225220826249,0.6953958380589015,brentq,brentq,False,,50,0,24.26928670000052
+empirical,-1,-1,,shared_segment_marginal_share,grid_calibrated_pointwise,5.899914119752793,True,0.6640672457477409,0.6245531908376061,0.7027893365532851,brentq,brentq,False,,49,0,24.269287100003567
+empirical,-1,-1,,shared_segment_marginal_share,grid_calibrated_simultaneous,6.9958269329763425,True,0.6640672457477409,0.6210176481579296,0.7061791263429622,brentq,brentq,False,,50,0,24.269287500006612
+empirical,-1,-1,,independent_residual_marginal_share,chi2_1,3.841459,True,0.0,0.0,0.00179057653265253,domain_boundary,brentq,False,,44,0,24.269287900009658
+empirical,-1,-1,,independent_residual_marginal_share,grid_calibrated_pointwise,5.75830188539112,True,0.0,0.0,0.0026735132395200823,domain_boundary,brentq,False,,44,0,24.269288300012704
+empirical,-1,-1,,independent_residual_marginal_share,grid_calibrated_simultaneous,6.9958269329763425,True,0.0,0.0,0.003241024253714295,domain_boundary,brentq,False,,44,0,24.26928860001499

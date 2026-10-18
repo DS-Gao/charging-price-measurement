@@ -1,0 +1,5 @@
+candidate_partition,month,full_menu_lenient,full_menu_main,full_menu_strict,crossfit_complete
+COMMON_10,2025-01,44,14,5,6
+COMMON_10,2025-07,1285,838,580,686
+NATIVE_8,2025-01,185,56,24,6
+NATIVE_8,2025-07,1357,895,626,742

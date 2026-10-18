@@ -1,0 +1,7 @@
+diagnostic,category,count,share
+selected_face,INDEPENDENT_RESIDUAL_ZERO,999,0.999
+selected_face,ALL_POSITIVE,1,0.001
+selected_independent_residual,exact_zero,999,0.999
+selected_independent_residual,positive_interior,1,0.001
+attempt_boundary,any_component_boundary,23664,0.980119284294
+attempt_kkt,physical_kkt_failed,20561,0.851598740888

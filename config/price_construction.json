@@ -1,0 +1,413 @@
+{
+  "schema_version": "stage2-boundary-signal-v1",
+  "approved_stage1_decision": "BOUNDARY_ONLY_PIVOT",
+  "timezone_interpretation": "Asia/Shanghai local clock; source timestamps are treated as naive Beijing local time",
+  "inputs": {
+    "orders_2025-01": {
+      "path": "31952289/orders_2025-01_public.parquet",
+      "bytes": 58178602,
+      "sha256": "928d5341c95bab499247fd399e002f6afb92a8b10a1d2bc57bbbf994a14b30b1"
+    },
+    "orders_2025-07": {
+      "path": "31952289/orders_2025-07_public.parquet",
+      "bytes": 189701623,
+      "sha256": "f9f66a658fdb5a66437c3423e21c26e12346fe4e446133790a72b275a9d49afb"
+    },
+    "stations": {
+      "path": "31952289/stations_public.parquet",
+      "bytes": 150533,
+      "sha256": "3db96289c1f906de8b481372772b72164211868026ceedfc7a2858f56c336b85"
+    },
+    "stage1_prices": {
+      "path": "outputs/09_price_architecture/01_menu_feasibility/station_month_segment_prices.parquet",
+      "bytes": 7863828,
+      "sha256": "06f51c91e3bac3d1aa61d26d439a28c8a1044bbdd50a02e95662e0425c2b149f"
+    },
+    "stage1_eligibility": {
+      "path": "outputs/09_price_architecture/01_menu_feasibility/station_month_menu_eligibility.parquet",
+      "bytes": 256576,
+      "sha256": "fba4a8bff9445c41b8ade624ec24900d7462ed29cf94923ca2c485e09b17f85a"
+    },
+    "stage1_manifest": {
+      "path": "outputs/09_price_architecture/01_menu_feasibility/run_manifest.json",
+      "bytes": 6916,
+      "sha256": "6a7fcbcf63d2252c57d5003beb222bc8ff83fe73ef8b49dfc556d76fb6d2cae2"
+    },
+    "tariff_boundaries": {
+      "path": "analysis/tariff_boundaries.csv",
+      "bytes": 1927,
+      "sha256": "f476108ff7ce81cee626896dcd1483274d615ed2cc3ee360f111e1eee4a77303"
+    },
+    "primary_boundary_baseline": {
+      "path": "outputs/03_identification/primary_universal_boundary_cells.csv",
+      "bytes": 4342632,
+      "sha256": "69f5de98c176e28bfd6e9b78d4e37b3a5b3662667848029586d2788b2f4c4619",
+      "expected_rows": 12006,
+      "expected_unique_stations": 2627
+    },
+    "heldout_baseline": {
+      "path": "outputs/04_mechanism/heldout_mechanism_cells.csv",
+      "bytes": 2849426,
+      "sha256": "4d4127649f72f93b3b9c6f1bdfc309e5bdcbb94f883d9358125e39e51ee8a3c1",
+      "expected_rows": 9474,
+      "expected_unique_stations": 2425
+    }
+  },
+  "native_8_segments": {
+    "2025-01": [
+      [
+        "23_07",
+        23,
+        7,
+        8
+      ],
+      [
+        "07_10",
+        7,
+        10,
+        3
+      ],
+      [
+        "10_13",
+        10,
+        13,
+        3
+      ],
+      [
+        "13_17",
+        13,
+        17,
+        4
+      ],
+      [
+        "17_18",
+        17,
+        18,
+        1
+      ],
+      [
+        "18_21",
+        18,
+        21,
+        3
+      ],
+      [
+        "21_22",
+        21,
+        22,
+        1
+      ],
+      [
+        "22_23",
+        22,
+        23,
+        1
+      ]
+    ],
+    "2025-07": [
+      [
+        "23_07",
+        23,
+        7,
+        8
+      ],
+      [
+        "07_10",
+        7,
+        10,
+        3
+      ],
+      [
+        "10_11",
+        10,
+        11,
+        1
+      ],
+      [
+        "11_13",
+        11,
+        13,
+        2
+      ],
+      [
+        "13_16",
+        13,
+        16,
+        3
+      ],
+      [
+        "16_17",
+        16,
+        17,
+        1
+      ],
+      [
+        "17_22",
+        17,
+        22,
+        5
+      ],
+      [
+        "22_23",
+        22,
+        23,
+        1
+      ]
+    ]
+  },
+  "boundary_layers": [
+    [
+      "2025-01",
+      7,
+      "23_07",
+      "07_10",
+      "off_peak",
+      "shoulder",
+      "universal_tou",
+      1,
+      "PURE_TOU"
+    ],
+    [
+      "2025-01",
+      10,
+      "07_10",
+      "10_13",
+      "shoulder",
+      "peak",
+      "universal_tou",
+      1,
+      "PURE_TOU"
+    ],
+    [
+      "2025-01",
+      13,
+      "10_13",
+      "13_17",
+      "peak",
+      "shoulder",
+      "universal_tou",
+      -1,
+      "PURE_TOU"
+    ],
+    [
+      "2025-01",
+      17,
+      "13_17",
+      "17_18",
+      "shoulder",
+      "peak",
+      "universal_tou",
+      1,
+      "PURE_TOU"
+    ],
+    [
+      "2025-01",
+      22,
+      "21_22",
+      "22_23",
+      "peak",
+      "shoulder",
+      "universal_tou",
+      -1,
+      "PURE_TOU"
+    ],
+    [
+      "2025-01",
+      23,
+      "22_23",
+      "23_07",
+      "shoulder",
+      "off_peak",
+      "universal_tou",
+      -1,
+      "PURE_TOU"
+    ],
+    [
+      "2025-07",
+      7,
+      "23_07",
+      "07_10",
+      "off_peak",
+      "shoulder",
+      "universal_tou",
+      1,
+      "PURE_TOU"
+    ],
+    [
+      "2025-07",
+      10,
+      "07_10",
+      "10_11",
+      "shoulder",
+      "peak",
+      "universal_tou",
+      1,
+      "PURE_TOU"
+    ],
+    [
+      "2025-07",
+      13,
+      "11_13",
+      "13_16",
+      "sharp",
+      "shoulder",
+      "universal_tou_plus_conditional_sharp",
+      -1,
+      "INSTITUTIONAL_MIXED"
+    ],
+    [
+      "2025-07",
+      17,
+      "16_17",
+      "17_22",
+      "sharp",
+      "peak",
+      "universal_tou_plus_conditional_sharp",
+      -1,
+      "INSTITUTIONAL_MIXED"
+    ],
+    [
+      "2025-07",
+      22,
+      "17_22",
+      "22_23",
+      "peak",
+      "shoulder",
+      "universal_tou",
+      -1,
+      "PURE_TOU"
+    ],
+    [
+      "2025-07",
+      23,
+      "22_23",
+      "23_07",
+      "shoulder",
+      "off_peak",
+      "universal_tou",
+      -1,
+      "PURE_TOU"
+    ]
+  ],
+  "pure_tou_layer_order": [
+    [
+      "2025-01",
+      7
+    ],
+    [
+      "2025-01",
+      10
+    ],
+    [
+      "2025-01",
+      13
+    ],
+    [
+      "2025-01",
+      17
+    ],
+    [
+      "2025-01",
+      22
+    ],
+    [
+      "2025-01",
+      23
+    ],
+    [
+      "2025-07",
+      7
+    ],
+    [
+      "2025-07",
+      10
+    ],
+    [
+      "2025-07",
+      22
+    ],
+    [
+      "2025-07",
+      23
+    ]
+  ],
+  "support_thresholds": {
+    "main_sessions_each_side": 20,
+    "main_tariff_days_each_side": 5,
+    "half_sessions_each_side": 10,
+    "half_tariff_days_each_side": 3
+  },
+  "classification_thresholds_rmb_per_kwh": {
+    "electricity_signal": 0.01,
+    "service_and_total": 0.03,
+    "auxiliary_pass_through_denominator": 0.05
+  },
+  "component_gate": {
+    "residual_abs_threshold": 0.03,
+    "failure_share": 0.05,
+    "classification_disagreement_failure_share": 0.05
+  },
+  "bootstrap": {
+    "method": "station-level nonparametric within month-boundary layer",
+    "repetitions": 2000,
+    "seed": 202507,
+    "interval": "95% percentile",
+    "lower_percentile": 2.5,
+    "upper_percentile": 97.5
+  },
+  "dispersion_classification": {
+    "economic_threshold": 0.03,
+    "amplification": "F_IQR >= 0.03 and bootstrap lower > 0",
+    "compression": "F_IQR <= -0.03 and bootstrap upper < 0",
+    "precisely_small": "bootstrap lower >= -0.03 and bootstrap upper <= 0.03",
+    "otherwise": "inconclusive"
+  },
+  "category_order": {
+    "electricity_signal": [
+      "signal_bearing",
+      "weak_signal",
+      "discordant_electricity_signal"
+    ],
+    "service_action": [
+      "reinforcing",
+      "flat",
+      "offsetting"
+    ],
+    "total_outcome": [
+      "retained",
+      "neutralized",
+      "reversed"
+    ]
+  },
+  "coverage_gate": {
+    "main_support_stations_min": 100,
+    "signal_bearing_stations_min": 75,
+    "formation_validation_matched_stations_min": 75,
+    "full_two_month_layers_min": 8,
+    "full_two_month_each_month_min": 3,
+    "restricted_layers_min": 6,
+    "restricted_layers_max": 7,
+    "single_month_january_majority_min": 4,
+    "single_month_july_majority_min": 3,
+    "other_month_insufficient_max": 2
+  },
+  "stability_gate": {
+    "service_action_agreement_min": 0.7,
+    "layers_meeting_min": 8
+  },
+  "substantive_pattern_rule": {
+    "boundary_dependent_amplification_layers_min": 2,
+    "boundary_dependent_compression_layers_min": 2,
+    "otherwise": "strict plurality label; ties map to mixed_or_inconclusive"
+  },
+  "determinism": {
+    "duckdb_threads": 4,
+    "random_seed": 202507,
+    "bootstrap_repetitions": 2000,
+    "csv_float_format": "%.12g",
+    "stable_sort_required": true,
+    "figure_dpi": 300,
+    "source_date_epoch": "0"
+  },
+  "output_directory": "outputs/09_price_architecture/02_boundary_signal_core"
+}

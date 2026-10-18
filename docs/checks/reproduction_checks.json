@@ -1,0 +1,152 @@
+{
+  "module_a_summary": {
+    "rows": 150,
+    "max_abs_difference": 8.881784197001252e-16,
+    "field_max_differences": {
+      "n_units": 0.0,
+      "median_signed_D30": 9.833713704443525e-17,
+      "median_abs_D30": 9.020562075079397e-17,
+      "D30_p10": 4.440892098500626e-16,
+      "D30_p25": 4.440892098500626e-16,
+      "D30_p50": 9.833713704443525e-17,
+      "D30_p75": 1.1102230246251565e-16,
+      "D30_p90": 8.881784197001252e-16,
+      "D30_below_minus_0_90": 0.0,
+      "D30_within_band": 0.0,
+      "D30_above_plus_0_90": 0.0,
+      "FIQR": 9.71445146547012e-17,
+      "n_original_A": 0.0,
+      "n_original_R": 0.0,
+      "n_original_H": 0.0,
+      "n_config_R": 0.0,
+      "n_config_H": 0.0
+    },
+    "float_tolerance": 1e-10,
+    "counts_exact": true
+  },
+  "module_a_covariance": {
+    "rows": 150,
+    "max_abs_difference": 9.974659986866641e-17,
+    "field_max_differences": {
+      "n_units": 0.0,
+      "var_E": 9.71445146547012e-17,
+      "var_S": 9.93129189996722e-17,
+      "var_r": 8.973128230033156e-17,
+      "var_Z": 9.8879238130678e-17,
+      "var_T": 9.8879238130678e-17,
+      "cov_E_S": 9.974659986866641e-17,
+      "cov_E_r": 9.305165145356842e-17,
+      "cov_E_Z": 9.73613550891983e-17,
+      "cov_identity_residual": 1.925929944387236e-34,
+      "variance_identity_residual": 1.925929944387236e-34,
+      "cov_identity_pass": 0.0,
+      "variance_identity_pass": 0.0
+    },
+    "float_tolerance": 1e-10,
+    "counts_exact": true
+  },
+  "module_b_inputs": {
+    "endpoint_input_max_differences": {
+      "E": 9.8879238130678e-17,
+      "LOCAL": 1.1102230246251565e-16
+    },
+    "target_endpoint_max_difference": 0.0,
+    "calibration_max_difference": 0.0,
+    "V_exact": true,
+    "calibration_uses_all_formation_entrants": true,
+    "validation_used_for_inputs": false
+  },
+  "module_b_points": {
+    "rows": 780,
+    "max_abs_difference": 9.93129189996722e-17,
+    "field_max_differences": {
+      "n": 0.0,
+      "mae": 9.93129189996722e-17,
+      "me": 9.93129189996722e-17,
+      "p90_abs_error": 9.71445146547012e-17,
+      "label_disagreement": 9.8879238130678e-17,
+      "calibration_n_min": 0.0,
+      "calibration_n_max": 0.0,
+      "n_layers": 0.0
+    },
+    "float_tolerance": 1e-10,
+    "counts_exact": true
+  },
+  "coverage": {
+    "rows": 20,
+    "max_abs_difference": 1.1102230246251565e-16,
+    "field_max_differences": {
+      "n_entry": 0.0,
+      "n_later_observable": 0.0,
+      "input_coverage_vs_Af": 9.020562075079397e-17,
+      "later_availability": 1.1102230246251565e-16,
+      "denominator_Af_layer": 0.0
+    },
+    "float_tolerance": 1e-10,
+    "counts_exact": true
+  },
+  "bootstrap_draw_comparison": {
+    "rows": 390000,
+    "max_abs_difference": 0.0,
+    "field_max_differences": {
+      "n": 0.0,
+      "mae": 0.0,
+      "me": 0.0,
+      "p90_abs_error": 0.0,
+      "label_disagreement": 0.0
+    },
+    "float_tolerance": 1e-10,
+    "counts_exact": true
+  },
+  "bootstrap_summary": {
+    "rows": 195,
+    "max_abs_difference": 9.8879238130678e-17,
+    "field_max_differences": {
+      "bootstrap_draws": 0.0,
+      "n_valid_draws": 0.0,
+      "n_invalid_draws": 0.0,
+      "n_empty_draws": 0.0,
+      "point_low": 9.71445146547012e-17,
+      "point_high": 9.71445146547012e-17,
+      "mae_low": 9.71445146547012e-17,
+      "mae_high": 9.71445146547012e-17,
+      "me_low": 9.84455572616838e-17,
+      "me_high": 9.8879238130678e-17,
+      "p90_low": 9.80118763926896e-17,
+      "p90_high": 9.71445146547012e-17,
+      "label_disagreement_low": 9.80118763926896e-17,
+      "label_disagreement_high": 9.71445146547012e-17
+    },
+    "float_tolerance": 1e-10,
+    "counts_exact": true
+  },
+  "external_trace": {
+    "rows": 5,
+    "max_abs_difference": 0.0,
+    "field_max_differences": {
+      "paired_days": 0.0,
+      "E_star": 0.0,
+      "S_star": 0.0,
+      "T_star": 0.0
+    },
+    "float_tolerance": 1e-12,
+    "counts_exact": true,
+    "scope": "Selected packaged raw-record chains only; full-panel prevalence remains identified saved evidence."
+  },
+  "status": "PASS",
+  "mode": "derived",
+  "bootstrap_mode": "regenerate",
+  "bootstrap_draws": 2000,
+  "seed": 20260920,
+  "formation_entry": 6883,
+  "common_V": 5846,
+  "C_f": 3524,
+  "station_union": 2342,
+  "calibration_and_prices_fixed_during_bootstrap": true,
+  "shared_station_multiplicities": true,
+  "formation_weights_rebuilt_before_conditioning": true,
+  "overall_ST_MAE_CAL": 0.03646853550431374,
+  "python_version": "3.12.14",
+  "numpy": "2.5.4",
+  "pandas": "3.0.6"
+}

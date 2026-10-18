@@ -1,0 +1,1261 @@
+scope_type,scope,layer_order,month,boundary_hour,denominator,weight,n_units,n_layers,metric,category,estimate
+layer,2025-01 07:00,1,2025-01,7,A,ST,148,1,electricity_status_share,signal_bearing,0.533783783784
+layer,2025-01 07:00,1,2025-01,7,A,ST,148,1,electricity_status_share,weak_signal,0.466216216216
+layer,2025-01 07:00,1,2025-01,7,A,ST,148,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 07:00,1,2025-01,7,A,ST,148,1,total_outcome_share,retained,0.5
+layer,2025-01 07:00,1,2025-01,7,A,ST,148,1,total_outcome_share,neutralized,0.5
+layer,2025-01 07:00,1,2025-01,7,A,ST,148,1,total_outcome_share,reversed,0
+layer,2025-01 07:00,1,2025-01,7,A,ST,148,1,joint_electricity_total_share,signal_bearing__retained,0.5
+layer,2025-01 07:00,1,2025-01,7,A,ST,148,1,joint_electricity_total_share,signal_bearing__neutralized,0.0337837837838
+layer,2025-01 07:00,1,2025-01,7,A,ST,148,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 07:00,1,2025-01,7,A,ST,148,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 07:00,1,2025-01,7,A,ST,148,1,joint_electricity_total_share,weak_signal__neutralized,0.466216216216
+layer,2025-01 07:00,1,2025-01,7,A,ST,148,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 07:00,1,2025-01,7,A,ST,148,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 07:00,1,2025-01,7,A,ST,148,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 07:00,1,2025-01,7,A,ST,148,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 07:00,1,2025-01,7,A,TX,148,1,electricity_status_share,signal_bearing,0.736973295312
+layer,2025-01 07:00,1,2025-01,7,A,TX,148,1,electricity_status_share,weak_signal,0.263026704688
+layer,2025-01 07:00,1,2025-01,7,A,TX,148,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 07:00,1,2025-01,7,A,TX,148,1,total_outcome_share,retained,0.712797366796
+layer,2025-01 07:00,1,2025-01,7,A,TX,148,1,total_outcome_share,neutralized,0.287202633204
+layer,2025-01 07:00,1,2025-01,7,A,TX,148,1,total_outcome_share,reversed,0
+layer,2025-01 07:00,1,2025-01,7,A,TX,148,1,joint_electricity_total_share,signal_bearing__retained,0.712797366796
+layer,2025-01 07:00,1,2025-01,7,A,TX,148,1,joint_electricity_total_share,signal_bearing__neutralized,0.0241759285152
+layer,2025-01 07:00,1,2025-01,7,A,TX,148,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 07:00,1,2025-01,7,A,TX,148,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 07:00,1,2025-01,7,A,TX,148,1,joint_electricity_total_share,weak_signal__neutralized,0.263026704688
+layer,2025-01 07:00,1,2025-01,7,A,TX,148,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 07:00,1,2025-01,7,A,TX,148,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 07:00,1,2025-01,7,A,TX,148,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 07:00,1,2025-01,7,A,TX,148,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 07:00,1,2025-01,7,A,KWH,148,1,electricity_status_share,signal_bearing,0.702150078753
+layer,2025-01 07:00,1,2025-01,7,A,KWH,148,1,electricity_status_share,weak_signal,0.297849921247
+layer,2025-01 07:00,1,2025-01,7,A,KWH,148,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 07:00,1,2025-01,7,A,KWH,148,1,total_outcome_share,retained,0.67202541927
+layer,2025-01 07:00,1,2025-01,7,A,KWH,148,1,total_outcome_share,neutralized,0.32797458073
+layer,2025-01 07:00,1,2025-01,7,A,KWH,148,1,total_outcome_share,reversed,0
+layer,2025-01 07:00,1,2025-01,7,A,KWH,148,1,joint_electricity_total_share,signal_bearing__retained,0.67202541927
+layer,2025-01 07:00,1,2025-01,7,A,KWH,148,1,joint_electricity_total_share,signal_bearing__neutralized,0.0301246594831
+layer,2025-01 07:00,1,2025-01,7,A,KWH,148,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 07:00,1,2025-01,7,A,KWH,148,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 07:00,1,2025-01,7,A,KWH,148,1,joint_electricity_total_share,weak_signal__neutralized,0.297849921247
+layer,2025-01 07:00,1,2025-01,7,A,KWH,148,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 07:00,1,2025-01,7,A,KWH,148,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 07:00,1,2025-01,7,A,KWH,148,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 07:00,1,2025-01,7,A,KWH,148,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 10:00,2,2025-01,10,A,ST,175,1,electricity_status_share,signal_bearing,0.548571428571
+layer,2025-01 10:00,2,2025-01,10,A,ST,175,1,electricity_status_share,weak_signal,0.451428571429
+layer,2025-01 10:00,2,2025-01,10,A,ST,175,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 10:00,2,2025-01,10,A,ST,175,1,total_outcome_share,retained,0.548571428571
+layer,2025-01 10:00,2,2025-01,10,A,ST,175,1,total_outcome_share,neutralized,0.451428571429
+layer,2025-01 10:00,2,2025-01,10,A,ST,175,1,total_outcome_share,reversed,0
+layer,2025-01 10:00,2,2025-01,10,A,ST,175,1,joint_electricity_total_share,signal_bearing__retained,0.548571428571
+layer,2025-01 10:00,2,2025-01,10,A,ST,175,1,joint_electricity_total_share,signal_bearing__neutralized,0
+layer,2025-01 10:00,2,2025-01,10,A,ST,175,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 10:00,2,2025-01,10,A,ST,175,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 10:00,2,2025-01,10,A,ST,175,1,joint_electricity_total_share,weak_signal__neutralized,0.451428571429
+layer,2025-01 10:00,2,2025-01,10,A,ST,175,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 10:00,2,2025-01,10,A,ST,175,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 10:00,2,2025-01,10,A,ST,175,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 10:00,2,2025-01,10,A,ST,175,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 10:00,2,2025-01,10,A,TX,175,1,electricity_status_share,signal_bearing,0.580131277419
+layer,2025-01 10:00,2,2025-01,10,A,TX,175,1,electricity_status_share,weak_signal,0.419868722581
+layer,2025-01 10:00,2,2025-01,10,A,TX,175,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 10:00,2,2025-01,10,A,TX,175,1,total_outcome_share,retained,0.580131277419
+layer,2025-01 10:00,2,2025-01,10,A,TX,175,1,total_outcome_share,neutralized,0.419868722581
+layer,2025-01 10:00,2,2025-01,10,A,TX,175,1,total_outcome_share,reversed,0
+layer,2025-01 10:00,2,2025-01,10,A,TX,175,1,joint_electricity_total_share,signal_bearing__retained,0.580131277419
+layer,2025-01 10:00,2,2025-01,10,A,TX,175,1,joint_electricity_total_share,signal_bearing__neutralized,0
+layer,2025-01 10:00,2,2025-01,10,A,TX,175,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 10:00,2,2025-01,10,A,TX,175,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 10:00,2,2025-01,10,A,TX,175,1,joint_electricity_total_share,weak_signal__neutralized,0.419868722581
+layer,2025-01 10:00,2,2025-01,10,A,TX,175,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 10:00,2,2025-01,10,A,TX,175,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 10:00,2,2025-01,10,A,TX,175,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 10:00,2,2025-01,10,A,TX,175,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 10:00,2,2025-01,10,A,KWH,175,1,electricity_status_share,signal_bearing,0.536496348249
+layer,2025-01 10:00,2,2025-01,10,A,KWH,175,1,electricity_status_share,weak_signal,0.463503651751
+layer,2025-01 10:00,2,2025-01,10,A,KWH,175,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 10:00,2,2025-01,10,A,KWH,175,1,total_outcome_share,retained,0.536496348249
+layer,2025-01 10:00,2,2025-01,10,A,KWH,175,1,total_outcome_share,neutralized,0.463503651751
+layer,2025-01 10:00,2,2025-01,10,A,KWH,175,1,total_outcome_share,reversed,0
+layer,2025-01 10:00,2,2025-01,10,A,KWH,175,1,joint_electricity_total_share,signal_bearing__retained,0.536496348249
+layer,2025-01 10:00,2,2025-01,10,A,KWH,175,1,joint_electricity_total_share,signal_bearing__neutralized,0
+layer,2025-01 10:00,2,2025-01,10,A,KWH,175,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 10:00,2,2025-01,10,A,KWH,175,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 10:00,2,2025-01,10,A,KWH,175,1,joint_electricity_total_share,weak_signal__neutralized,0.463503651751
+layer,2025-01 10:00,2,2025-01,10,A,KWH,175,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 10:00,2,2025-01,10,A,KWH,175,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 10:00,2,2025-01,10,A,KWH,175,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 10:00,2,2025-01,10,A,KWH,175,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 13:00,3,2025-01,13,A,ST,776,1,electricity_status_share,signal_bearing,0.817010309278
+layer,2025-01 13:00,3,2025-01,13,A,ST,776,1,electricity_status_share,weak_signal,0.182989690722
+layer,2025-01 13:00,3,2025-01,13,A,ST,776,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 13:00,3,2025-01,13,A,ST,776,1,total_outcome_share,retained,0.810567010309
+layer,2025-01 13:00,3,2025-01,13,A,ST,776,1,total_outcome_share,neutralized,0.184278350515
+layer,2025-01 13:00,3,2025-01,13,A,ST,776,1,total_outcome_share,reversed,0.00515463917526
+layer,2025-01 13:00,3,2025-01,13,A,ST,776,1,joint_electricity_total_share,signal_bearing__retained,0.807989690722
+layer,2025-01 13:00,3,2025-01,13,A,ST,776,1,joint_electricity_total_share,signal_bearing__neutralized,0.00515463917526
+layer,2025-01 13:00,3,2025-01,13,A,ST,776,1,joint_electricity_total_share,signal_bearing__reversed,0.00386597938144
+layer,2025-01 13:00,3,2025-01,13,A,ST,776,1,joint_electricity_total_share,weak_signal__retained,0.00257731958763
+layer,2025-01 13:00,3,2025-01,13,A,ST,776,1,joint_electricity_total_share,weak_signal__neutralized,0.17912371134
+layer,2025-01 13:00,3,2025-01,13,A,ST,776,1,joint_electricity_total_share,weak_signal__reversed,0.00128865979381
+layer,2025-01 13:00,3,2025-01,13,A,ST,776,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 13:00,3,2025-01,13,A,ST,776,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 13:00,3,2025-01,13,A,ST,776,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 13:00,3,2025-01,13,A,TX,776,1,electricity_status_share,signal_bearing,0.794697947985
+layer,2025-01 13:00,3,2025-01,13,A,TX,776,1,electricity_status_share,weak_signal,0.205302052015
+layer,2025-01 13:00,3,2025-01,13,A,TX,776,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 13:00,3,2025-01,13,A,TX,776,1,total_outcome_share,retained,0.784777803845
+layer,2025-01 13:00,3,2025-01,13,A,TX,776,1,total_outcome_share,neutralized,0.207824424477
+layer,2025-01 13:00,3,2025-01,13,A,TX,776,1,total_outcome_share,reversed,0.00739777167773
+layer,2025-01 13:00,3,2025-01,13,A,TX,776,1,joint_electricity_total_share,signal_bearing__retained,0.783574717957
+layer,2025-01 13:00,3,2025-01,13,A,TX,776,1,joint_electricity_total_share,signal_bearing__neutralized,0.00418177975908
+layer,2025-01 13:00,3,2025-01,13,A,TX,776,1,joint_electricity_total_share,signal_bearing__reversed,0.00694145026928
+layer,2025-01 13:00,3,2025-01,13,A,TX,776,1,joint_electricity_total_share,weak_signal__retained,0.00120308588817
+layer,2025-01 13:00,3,2025-01,13,A,TX,776,1,joint_electricity_total_share,weak_signal__neutralized,0.203642644718
+layer,2025-01 13:00,3,2025-01,13,A,TX,776,1,joint_electricity_total_share,weak_signal__reversed,0.000456321408453
+layer,2025-01 13:00,3,2025-01,13,A,TX,776,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 13:00,3,2025-01,13,A,TX,776,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 13:00,3,2025-01,13,A,TX,776,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 13:00,3,2025-01,13,A,KWH,776,1,electricity_status_share,signal_bearing,0.747928638561
+layer,2025-01 13:00,3,2025-01,13,A,KWH,776,1,electricity_status_share,weak_signal,0.252071361439
+layer,2025-01 13:00,3,2025-01,13,A,KWH,776,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 13:00,3,2025-01,13,A,KWH,776,1,total_outcome_share,retained,0.735278157245
+layer,2025-01 13:00,3,2025-01,13,A,KWH,776,1,total_outcome_share,neutralized,0.254068416234
+layer,2025-01 13:00,3,2025-01,13,A,KWH,776,1,total_outcome_share,reversed,0.0106534265212
+layer,2025-01 13:00,3,2025-01,13,A,KWH,776,1,joint_electricity_total_share,signal_bearing__retained,0.734159551572
+layer,2025-01 13:00,3,2025-01,13,A,KWH,776,1,joint_electricity_total_share,signal_bearing__neutralized,0.0036457959745
+layer,2025-01 13:00,3,2025-01,13,A,KWH,776,1,joint_electricity_total_share,signal_bearing__reversed,0.010123291014
+layer,2025-01 13:00,3,2025-01,13,A,KWH,776,1,joint_electricity_total_share,weak_signal__retained,0.00111860567273
+layer,2025-01 13:00,3,2025-01,13,A,KWH,776,1,joint_electricity_total_share,weak_signal__neutralized,0.250422620259
+layer,2025-01 13:00,3,2025-01,13,A,KWH,776,1,joint_electricity_total_share,weak_signal__reversed,0.000530135507205
+layer,2025-01 13:00,3,2025-01,13,A,KWH,776,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 13:00,3,2025-01,13,A,KWH,776,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 13:00,3,2025-01,13,A,KWH,776,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 17:00,4,2025-01,17,A,ST,575,1,electricity_status_share,signal_bearing,0.900869565217
+layer,2025-01 17:00,4,2025-01,17,A,ST,575,1,electricity_status_share,weak_signal,0.095652173913
+layer,2025-01 17:00,4,2025-01,17,A,ST,575,1,electricity_status_share,discordant_electricity_signal,0.00347826086957
+layer,2025-01 17:00,4,2025-01,17,A,ST,575,1,total_outcome_share,retained,0.899130434783
+layer,2025-01 17:00,4,2025-01,17,A,ST,575,1,total_outcome_share,neutralized,0.0973913043478
+layer,2025-01 17:00,4,2025-01,17,A,ST,575,1,total_outcome_share,reversed,0.00347826086957
+layer,2025-01 17:00,4,2025-01,17,A,ST,575,1,joint_electricity_total_share,signal_bearing__retained,0.899130434783
+layer,2025-01 17:00,4,2025-01,17,A,ST,575,1,joint_electricity_total_share,signal_bearing__neutralized,0
+layer,2025-01 17:00,4,2025-01,17,A,ST,575,1,joint_electricity_total_share,signal_bearing__reversed,0.00173913043478
+layer,2025-01 17:00,4,2025-01,17,A,ST,575,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 17:00,4,2025-01,17,A,ST,575,1,joint_electricity_total_share,weak_signal__neutralized,0.0939130434783
+layer,2025-01 17:00,4,2025-01,17,A,ST,575,1,joint_electricity_total_share,weak_signal__reversed,0.00173913043478
+layer,2025-01 17:00,4,2025-01,17,A,ST,575,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 17:00,4,2025-01,17,A,ST,575,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0.00347826086957
+layer,2025-01 17:00,4,2025-01,17,A,ST,575,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 17:00,4,2025-01,17,A,TX,575,1,electricity_status_share,signal_bearing,0.91741088411
+layer,2025-01 17:00,4,2025-01,17,A,TX,575,1,electricity_status_share,weak_signal,0.0804317141299
+layer,2025-01 17:00,4,2025-01,17,A,TX,575,1,electricity_status_share,discordant_electricity_signal,0.0021574017599
+layer,2025-01 17:00,4,2025-01,17,A,TX,575,1,total_outcome_share,retained,0.911992657149
+layer,2025-01 17:00,4,2025-01,17,A,TX,575,1,total_outcome_share,neutralized,0.0818514988764
+layer,2025-01 17:00,4,2025-01,17,A,TX,575,1,total_outcome_share,reversed,0.00615584397411
+layer,2025-01 17:00,4,2025-01,17,A,TX,575,1,joint_electricity_total_share,signal_bearing__retained,0.911992657149
+layer,2025-01 17:00,4,2025-01,17,A,TX,575,1,joint_electricity_total_share,signal_bearing__neutralized,0
+layer,2025-01 17:00,4,2025-01,17,A,TX,575,1,joint_electricity_total_share,signal_bearing__reversed,0.00541822696074
+layer,2025-01 17:00,4,2025-01,17,A,TX,575,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 17:00,4,2025-01,17,A,TX,575,1,joint_electricity_total_share,weak_signal__neutralized,0.0796940971165
+layer,2025-01 17:00,4,2025-01,17,A,TX,575,1,joint_electricity_total_share,weak_signal__reversed,0.00073761701337
+layer,2025-01 17:00,4,2025-01,17,A,TX,575,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 17:00,4,2025-01,17,A,TX,575,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0.0021574017599
+layer,2025-01 17:00,4,2025-01,17,A,TX,575,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 17:00,4,2025-01,17,A,KWH,575,1,electricity_status_share,signal_bearing,0.885131315878
+layer,2025-01 17:00,4,2025-01,17,A,KWH,575,1,electricity_status_share,weak_signal,0.11256054477
+layer,2025-01 17:00,4,2025-01,17,A,KWH,575,1,electricity_status_share,discordant_electricity_signal,0.00230813935178
+layer,2025-01 17:00,4,2025-01,17,A,KWH,575,1,total_outcome_share,retained,0.876272264118
+layer,2025-01 17:00,4,2025-01,17,A,KWH,575,1,total_outcome_share,neutralized,0.112987716908
+layer,2025-01 17:00,4,2025-01,17,A,KWH,575,1,total_outcome_share,reversed,0.0107400189744
+layer,2025-01 17:00,4,2025-01,17,A,KWH,575,1,joint_electricity_total_share,signal_bearing__retained,0.876272264118
+layer,2025-01 17:00,4,2025-01,17,A,KWH,575,1,joint_electricity_total_share,signal_bearing__neutralized,0
+layer,2025-01 17:00,4,2025-01,17,A,KWH,575,1,joint_electricity_total_share,signal_bearing__reversed,0.00885905176029
+layer,2025-01 17:00,4,2025-01,17,A,KWH,575,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 17:00,4,2025-01,17,A,KWH,575,1,joint_electricity_total_share,weak_signal__neutralized,0.110679577556
+layer,2025-01 17:00,4,2025-01,17,A,KWH,575,1,joint_electricity_total_share,weak_signal__reversed,0.00188096721409
+layer,2025-01 17:00,4,2025-01,17,A,KWH,575,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 17:00,4,2025-01,17,A,KWH,575,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0.00230813935178
+layer,2025-01 17:00,4,2025-01,17,A,KWH,575,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 22:00,5,2025-01,22,A,ST,417,1,electricity_status_share,signal_bearing,0.968824940048
+layer,2025-01 22:00,5,2025-01,22,A,ST,417,1,electricity_status_share,weak_signal,0.031175059952
+layer,2025-01 22:00,5,2025-01,22,A,ST,417,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 22:00,5,2025-01,22,A,ST,417,1,total_outcome_share,retained,0.968824940048
+layer,2025-01 22:00,5,2025-01,22,A,ST,417,1,total_outcome_share,neutralized,0.0287769784173
+layer,2025-01 22:00,5,2025-01,22,A,ST,417,1,total_outcome_share,reversed,0.00239808153477
+layer,2025-01 22:00,5,2025-01,22,A,ST,417,1,joint_electricity_total_share,signal_bearing__retained,0.966426858513
+layer,2025-01 22:00,5,2025-01,22,A,ST,417,1,joint_electricity_total_share,signal_bearing__neutralized,0.00239808153477
+layer,2025-01 22:00,5,2025-01,22,A,ST,417,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 22:00,5,2025-01,22,A,ST,417,1,joint_electricity_total_share,weak_signal__retained,0.00239808153477
+layer,2025-01 22:00,5,2025-01,22,A,ST,417,1,joint_electricity_total_share,weak_signal__neutralized,0.0263788968825
+layer,2025-01 22:00,5,2025-01,22,A,ST,417,1,joint_electricity_total_share,weak_signal__reversed,0.00239808153477
+layer,2025-01 22:00,5,2025-01,22,A,ST,417,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 22:00,5,2025-01,22,A,ST,417,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 22:00,5,2025-01,22,A,ST,417,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 22:00,5,2025-01,22,A,TX,417,1,electricity_status_share,signal_bearing,0.957744283227
+layer,2025-01 22:00,5,2025-01,22,A,TX,417,1,electricity_status_share,weak_signal,0.0422557167732
+layer,2025-01 22:00,5,2025-01,22,A,TX,417,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 22:00,5,2025-01,22,A,TX,417,1,total_outcome_share,retained,0.958182303508
+layer,2025-01 22:00,5,2025-01,22,A,TX,417,1,total_outcome_share,neutralized,0.0380956322001
+layer,2025-01 22:00,5,2025-01,22,A,TX,417,1,total_outcome_share,reversed,0.00372206429139
+layer,2025-01 22:00,5,2025-01,22,A,TX,417,1,joint_electricity_total_share,signal_bearing__retained,0.956503566717
+layer,2025-01 22:00,5,2025-01,22,A,TX,417,1,joint_electricity_total_share,signal_bearing__neutralized,0.00124071651002
+layer,2025-01 22:00,5,2025-01,22,A,TX,417,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 22:00,5,2025-01,22,A,TX,417,1,joint_electricity_total_share,weak_signal__retained,0.0016787367917
+layer,2025-01 22:00,5,2025-01,22,A,TX,417,1,joint_electricity_total_share,weak_signal__neutralized,0.0368549156901
+layer,2025-01 22:00,5,2025-01,22,A,TX,417,1,joint_electricity_total_share,weak_signal__reversed,0.00372206429139
+layer,2025-01 22:00,5,2025-01,22,A,TX,417,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 22:00,5,2025-01,22,A,TX,417,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 22:00,5,2025-01,22,A,TX,417,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 22:00,5,2025-01,22,A,KWH,417,1,electricity_status_share,signal_bearing,0.927434317703
+layer,2025-01 22:00,5,2025-01,22,A,KWH,417,1,electricity_status_share,weak_signal,0.0725656822974
+layer,2025-01 22:00,5,2025-01,22,A,KWH,417,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 22:00,5,2025-01,22,A,KWH,417,1,total_outcome_share,retained,0.928549571624
+layer,2025-01 22:00,5,2025-01,22,A,KWH,417,1,total_outcome_share,neutralized,0.0663872578073
+layer,2025-01 22:00,5,2025-01,22,A,KWH,417,1,total_outcome_share,reversed,0.00506317056849
+layer,2025-01 22:00,5,2025-01,22,A,KWH,417,1,joint_electricity_total_share,signal_bearing__retained,0.92637906277
+layer,2025-01 22:00,5,2025-01,22,A,KWH,417,1,joint_electricity_total_share,signal_bearing__neutralized,0.00105525493305
+layer,2025-01 22:00,5,2025-01,22,A,KWH,417,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 22:00,5,2025-01,22,A,KWH,417,1,joint_electricity_total_share,weak_signal__retained,0.00217050885466
+layer,2025-01 22:00,5,2025-01,22,A,KWH,417,1,joint_electricity_total_share,weak_signal__neutralized,0.0653320028743
+layer,2025-01 22:00,5,2025-01,22,A,KWH,417,1,joint_electricity_total_share,weak_signal__reversed,0.00506317056849
+layer,2025-01 22:00,5,2025-01,22,A,KWH,417,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 22:00,5,2025-01,22,A,KWH,417,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 22:00,5,2025-01,22,A,KWH,417,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 23:00,6,2025-01,23,A,ST,532,1,electricity_status_share,signal_bearing,0.968045112782
+layer,2025-01 23:00,6,2025-01,23,A,ST,532,1,electricity_status_share,weak_signal,0.031954887218
+layer,2025-01 23:00,6,2025-01,23,A,ST,532,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 23:00,6,2025-01,23,A,ST,532,1,total_outcome_share,retained,0.968045112782
+layer,2025-01 23:00,6,2025-01,23,A,ST,532,1,total_outcome_share,neutralized,0.031954887218
+layer,2025-01 23:00,6,2025-01,23,A,ST,532,1,total_outcome_share,reversed,0
+layer,2025-01 23:00,6,2025-01,23,A,ST,532,1,joint_electricity_total_share,signal_bearing__retained,0.968045112782
+layer,2025-01 23:00,6,2025-01,23,A,ST,532,1,joint_electricity_total_share,signal_bearing__neutralized,0
+layer,2025-01 23:00,6,2025-01,23,A,ST,532,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 23:00,6,2025-01,23,A,ST,532,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 23:00,6,2025-01,23,A,ST,532,1,joint_electricity_total_share,weak_signal__neutralized,0.031954887218
+layer,2025-01 23:00,6,2025-01,23,A,ST,532,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 23:00,6,2025-01,23,A,ST,532,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 23:00,6,2025-01,23,A,ST,532,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 23:00,6,2025-01,23,A,ST,532,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 23:00,6,2025-01,23,A,TX,532,1,electricity_status_share,signal_bearing,0.98077697971
+layer,2025-01 23:00,6,2025-01,23,A,TX,532,1,electricity_status_share,weak_signal,0.01922302029
+layer,2025-01 23:00,6,2025-01,23,A,TX,532,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 23:00,6,2025-01,23,A,TX,532,1,total_outcome_share,retained,0.98077697971
+layer,2025-01 23:00,6,2025-01,23,A,TX,532,1,total_outcome_share,neutralized,0.01922302029
+layer,2025-01 23:00,6,2025-01,23,A,TX,532,1,total_outcome_share,reversed,0
+layer,2025-01 23:00,6,2025-01,23,A,TX,532,1,joint_electricity_total_share,signal_bearing__retained,0.98077697971
+layer,2025-01 23:00,6,2025-01,23,A,TX,532,1,joint_electricity_total_share,signal_bearing__neutralized,0
+layer,2025-01 23:00,6,2025-01,23,A,TX,532,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 23:00,6,2025-01,23,A,TX,532,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 23:00,6,2025-01,23,A,TX,532,1,joint_electricity_total_share,weak_signal__neutralized,0.01922302029
+layer,2025-01 23:00,6,2025-01,23,A,TX,532,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 23:00,6,2025-01,23,A,TX,532,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 23:00,6,2025-01,23,A,TX,532,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 23:00,6,2025-01,23,A,TX,532,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 23:00,6,2025-01,23,A,KWH,532,1,electricity_status_share,signal_bearing,0.969920354847
+layer,2025-01 23:00,6,2025-01,23,A,KWH,532,1,electricity_status_share,weak_signal,0.0300796451533
+layer,2025-01 23:00,6,2025-01,23,A,KWH,532,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 23:00,6,2025-01,23,A,KWH,532,1,total_outcome_share,retained,0.969920354847
+layer,2025-01 23:00,6,2025-01,23,A,KWH,532,1,total_outcome_share,neutralized,0.0300796451533
+layer,2025-01 23:00,6,2025-01,23,A,KWH,532,1,total_outcome_share,reversed,0
+layer,2025-01 23:00,6,2025-01,23,A,KWH,532,1,joint_electricity_total_share,signal_bearing__retained,0.969920354847
+layer,2025-01 23:00,6,2025-01,23,A,KWH,532,1,joint_electricity_total_share,signal_bearing__neutralized,0
+layer,2025-01 23:00,6,2025-01,23,A,KWH,532,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 23:00,6,2025-01,23,A,KWH,532,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 23:00,6,2025-01,23,A,KWH,532,1,joint_electricity_total_share,weak_signal__neutralized,0.0300796451533
+layer,2025-01 23:00,6,2025-01,23,A,KWH,532,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 23:00,6,2025-01,23,A,KWH,532,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 23:00,6,2025-01,23,A,KWH,532,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 23:00,6,2025-01,23,A,KWH,532,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 07:00,7,2025-07,7,A,ST,2231,1,electricity_status_share,signal_bearing,0.942626624832
+layer,2025-07 07:00,7,2025-07,7,A,ST,2231,1,electricity_status_share,weak_signal,0.0573733751681
+layer,2025-07 07:00,7,2025-07,7,A,ST,2231,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 07:00,7,2025-07,7,A,ST,2231,1,total_outcome_share,retained,0.940833706858
+layer,2025-07 07:00,7,2025-07,7,A,ST,2231,1,total_outcome_share,neutralized,0.0524428507396
+layer,2025-07 07:00,7,2025-07,7,A,ST,2231,1,total_outcome_share,reversed,0.00672344240251
+layer,2025-07 07:00,7,2025-07,7,A,ST,2231,1,joint_electricity_total_share,signal_bearing__retained,0.931869116988
+layer,2025-07 07:00,7,2025-07,7,A,ST,2231,1,joint_electricity_total_share,signal_bearing__neutralized,0.00537875392201
+layer,2025-07 07:00,7,2025-07,7,A,ST,2231,1,joint_electricity_total_share,signal_bearing__reversed,0.00537875392201
+layer,2025-07 07:00,7,2025-07,7,A,ST,2231,1,joint_electricity_total_share,weak_signal__retained,0.00896458987001
+layer,2025-07 07:00,7,2025-07,7,A,ST,2231,1,joint_electricity_total_share,weak_signal__neutralized,0.0470640968176
+layer,2025-07 07:00,7,2025-07,7,A,ST,2231,1,joint_electricity_total_share,weak_signal__reversed,0.0013446884805
+layer,2025-07 07:00,7,2025-07,7,A,ST,2231,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 07:00,7,2025-07,7,A,ST,2231,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 07:00,7,2025-07,7,A,ST,2231,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 07:00,7,2025-07,7,A,TX,2231,1,electricity_status_share,signal_bearing,0.986823037103
+layer,2025-07 07:00,7,2025-07,7,A,TX,2231,1,electricity_status_share,weak_signal,0.0131769628973
+layer,2025-07 07:00,7,2025-07,7,A,TX,2231,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 07:00,7,2025-07,7,A,TX,2231,1,total_outcome_share,retained,0.979896729985
+layer,2025-07 07:00,7,2025-07,7,A,TX,2231,1,total_outcome_share,neutralized,0.0141984175105
+layer,2025-07 07:00,7,2025-07,7,A,TX,2231,1,total_outcome_share,reversed,0.00590485250441
+layer,2025-07 07:00,7,2025-07,7,A,TX,2231,1,joint_electricity_total_share,signal_bearing__retained,0.977869587554
+layer,2025-07 07:00,7,2025-07,7,A,TX,2231,1,joint_electricity_total_share,signal_bearing__neutralized,0.00356935704298
+layer,2025-07 07:00,7,2025-07,7,A,TX,2231,1,joint_electricity_total_share,signal_bearing__reversed,0.00538409250544
+layer,2025-07 07:00,7,2025-07,7,A,TX,2231,1,joint_electricity_total_share,weak_signal__retained,0.00202714243083
+layer,2025-07 07:00,7,2025-07,7,A,TX,2231,1,joint_electricity_total_share,weak_signal__neutralized,0.0106290604675
+layer,2025-07 07:00,7,2025-07,7,A,TX,2231,1,joint_electricity_total_share,weak_signal__reversed,0.000520759998965
+layer,2025-07 07:00,7,2025-07,7,A,TX,2231,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 07:00,7,2025-07,7,A,TX,2231,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 07:00,7,2025-07,7,A,TX,2231,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 07:00,7,2025-07,7,A,KWH,2231,1,electricity_status_share,signal_bearing,0.985748371239
+layer,2025-07 07:00,7,2025-07,7,A,KWH,2231,1,electricity_status_share,weak_signal,0.0142516287608
+layer,2025-07 07:00,7,2025-07,7,A,KWH,2231,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 07:00,7,2025-07,7,A,KWH,2231,1,total_outcome_share,retained,0.97728224482
+layer,2025-07 07:00,7,2025-07,7,A,KWH,2231,1,total_outcome_share,neutralized,0.0175140279709
+layer,2025-07 07:00,7,2025-07,7,A,KWH,2231,1,total_outcome_share,reversed,0.00520372720902
+layer,2025-07 07:00,7,2025-07,7,A,KWH,2231,1,joint_electricity_total_share,signal_bearing__retained,0.975146214071
+layer,2025-07 07:00,7,2025-07,7,A,KWH,2231,1,joint_electricity_total_share,signal_bearing__neutralized,0.00594459399347
+layer,2025-07 07:00,7,2025-07,7,A,KWH,2231,1,joint_electricity_total_share,signal_bearing__reversed,0.00465756317514
+layer,2025-07 07:00,7,2025-07,7,A,KWH,2231,1,joint_electricity_total_share,weak_signal__retained,0.00213603074953
+layer,2025-07 07:00,7,2025-07,7,A,KWH,2231,1,joint_electricity_total_share,weak_signal__neutralized,0.0115694339774
+layer,2025-07 07:00,7,2025-07,7,A,KWH,2231,1,joint_electricity_total_share,weak_signal__reversed,0.000546164033881
+layer,2025-07 07:00,7,2025-07,7,A,KWH,2231,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 07:00,7,2025-07,7,A,KWH,2231,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 07:00,7,2025-07,7,A,KWH,2231,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 10:00,8,2025-07,10,A,ST,1134,1,electricity_status_share,signal_bearing,0.957671957672
+layer,2025-07 10:00,8,2025-07,10,A,ST,1134,1,electricity_status_share,weak_signal,0.042328042328
+layer,2025-07 10:00,8,2025-07,10,A,ST,1134,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 10:00,8,2025-07,10,A,ST,1134,1,total_outcome_share,retained,0.958553791887
+layer,2025-07 10:00,8,2025-07,10,A,ST,1134,1,total_outcome_share,neutralized,0.0361552028219
+layer,2025-07 10:00,8,2025-07,10,A,ST,1134,1,total_outcome_share,reversed,0.00529100529101
+layer,2025-07 10:00,8,2025-07,10,A,ST,1134,1,joint_electricity_total_share,signal_bearing__retained,0.954144620811
+layer,2025-07 10:00,8,2025-07,10,A,ST,1134,1,joint_electricity_total_share,signal_bearing__neutralized,0.00176366843034
+layer,2025-07 10:00,8,2025-07,10,A,ST,1134,1,joint_electricity_total_share,signal_bearing__reversed,0.00176366843034
+layer,2025-07 10:00,8,2025-07,10,A,ST,1134,1,joint_electricity_total_share,weak_signal__retained,0.00440917107584
+layer,2025-07 10:00,8,2025-07,10,A,ST,1134,1,joint_electricity_total_share,weak_signal__neutralized,0.0343915343915
+layer,2025-07 10:00,8,2025-07,10,A,ST,1134,1,joint_electricity_total_share,weak_signal__reversed,0.00352733686067
+layer,2025-07 10:00,8,2025-07,10,A,ST,1134,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 10:00,8,2025-07,10,A,ST,1134,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 10:00,8,2025-07,10,A,ST,1134,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 10:00,8,2025-07,10,A,TX,1134,1,electricity_status_share,signal_bearing,0.979346855586
+layer,2025-07 10:00,8,2025-07,10,A,TX,1134,1,electricity_status_share,weak_signal,0.0206531444144
+layer,2025-07 10:00,8,2025-07,10,A,TX,1134,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 10:00,8,2025-07,10,A,TX,1134,1,total_outcome_share,retained,0.979381299335
+layer,2025-07 10:00,8,2025-07,10,A,TX,1134,1,total_outcome_share,neutralized,0.0182204863165
+layer,2025-07 10:00,8,2025-07,10,A,TX,1134,1,total_outcome_share,reversed,0.00239821434822
+layer,2025-07 10:00,8,2025-07,10,A,TX,1134,1,joint_electricity_total_share,signal_bearing__retained,0.977503089964
+layer,2025-07 10:00,8,2025-07,10,A,TX,1134,1,joint_electricity_total_share,signal_bearing__neutralized,0.000909600409132
+layer,2025-07 10:00,8,2025-07,10,A,TX,1134,1,joint_electricity_total_share,signal_bearing__reversed,0.000934165212661
+layer,2025-07 10:00,8,2025-07,10,A,TX,1134,1,joint_electricity_total_share,weak_signal__retained,0.00187820937143
+layer,2025-07 10:00,8,2025-07,10,A,TX,1134,1,joint_electricity_total_share,weak_signal__neutralized,0.0173108859074
+layer,2025-07 10:00,8,2025-07,10,A,TX,1134,1,joint_electricity_total_share,weak_signal__reversed,0.00146404913556
+layer,2025-07 10:00,8,2025-07,10,A,TX,1134,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 10:00,8,2025-07,10,A,TX,1134,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 10:00,8,2025-07,10,A,TX,1134,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 10:00,8,2025-07,10,A,KWH,1134,1,electricity_status_share,signal_bearing,0.975096497259
+layer,2025-07 10:00,8,2025-07,10,A,KWH,1134,1,electricity_status_share,weak_signal,0.0249035027412
+layer,2025-07 10:00,8,2025-07,10,A,KWH,1134,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 10:00,8,2025-07,10,A,KWH,1134,1,total_outcome_share,retained,0.975143579552
+layer,2025-07 10:00,8,2025-07,10,A,KWH,1134,1,total_outcome_share,neutralized,0.0209591545832
+layer,2025-07 10:00,8,2025-07,10,A,KWH,1134,1,total_outcome_share,reversed,0.0038972658648
+layer,2025-07 10:00,8,2025-07,10,A,KWH,1134,1,joint_electricity_total_share,signal_bearing__retained,0.972277331545
+layer,2025-07 10:00,8,2025-07,10,A,KWH,1134,1,joint_electricity_total_share,signal_bearing__neutralized,0.000735677882977
+layer,2025-07 10:00,8,2025-07,10,A,KWH,1134,1,joint_electricity_total_share,signal_bearing__reversed,0.00208348783097
+layer,2025-07 10:00,8,2025-07,10,A,KWH,1134,1,joint_electricity_total_share,weak_signal__retained,0.00286624800721
+layer,2025-07 10:00,8,2025-07,10,A,KWH,1134,1,joint_electricity_total_share,weak_signal__neutralized,0.0202234767002
+layer,2025-07 10:00,8,2025-07,10,A,KWH,1134,1,joint_electricity_total_share,weak_signal__reversed,0.00181377803382
+layer,2025-07 10:00,8,2025-07,10,A,KWH,1134,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 10:00,8,2025-07,10,A,KWH,1134,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 10:00,8,2025-07,10,A,KWH,1134,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 22:00,9,2025-07,22,A,ST,1073,1,electricity_status_share,signal_bearing,0.982292637465
+layer,2025-07 22:00,9,2025-07,22,A,ST,1073,1,electricity_status_share,weak_signal,0.0177073625349
+layer,2025-07 22:00,9,2025-07,22,A,ST,1073,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 22:00,9,2025-07,22,A,ST,1073,1,total_outcome_share,retained,0.984156570363
+layer,2025-07 22:00,9,2025-07,22,A,ST,1073,1,total_outcome_share,neutralized,0.0158434296365
+layer,2025-07 22:00,9,2025-07,22,A,ST,1073,1,total_outcome_share,reversed,0
+layer,2025-07 22:00,9,2025-07,22,A,ST,1073,1,joint_electricity_total_share,signal_bearing__retained,0.981360671016
+layer,2025-07 22:00,9,2025-07,22,A,ST,1073,1,joint_electricity_total_share,signal_bearing__neutralized,0.000931966449208
+layer,2025-07 22:00,9,2025-07,22,A,ST,1073,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-07 22:00,9,2025-07,22,A,ST,1073,1,joint_electricity_total_share,weak_signal__retained,0.00279589934762
+layer,2025-07 22:00,9,2025-07,22,A,ST,1073,1,joint_electricity_total_share,weak_signal__neutralized,0.0149114631873
+layer,2025-07 22:00,9,2025-07,22,A,ST,1073,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-07 22:00,9,2025-07,22,A,ST,1073,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 22:00,9,2025-07,22,A,ST,1073,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 22:00,9,2025-07,22,A,ST,1073,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 22:00,9,2025-07,22,A,TX,1073,1,electricity_status_share,signal_bearing,0.987824596737
+layer,2025-07 22:00,9,2025-07,22,A,TX,1073,1,electricity_status_share,weak_signal,0.0121754032634
+layer,2025-07 22:00,9,2025-07,22,A,TX,1073,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 22:00,9,2025-07,22,A,TX,1073,1,total_outcome_share,retained,0.990538841631
+layer,2025-07 22:00,9,2025-07,22,A,TX,1073,1,total_outcome_share,neutralized,0.00946115836871
+layer,2025-07 22:00,9,2025-07,22,A,TX,1073,1,total_outcome_share,reversed,0
+layer,2025-07 22:00,9,2025-07,22,A,TX,1073,1,joint_electricity_total_share,signal_bearing__retained,0.987475563375
+layer,2025-07 22:00,9,2025-07,22,A,TX,1073,1,joint_electricity_total_share,signal_bearing__neutralized,0.000349033361748
+layer,2025-07 22:00,9,2025-07,22,A,TX,1073,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-07 22:00,9,2025-07,22,A,TX,1073,1,joint_electricity_total_share,weak_signal__retained,0.00306327825643
+layer,2025-07 22:00,9,2025-07,22,A,TX,1073,1,joint_electricity_total_share,weak_signal__neutralized,0.00911212500696
+layer,2025-07 22:00,9,2025-07,22,A,TX,1073,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-07 22:00,9,2025-07,22,A,TX,1073,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 22:00,9,2025-07,22,A,TX,1073,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 22:00,9,2025-07,22,A,TX,1073,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 22:00,9,2025-07,22,A,KWH,1073,1,electricity_status_share,signal_bearing,0.985822634884
+layer,2025-07 22:00,9,2025-07,22,A,KWH,1073,1,electricity_status_share,weak_signal,0.0141773651161
+layer,2025-07 22:00,9,2025-07,22,A,KWH,1073,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 22:00,9,2025-07,22,A,KWH,1073,1,total_outcome_share,retained,0.98900471393
+layer,2025-07 22:00,9,2025-07,22,A,KWH,1073,1,total_outcome_share,neutralized,0.0109952860697
+layer,2025-07 22:00,9,2025-07,22,A,KWH,1073,1,total_outcome_share,reversed,0
+layer,2025-07 22:00,9,2025-07,22,A,KWH,1073,1,joint_electricity_total_share,signal_bearing__retained,0.985516728709
+layer,2025-07 22:00,9,2025-07,22,A,KWH,1073,1,joint_electricity_total_share,signal_bearing__neutralized,0.000305906175024
+layer,2025-07 22:00,9,2025-07,22,A,KWH,1073,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-07 22:00,9,2025-07,22,A,KWH,1073,1,joint_electricity_total_share,weak_signal__retained,0.0034879852214
+layer,2025-07 22:00,9,2025-07,22,A,KWH,1073,1,joint_electricity_total_share,weak_signal__neutralized,0.0106893798947
+layer,2025-07 22:00,9,2025-07,22,A,KWH,1073,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-07 22:00,9,2025-07,22,A,KWH,1073,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 22:00,9,2025-07,22,A,KWH,1073,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 22:00,9,2025-07,22,A,KWH,1073,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 23:00,10,2025-07,23,A,ST,1072,1,electricity_status_share,signal_bearing,0.972014925373
+layer,2025-07 23:00,10,2025-07,23,A,ST,1072,1,electricity_status_share,weak_signal,0.0279850746269
+layer,2025-07 23:00,10,2025-07,23,A,ST,1072,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 23:00,10,2025-07,23,A,ST,1072,1,total_outcome_share,retained,0.965485074627
+layer,2025-07 23:00,10,2025-07,23,A,ST,1072,1,total_outcome_share,neutralized,0.0279850746269
+layer,2025-07 23:00,10,2025-07,23,A,ST,1072,1,total_outcome_share,reversed,0.00652985074627
+layer,2025-07 23:00,10,2025-07,23,A,ST,1072,1,joint_electricity_total_share,signal_bearing__retained,0.963619402985
+layer,2025-07 23:00,10,2025-07,23,A,ST,1072,1,joint_electricity_total_share,signal_bearing__neutralized,0.00186567164179
+layer,2025-07 23:00,10,2025-07,23,A,ST,1072,1,joint_electricity_total_share,signal_bearing__reversed,0.00652985074627
+layer,2025-07 23:00,10,2025-07,23,A,ST,1072,1,joint_electricity_total_share,weak_signal__retained,0.00186567164179
+layer,2025-07 23:00,10,2025-07,23,A,ST,1072,1,joint_electricity_total_share,weak_signal__neutralized,0.0261194029851
+layer,2025-07 23:00,10,2025-07,23,A,ST,1072,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-07 23:00,10,2025-07,23,A,ST,1072,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 23:00,10,2025-07,23,A,ST,1072,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 23:00,10,2025-07,23,A,ST,1072,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 23:00,10,2025-07,23,A,TX,1072,1,electricity_status_share,signal_bearing,0.992752076904
+layer,2025-07 23:00,10,2025-07,23,A,TX,1072,1,electricity_status_share,weak_signal,0.00724792309559
+layer,2025-07 23:00,10,2025-07,23,A,TX,1072,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 23:00,10,2025-07,23,A,TX,1072,1,total_outcome_share,retained,0.985788792297
+layer,2025-07 23:00,10,2025-07,23,A,TX,1072,1,total_outcome_share,neutralized,0.00863923481884
+layer,2025-07 23:00,10,2025-07,23,A,TX,1072,1,total_outcome_share,reversed,0.00557197288405
+layer,2025-07 23:00,10,2025-07,23,A,TX,1072,1,joint_electricity_total_share,signal_bearing__retained,0.985202449316
+layer,2025-07 23:00,10,2025-07,23,A,TX,1072,1,joint_electricity_total_share,signal_bearing__neutralized,0.00197765470446
+layer,2025-07 23:00,10,2025-07,23,A,TX,1072,1,joint_electricity_total_share,signal_bearing__reversed,0.00557197288405
+layer,2025-07 23:00,10,2025-07,23,A,TX,1072,1,joint_electricity_total_share,weak_signal__retained,0.00058634298121
+layer,2025-07 23:00,10,2025-07,23,A,TX,1072,1,joint_electricity_total_share,weak_signal__neutralized,0.00666158011438
+layer,2025-07 23:00,10,2025-07,23,A,TX,1072,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-07 23:00,10,2025-07,23,A,TX,1072,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 23:00,10,2025-07,23,A,TX,1072,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 23:00,10,2025-07,23,A,TX,1072,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 23:00,10,2025-07,23,A,KWH,1072,1,electricity_status_share,signal_bearing,0.990735115
+layer,2025-07 23:00,10,2025-07,23,A,KWH,1072,1,electricity_status_share,weak_signal,0.0092648849996
+layer,2025-07 23:00,10,2025-07,23,A,KWH,1072,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 23:00,10,2025-07,23,A,KWH,1072,1,total_outcome_share,retained,0.983467227674
+layer,2025-07 23:00,10,2025-07,23,A,KWH,1072,1,total_outcome_share,neutralized,0.0113332755342
+layer,2025-07 23:00,10,2025-07,23,A,KWH,1072,1,total_outcome_share,reversed,0.00519949679145
+layer,2025-07 23:00,10,2025-07,23,A,KWH,1072,1,joint_electricity_total_share,signal_bearing__retained,0.982824396732
+layer,2025-07 23:00,10,2025-07,23,A,KWH,1072,1,joint_electricity_total_share,signal_bearing__neutralized,0.00271122147676
+layer,2025-07 23:00,10,2025-07,23,A,KWH,1072,1,joint_electricity_total_share,signal_bearing__reversed,0.00519949679145
+layer,2025-07 23:00,10,2025-07,23,A,KWH,1072,1,joint_electricity_total_share,weak_signal__retained,0.000642830942155
+layer,2025-07 23:00,10,2025-07,23,A,KWH,1072,1,joint_electricity_total_share,weak_signal__neutralized,0.00862205405744
+layer,2025-07 23:00,10,2025-07,23,A,KWH,1072,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-07 23:00,10,2025-07,23,A,KWH,1072,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 23:00,10,2025-07,23,A,KWH,1072,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 23:00,10,2025-07,23,A,KWH,1072,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 07:00,1,2025-01,7,R,ST,79,1,electricity_status_share,signal_bearing,1
+layer,2025-01 07:00,1,2025-01,7,R,ST,79,1,electricity_status_share,weak_signal,0
+layer,2025-01 07:00,1,2025-01,7,R,ST,79,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 07:00,1,2025-01,7,R,ST,79,1,total_outcome_share,retained,0.936708860759
+layer,2025-01 07:00,1,2025-01,7,R,ST,79,1,total_outcome_share,neutralized,0.0632911392405
+layer,2025-01 07:00,1,2025-01,7,R,ST,79,1,total_outcome_share,reversed,0
+layer,2025-01 07:00,1,2025-01,7,R,ST,79,1,joint_electricity_total_share,signal_bearing__retained,0.936708860759
+layer,2025-01 07:00,1,2025-01,7,R,ST,79,1,joint_electricity_total_share,signal_bearing__neutralized,0.0632911392405
+layer,2025-01 07:00,1,2025-01,7,R,ST,79,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 07:00,1,2025-01,7,R,ST,79,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 07:00,1,2025-01,7,R,ST,79,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-01 07:00,1,2025-01,7,R,ST,79,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 07:00,1,2025-01,7,R,ST,79,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 07:00,1,2025-01,7,R,ST,79,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 07:00,1,2025-01,7,R,ST,79,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 07:00,1,2025-01,7,R,TX,79,1,electricity_status_share,signal_bearing,1
+layer,2025-01 07:00,1,2025-01,7,R,TX,79,1,electricity_status_share,weak_signal,0
+layer,2025-01 07:00,1,2025-01,7,R,TX,79,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 07:00,1,2025-01,7,R,TX,79,1,total_outcome_share,retained,0.961041113084
+layer,2025-01 07:00,1,2025-01,7,R,TX,79,1,total_outcome_share,neutralized,0.0389588869156
+layer,2025-01 07:00,1,2025-01,7,R,TX,79,1,total_outcome_share,reversed,0
+layer,2025-01 07:00,1,2025-01,7,R,TX,79,1,joint_electricity_total_share,signal_bearing__retained,0.961041113084
+layer,2025-01 07:00,1,2025-01,7,R,TX,79,1,joint_electricity_total_share,signal_bearing__neutralized,0.0389588869156
+layer,2025-01 07:00,1,2025-01,7,R,TX,79,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 07:00,1,2025-01,7,R,TX,79,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 07:00,1,2025-01,7,R,TX,79,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-01 07:00,1,2025-01,7,R,TX,79,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 07:00,1,2025-01,7,R,TX,79,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 07:00,1,2025-01,7,R,TX,79,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 07:00,1,2025-01,7,R,TX,79,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 07:00,1,2025-01,7,R,KWH,79,1,electricity_status_share,signal_bearing,1
+layer,2025-01 07:00,1,2025-01,7,R,KWH,79,1,electricity_status_share,weak_signal,0
+layer,2025-01 07:00,1,2025-01,7,R,KWH,79,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 07:00,1,2025-01,7,R,KWH,79,1,total_outcome_share,retained,0.946880437697
+layer,2025-01 07:00,1,2025-01,7,R,KWH,79,1,total_outcome_share,neutralized,0.0531195623032
+layer,2025-01 07:00,1,2025-01,7,R,KWH,79,1,total_outcome_share,reversed,0
+layer,2025-01 07:00,1,2025-01,7,R,KWH,79,1,joint_electricity_total_share,signal_bearing__retained,0.946880437697
+layer,2025-01 07:00,1,2025-01,7,R,KWH,79,1,joint_electricity_total_share,signal_bearing__neutralized,0.0531195623032
+layer,2025-01 07:00,1,2025-01,7,R,KWH,79,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 07:00,1,2025-01,7,R,KWH,79,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 07:00,1,2025-01,7,R,KWH,79,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-01 07:00,1,2025-01,7,R,KWH,79,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 07:00,1,2025-01,7,R,KWH,79,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 07:00,1,2025-01,7,R,KWH,79,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 07:00,1,2025-01,7,R,KWH,79,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 10:00,2,2025-01,10,R,ST,96,1,electricity_status_share,signal_bearing,1
+layer,2025-01 10:00,2,2025-01,10,R,ST,96,1,electricity_status_share,weak_signal,0
+layer,2025-01 10:00,2,2025-01,10,R,ST,96,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 10:00,2,2025-01,10,R,ST,96,1,total_outcome_share,retained,1
+layer,2025-01 10:00,2,2025-01,10,R,ST,96,1,total_outcome_share,neutralized,0
+layer,2025-01 10:00,2,2025-01,10,R,ST,96,1,total_outcome_share,reversed,0
+layer,2025-01 10:00,2,2025-01,10,R,ST,96,1,joint_electricity_total_share,signal_bearing__retained,1
+layer,2025-01 10:00,2,2025-01,10,R,ST,96,1,joint_electricity_total_share,signal_bearing__neutralized,0
+layer,2025-01 10:00,2,2025-01,10,R,ST,96,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 10:00,2,2025-01,10,R,ST,96,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 10:00,2,2025-01,10,R,ST,96,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-01 10:00,2,2025-01,10,R,ST,96,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 10:00,2,2025-01,10,R,ST,96,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 10:00,2,2025-01,10,R,ST,96,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 10:00,2,2025-01,10,R,ST,96,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 10:00,2,2025-01,10,R,TX,96,1,electricity_status_share,signal_bearing,1
+layer,2025-01 10:00,2,2025-01,10,R,TX,96,1,electricity_status_share,weak_signal,0
+layer,2025-01 10:00,2,2025-01,10,R,TX,96,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 10:00,2,2025-01,10,R,TX,96,1,total_outcome_share,retained,1
+layer,2025-01 10:00,2,2025-01,10,R,TX,96,1,total_outcome_share,neutralized,0
+layer,2025-01 10:00,2,2025-01,10,R,TX,96,1,total_outcome_share,reversed,0
+layer,2025-01 10:00,2,2025-01,10,R,TX,96,1,joint_electricity_total_share,signal_bearing__retained,1
+layer,2025-01 10:00,2,2025-01,10,R,TX,96,1,joint_electricity_total_share,signal_bearing__neutralized,0
+layer,2025-01 10:00,2,2025-01,10,R,TX,96,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 10:00,2,2025-01,10,R,TX,96,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 10:00,2,2025-01,10,R,TX,96,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-01 10:00,2,2025-01,10,R,TX,96,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 10:00,2,2025-01,10,R,TX,96,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 10:00,2,2025-01,10,R,TX,96,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 10:00,2,2025-01,10,R,TX,96,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 10:00,2,2025-01,10,R,KWH,96,1,electricity_status_share,signal_bearing,1
+layer,2025-01 10:00,2,2025-01,10,R,KWH,96,1,electricity_status_share,weak_signal,0
+layer,2025-01 10:00,2,2025-01,10,R,KWH,96,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 10:00,2,2025-01,10,R,KWH,96,1,total_outcome_share,retained,1
+layer,2025-01 10:00,2,2025-01,10,R,KWH,96,1,total_outcome_share,neutralized,0
+layer,2025-01 10:00,2,2025-01,10,R,KWH,96,1,total_outcome_share,reversed,0
+layer,2025-01 10:00,2,2025-01,10,R,KWH,96,1,joint_electricity_total_share,signal_bearing__retained,1
+layer,2025-01 10:00,2,2025-01,10,R,KWH,96,1,joint_electricity_total_share,signal_bearing__neutralized,0
+layer,2025-01 10:00,2,2025-01,10,R,KWH,96,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 10:00,2,2025-01,10,R,KWH,96,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 10:00,2,2025-01,10,R,KWH,96,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-01 10:00,2,2025-01,10,R,KWH,96,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 10:00,2,2025-01,10,R,KWH,96,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 10:00,2,2025-01,10,R,KWH,96,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 10:00,2,2025-01,10,R,KWH,96,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 13:00,3,2025-01,13,R,ST,634,1,electricity_status_share,signal_bearing,1
+layer,2025-01 13:00,3,2025-01,13,R,ST,634,1,electricity_status_share,weak_signal,0
+layer,2025-01 13:00,3,2025-01,13,R,ST,634,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 13:00,3,2025-01,13,R,ST,634,1,total_outcome_share,retained,0.988958990536
+layer,2025-01 13:00,3,2025-01,13,R,ST,634,1,total_outcome_share,neutralized,0.00630914826498
+layer,2025-01 13:00,3,2025-01,13,R,ST,634,1,total_outcome_share,reversed,0.00473186119874
+layer,2025-01 13:00,3,2025-01,13,R,ST,634,1,joint_electricity_total_share,signal_bearing__retained,0.988958990536
+layer,2025-01 13:00,3,2025-01,13,R,ST,634,1,joint_electricity_total_share,signal_bearing__neutralized,0.00630914826498
+layer,2025-01 13:00,3,2025-01,13,R,ST,634,1,joint_electricity_total_share,signal_bearing__reversed,0.00473186119874
+layer,2025-01 13:00,3,2025-01,13,R,ST,634,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 13:00,3,2025-01,13,R,ST,634,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-01 13:00,3,2025-01,13,R,ST,634,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 13:00,3,2025-01,13,R,ST,634,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 13:00,3,2025-01,13,R,ST,634,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 13:00,3,2025-01,13,R,ST,634,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 13:00,3,2025-01,13,R,TX,634,1,electricity_status_share,signal_bearing,1
+layer,2025-01 13:00,3,2025-01,13,R,TX,634,1,electricity_status_share,weak_signal,0
+layer,2025-01 13:00,3,2025-01,13,R,TX,634,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 13:00,3,2025-01,13,R,TX,634,1,total_outcome_share,retained,0.985684722546
+layer,2025-01 13:00,3,2025-01,13,R,TX,634,1,total_outcome_share,neutralized,0.00535595165552
+layer,2025-01 13:00,3,2025-01,13,R,TX,634,1,total_outcome_share,reversed,0.00895932579862
+layer,2025-01 13:00,3,2025-01,13,R,TX,634,1,joint_electricity_total_share,signal_bearing__retained,0.985684722546
+layer,2025-01 13:00,3,2025-01,13,R,TX,634,1,joint_electricity_total_share,signal_bearing__neutralized,0.00535595165552
+layer,2025-01 13:00,3,2025-01,13,R,TX,634,1,joint_electricity_total_share,signal_bearing__reversed,0.00895932579862
+layer,2025-01 13:00,3,2025-01,13,R,TX,634,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 13:00,3,2025-01,13,R,TX,634,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-01 13:00,3,2025-01,13,R,TX,634,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 13:00,3,2025-01,13,R,TX,634,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 13:00,3,2025-01,13,R,TX,634,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 13:00,3,2025-01,13,R,TX,634,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 13:00,3,2025-01,13,R,KWH,634,1,electricity_status_share,signal_bearing,1
+layer,2025-01 13:00,3,2025-01,13,R,KWH,634,1,electricity_status_share,weak_signal,0
+layer,2025-01 13:00,3,2025-01,13,R,KWH,634,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 13:00,3,2025-01,13,R,KWH,634,1,total_outcome_share,retained,0.980885190596
+layer,2025-01 13:00,3,2025-01,13,R,KWH,634,1,total_outcome_share,neutralized,0.0050116021712
+layer,2025-01 13:00,3,2025-01,13,R,KWH,634,1,total_outcome_share,reversed,0.0141032072331
+layer,2025-01 13:00,3,2025-01,13,R,KWH,634,1,joint_electricity_total_share,signal_bearing__retained,0.980885190596
+layer,2025-01 13:00,3,2025-01,13,R,KWH,634,1,joint_electricity_total_share,signal_bearing__neutralized,0.0050116021712
+layer,2025-01 13:00,3,2025-01,13,R,KWH,634,1,joint_electricity_total_share,signal_bearing__reversed,0.0141032072331
+layer,2025-01 13:00,3,2025-01,13,R,KWH,634,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 13:00,3,2025-01,13,R,KWH,634,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-01 13:00,3,2025-01,13,R,KWH,634,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 13:00,3,2025-01,13,R,KWH,634,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 13:00,3,2025-01,13,R,KWH,634,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 13:00,3,2025-01,13,R,KWH,634,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 17:00,4,2025-01,17,R,ST,518,1,electricity_status_share,signal_bearing,1
+layer,2025-01 17:00,4,2025-01,17,R,ST,518,1,electricity_status_share,weak_signal,0
+layer,2025-01 17:00,4,2025-01,17,R,ST,518,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 17:00,4,2025-01,17,R,ST,518,1,total_outcome_share,retained,0.998069498069
+layer,2025-01 17:00,4,2025-01,17,R,ST,518,1,total_outcome_share,neutralized,0
+layer,2025-01 17:00,4,2025-01,17,R,ST,518,1,total_outcome_share,reversed,0.0019305019305
+layer,2025-01 17:00,4,2025-01,17,R,ST,518,1,joint_electricity_total_share,signal_bearing__retained,0.998069498069
+layer,2025-01 17:00,4,2025-01,17,R,ST,518,1,joint_electricity_total_share,signal_bearing__neutralized,0
+layer,2025-01 17:00,4,2025-01,17,R,ST,518,1,joint_electricity_total_share,signal_bearing__reversed,0.0019305019305
+layer,2025-01 17:00,4,2025-01,17,R,ST,518,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 17:00,4,2025-01,17,R,ST,518,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-01 17:00,4,2025-01,17,R,ST,518,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 17:00,4,2025-01,17,R,ST,518,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 17:00,4,2025-01,17,R,ST,518,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 17:00,4,2025-01,17,R,ST,518,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 17:00,4,2025-01,17,R,TX,518,1,electricity_status_share,signal_bearing,1
+layer,2025-01 17:00,4,2025-01,17,R,TX,518,1,electricity_status_share,weak_signal,0
+layer,2025-01 17:00,4,2025-01,17,R,TX,518,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 17:00,4,2025-01,17,R,TX,518,1,total_outcome_share,retained,0.994101299285
+layer,2025-01 17:00,4,2025-01,17,R,TX,518,1,total_outcome_share,neutralized,0
+layer,2025-01 17:00,4,2025-01,17,R,TX,518,1,total_outcome_share,reversed,0.00589870071468
+layer,2025-01 17:00,4,2025-01,17,R,TX,518,1,joint_electricity_total_share,signal_bearing__retained,0.994101299285
+layer,2025-01 17:00,4,2025-01,17,R,TX,518,1,joint_electricity_total_share,signal_bearing__neutralized,0
+layer,2025-01 17:00,4,2025-01,17,R,TX,518,1,joint_electricity_total_share,signal_bearing__reversed,0.00589870071468
+layer,2025-01 17:00,4,2025-01,17,R,TX,518,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 17:00,4,2025-01,17,R,TX,518,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-01 17:00,4,2025-01,17,R,TX,518,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 17:00,4,2025-01,17,R,TX,518,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 17:00,4,2025-01,17,R,TX,518,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 17:00,4,2025-01,17,R,TX,518,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 17:00,4,2025-01,17,R,KWH,518,1,electricity_status_share,signal_bearing,1
+layer,2025-01 17:00,4,2025-01,17,R,KWH,518,1,electricity_status_share,weak_signal,0
+layer,2025-01 17:00,4,2025-01,17,R,KWH,518,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 17:00,4,2025-01,17,R,KWH,518,1,total_outcome_share,retained,0.990007836682
+layer,2025-01 17:00,4,2025-01,17,R,KWH,518,1,total_outcome_share,neutralized,0
+layer,2025-01 17:00,4,2025-01,17,R,KWH,518,1,total_outcome_share,reversed,0.00999216331766
+layer,2025-01 17:00,4,2025-01,17,R,KWH,518,1,joint_electricity_total_share,signal_bearing__retained,0.990007836682
+layer,2025-01 17:00,4,2025-01,17,R,KWH,518,1,joint_electricity_total_share,signal_bearing__neutralized,0
+layer,2025-01 17:00,4,2025-01,17,R,KWH,518,1,joint_electricity_total_share,signal_bearing__reversed,0.00999216331766
+layer,2025-01 17:00,4,2025-01,17,R,KWH,518,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 17:00,4,2025-01,17,R,KWH,518,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-01 17:00,4,2025-01,17,R,KWH,518,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 17:00,4,2025-01,17,R,KWH,518,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 17:00,4,2025-01,17,R,KWH,518,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 17:00,4,2025-01,17,R,KWH,518,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 22:00,5,2025-01,22,R,ST,404,1,electricity_status_share,signal_bearing,1
+layer,2025-01 22:00,5,2025-01,22,R,ST,404,1,electricity_status_share,weak_signal,0
+layer,2025-01 22:00,5,2025-01,22,R,ST,404,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 22:00,5,2025-01,22,R,ST,404,1,total_outcome_share,retained,0.997524752475
+layer,2025-01 22:00,5,2025-01,22,R,ST,404,1,total_outcome_share,neutralized,0.00247524752475
+layer,2025-01 22:00,5,2025-01,22,R,ST,404,1,total_outcome_share,reversed,0
+layer,2025-01 22:00,5,2025-01,22,R,ST,404,1,joint_electricity_total_share,signal_bearing__retained,0.997524752475
+layer,2025-01 22:00,5,2025-01,22,R,ST,404,1,joint_electricity_total_share,signal_bearing__neutralized,0.00247524752475
+layer,2025-01 22:00,5,2025-01,22,R,ST,404,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 22:00,5,2025-01,22,R,ST,404,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 22:00,5,2025-01,22,R,ST,404,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-01 22:00,5,2025-01,22,R,ST,404,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 22:00,5,2025-01,22,R,ST,404,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 22:00,5,2025-01,22,R,ST,404,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 22:00,5,2025-01,22,R,ST,404,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 22:00,5,2025-01,22,R,TX,404,1,electricity_status_share,signal_bearing,1
+layer,2025-01 22:00,5,2025-01,22,R,TX,404,1,electricity_status_share,weak_signal,0
+layer,2025-01 22:00,5,2025-01,22,R,TX,404,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 22:00,5,2025-01,22,R,TX,404,1,total_outcome_share,retained,0.998702856078
+layer,2025-01 22:00,5,2025-01,22,R,TX,404,1,total_outcome_share,neutralized,0.00129714392157
+layer,2025-01 22:00,5,2025-01,22,R,TX,404,1,total_outcome_share,reversed,0
+layer,2025-01 22:00,5,2025-01,22,R,TX,404,1,joint_electricity_total_share,signal_bearing__retained,0.998702856078
+layer,2025-01 22:00,5,2025-01,22,R,TX,404,1,joint_electricity_total_share,signal_bearing__neutralized,0.00129714392157
+layer,2025-01 22:00,5,2025-01,22,R,TX,404,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 22:00,5,2025-01,22,R,TX,404,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 22:00,5,2025-01,22,R,TX,404,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-01 22:00,5,2025-01,22,R,TX,404,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 22:00,5,2025-01,22,R,TX,404,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 22:00,5,2025-01,22,R,TX,404,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 22:00,5,2025-01,22,R,TX,404,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 22:00,5,2025-01,22,R,KWH,404,1,electricity_status_share,signal_bearing,1
+layer,2025-01 22:00,5,2025-01,22,R,KWH,404,1,electricity_status_share,weak_signal,0
+layer,2025-01 22:00,5,2025-01,22,R,KWH,404,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 22:00,5,2025-01,22,R,KWH,404,1,total_outcome_share,retained,0.998855840195
+layer,2025-01 22:00,5,2025-01,22,R,KWH,404,1,total_outcome_share,neutralized,0.00114415980543
+layer,2025-01 22:00,5,2025-01,22,R,KWH,404,1,total_outcome_share,reversed,0
+layer,2025-01 22:00,5,2025-01,22,R,KWH,404,1,joint_electricity_total_share,signal_bearing__retained,0.998855840195
+layer,2025-01 22:00,5,2025-01,22,R,KWH,404,1,joint_electricity_total_share,signal_bearing__neutralized,0.00114415980543
+layer,2025-01 22:00,5,2025-01,22,R,KWH,404,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 22:00,5,2025-01,22,R,KWH,404,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 22:00,5,2025-01,22,R,KWH,404,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-01 22:00,5,2025-01,22,R,KWH,404,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 22:00,5,2025-01,22,R,KWH,404,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 22:00,5,2025-01,22,R,KWH,404,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 22:00,5,2025-01,22,R,KWH,404,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 23:00,6,2025-01,23,R,ST,515,1,electricity_status_share,signal_bearing,1
+layer,2025-01 23:00,6,2025-01,23,R,ST,515,1,electricity_status_share,weak_signal,0
+layer,2025-01 23:00,6,2025-01,23,R,ST,515,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 23:00,6,2025-01,23,R,ST,515,1,total_outcome_share,retained,1
+layer,2025-01 23:00,6,2025-01,23,R,ST,515,1,total_outcome_share,neutralized,0
+layer,2025-01 23:00,6,2025-01,23,R,ST,515,1,total_outcome_share,reversed,0
+layer,2025-01 23:00,6,2025-01,23,R,ST,515,1,joint_electricity_total_share,signal_bearing__retained,1
+layer,2025-01 23:00,6,2025-01,23,R,ST,515,1,joint_electricity_total_share,signal_bearing__neutralized,0
+layer,2025-01 23:00,6,2025-01,23,R,ST,515,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 23:00,6,2025-01,23,R,ST,515,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 23:00,6,2025-01,23,R,ST,515,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-01 23:00,6,2025-01,23,R,ST,515,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 23:00,6,2025-01,23,R,ST,515,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 23:00,6,2025-01,23,R,ST,515,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 23:00,6,2025-01,23,R,ST,515,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 23:00,6,2025-01,23,R,TX,515,1,electricity_status_share,signal_bearing,1
+layer,2025-01 23:00,6,2025-01,23,R,TX,515,1,electricity_status_share,weak_signal,0
+layer,2025-01 23:00,6,2025-01,23,R,TX,515,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 23:00,6,2025-01,23,R,TX,515,1,total_outcome_share,retained,1
+layer,2025-01 23:00,6,2025-01,23,R,TX,515,1,total_outcome_share,neutralized,0
+layer,2025-01 23:00,6,2025-01,23,R,TX,515,1,total_outcome_share,reversed,0
+layer,2025-01 23:00,6,2025-01,23,R,TX,515,1,joint_electricity_total_share,signal_bearing__retained,1
+layer,2025-01 23:00,6,2025-01,23,R,TX,515,1,joint_electricity_total_share,signal_bearing__neutralized,0
+layer,2025-01 23:00,6,2025-01,23,R,TX,515,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 23:00,6,2025-01,23,R,TX,515,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 23:00,6,2025-01,23,R,TX,515,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-01 23:00,6,2025-01,23,R,TX,515,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 23:00,6,2025-01,23,R,TX,515,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 23:00,6,2025-01,23,R,TX,515,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 23:00,6,2025-01,23,R,TX,515,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-01 23:00,6,2025-01,23,R,KWH,515,1,electricity_status_share,signal_bearing,1
+layer,2025-01 23:00,6,2025-01,23,R,KWH,515,1,electricity_status_share,weak_signal,0
+layer,2025-01 23:00,6,2025-01,23,R,KWH,515,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-01 23:00,6,2025-01,23,R,KWH,515,1,total_outcome_share,retained,1
+layer,2025-01 23:00,6,2025-01,23,R,KWH,515,1,total_outcome_share,neutralized,0
+layer,2025-01 23:00,6,2025-01,23,R,KWH,515,1,total_outcome_share,reversed,0
+layer,2025-01 23:00,6,2025-01,23,R,KWH,515,1,joint_electricity_total_share,signal_bearing__retained,1
+layer,2025-01 23:00,6,2025-01,23,R,KWH,515,1,joint_electricity_total_share,signal_bearing__neutralized,0
+layer,2025-01 23:00,6,2025-01,23,R,KWH,515,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-01 23:00,6,2025-01,23,R,KWH,515,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-01 23:00,6,2025-01,23,R,KWH,515,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-01 23:00,6,2025-01,23,R,KWH,515,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-01 23:00,6,2025-01,23,R,KWH,515,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-01 23:00,6,2025-01,23,R,KWH,515,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-01 23:00,6,2025-01,23,R,KWH,515,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 07:00,7,2025-07,7,R,ST,2103,1,electricity_status_share,signal_bearing,1
+layer,2025-07 07:00,7,2025-07,7,R,ST,2103,1,electricity_status_share,weak_signal,0
+layer,2025-07 07:00,7,2025-07,7,R,ST,2103,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 07:00,7,2025-07,7,R,ST,2103,1,total_outcome_share,retained,0.988587731812
+layer,2025-07 07:00,7,2025-07,7,R,ST,2103,1,total_outcome_share,neutralized,0.00570613409415
+layer,2025-07 07:00,7,2025-07,7,R,ST,2103,1,total_outcome_share,reversed,0.00570613409415
+layer,2025-07 07:00,7,2025-07,7,R,ST,2103,1,joint_electricity_total_share,signal_bearing__retained,0.988587731812
+layer,2025-07 07:00,7,2025-07,7,R,ST,2103,1,joint_electricity_total_share,signal_bearing__neutralized,0.00570613409415
+layer,2025-07 07:00,7,2025-07,7,R,ST,2103,1,joint_electricity_total_share,signal_bearing__reversed,0.00570613409415
+layer,2025-07 07:00,7,2025-07,7,R,ST,2103,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-07 07:00,7,2025-07,7,R,ST,2103,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-07 07:00,7,2025-07,7,R,ST,2103,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-07 07:00,7,2025-07,7,R,ST,2103,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 07:00,7,2025-07,7,R,ST,2103,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 07:00,7,2025-07,7,R,ST,2103,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 07:00,7,2025-07,7,R,TX,2103,1,electricity_status_share,signal_bearing,1
+layer,2025-07 07:00,7,2025-07,7,R,TX,2103,1,electricity_status_share,weak_signal,0
+layer,2025-07 07:00,7,2025-07,7,R,TX,2103,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 07:00,7,2025-07,7,R,TX,2103,1,total_outcome_share,retained,0.990907383587
+layer,2025-07 07:00,7,2025-07,7,R,TX,2103,1,total_outcome_share,neutralized,0.00362451346744
+layer,2025-07 07:00,7,2025-07,7,R,TX,2103,1,total_outcome_share,reversed,0.00546810294564
+layer,2025-07 07:00,7,2025-07,7,R,TX,2103,1,joint_electricity_total_share,signal_bearing__retained,0.990907383587
+layer,2025-07 07:00,7,2025-07,7,R,TX,2103,1,joint_electricity_total_share,signal_bearing__neutralized,0.00362451346744
+layer,2025-07 07:00,7,2025-07,7,R,TX,2103,1,joint_electricity_total_share,signal_bearing__reversed,0.00546810294564
+layer,2025-07 07:00,7,2025-07,7,R,TX,2103,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-07 07:00,7,2025-07,7,R,TX,2103,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-07 07:00,7,2025-07,7,R,TX,2103,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-07 07:00,7,2025-07,7,R,TX,2103,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 07:00,7,2025-07,7,R,TX,2103,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 07:00,7,2025-07,7,R,TX,2103,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 07:00,7,2025-07,7,R,KWH,2103,1,electricity_status_share,signal_bearing,1
+layer,2025-07 07:00,7,2025-07,7,R,KWH,2103,1,electricity_status_share,weak_signal,0
+layer,2025-07 07:00,7,2025-07,7,R,KWH,2103,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 07:00,7,2025-07,7,R,KWH,2103,1,total_outcome_share,retained,0.989205114783
+layer,2025-07 07:00,7,2025-07,7,R,KWH,2103,1,total_outcome_share,neutralized,0.00605632590349
+layer,2025-07 07:00,7,2025-07,7,R,KWH,2103,1,total_outcome_share,reversed,0.00473855931358
+layer,2025-07 07:00,7,2025-07,7,R,KWH,2103,1,joint_electricity_total_share,signal_bearing__retained,0.989205114783
+layer,2025-07 07:00,7,2025-07,7,R,KWH,2103,1,joint_electricity_total_share,signal_bearing__neutralized,0.00605632590349
+layer,2025-07 07:00,7,2025-07,7,R,KWH,2103,1,joint_electricity_total_share,signal_bearing__reversed,0.00473855931358
+layer,2025-07 07:00,7,2025-07,7,R,KWH,2103,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-07 07:00,7,2025-07,7,R,KWH,2103,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-07 07:00,7,2025-07,7,R,KWH,2103,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-07 07:00,7,2025-07,7,R,KWH,2103,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 07:00,7,2025-07,7,R,KWH,2103,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 07:00,7,2025-07,7,R,KWH,2103,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 10:00,8,2025-07,10,R,ST,1086,1,electricity_status_share,signal_bearing,1
+layer,2025-07 10:00,8,2025-07,10,R,ST,1086,1,electricity_status_share,weak_signal,0
+layer,2025-07 10:00,8,2025-07,10,R,ST,1086,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 10:00,8,2025-07,10,R,ST,1086,1,total_outcome_share,retained,0.996316758748
+layer,2025-07 10:00,8,2025-07,10,R,ST,1086,1,total_outcome_share,neutralized,0.00184162062615
+layer,2025-07 10:00,8,2025-07,10,R,ST,1086,1,total_outcome_share,reversed,0.00184162062615
+layer,2025-07 10:00,8,2025-07,10,R,ST,1086,1,joint_electricity_total_share,signal_bearing__retained,0.996316758748
+layer,2025-07 10:00,8,2025-07,10,R,ST,1086,1,joint_electricity_total_share,signal_bearing__neutralized,0.00184162062615
+layer,2025-07 10:00,8,2025-07,10,R,ST,1086,1,joint_electricity_total_share,signal_bearing__reversed,0.00184162062615
+layer,2025-07 10:00,8,2025-07,10,R,ST,1086,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-07 10:00,8,2025-07,10,R,ST,1086,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-07 10:00,8,2025-07,10,R,ST,1086,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-07 10:00,8,2025-07,10,R,ST,1086,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 10:00,8,2025-07,10,R,ST,1086,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 10:00,8,2025-07,10,R,ST,1086,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 10:00,8,2025-07,10,R,TX,1086,1,electricity_status_share,signal_bearing,1
+layer,2025-07 10:00,8,2025-07,10,R,TX,1086,1,electricity_status_share,weak_signal,0
+layer,2025-07 10:00,8,2025-07,10,R,TX,1086,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 10:00,8,2025-07,10,R,TX,1086,1,total_outcome_share,retained,0.998115178389
+layer,2025-07 10:00,8,2025-07,10,R,TX,1086,1,total_outcome_share,neutralized,0.000929716981118
+layer,2025-07 10:00,8,2025-07,10,R,TX,1086,1,total_outcome_share,reversed,0.000955104629746
+layer,2025-07 10:00,8,2025-07,10,R,TX,1086,1,joint_electricity_total_share,signal_bearing__retained,0.998115178389
+layer,2025-07 10:00,8,2025-07,10,R,TX,1086,1,joint_electricity_total_share,signal_bearing__neutralized,0.000929716981118
+layer,2025-07 10:00,8,2025-07,10,R,TX,1086,1,joint_electricity_total_share,signal_bearing__reversed,0.000955104629746
+layer,2025-07 10:00,8,2025-07,10,R,TX,1086,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-07 10:00,8,2025-07,10,R,TX,1086,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-07 10:00,8,2025-07,10,R,TX,1086,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-07 10:00,8,2025-07,10,R,TX,1086,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 10:00,8,2025-07,10,R,TX,1086,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 10:00,8,2025-07,10,R,TX,1086,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 10:00,8,2025-07,10,R,KWH,1086,1,electricity_status_share,signal_bearing,1
+layer,2025-07 10:00,8,2025-07,10,R,KWH,1086,1,electricity_status_share,weak_signal,0
+layer,2025-07 10:00,8,2025-07,10,R,KWH,1086,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 10:00,8,2025-07,10,R,KWH,1086,1,total_outcome_share,retained,0.997102469154
+layer,2025-07 10:00,8,2025-07,10,R,KWH,1086,1,total_outcome_share,neutralized,0.000756043022601
+layer,2025-07 10:00,8,2025-07,10,R,KWH,1086,1,total_outcome_share,reversed,0.00214148782296
+layer,2025-07 10:00,8,2025-07,10,R,KWH,1086,1,joint_electricity_total_share,signal_bearing__retained,0.997102469154
+layer,2025-07 10:00,8,2025-07,10,R,KWH,1086,1,joint_electricity_total_share,signal_bearing__neutralized,0.000756043022601
+layer,2025-07 10:00,8,2025-07,10,R,KWH,1086,1,joint_electricity_total_share,signal_bearing__reversed,0.00214148782296
+layer,2025-07 10:00,8,2025-07,10,R,KWH,1086,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-07 10:00,8,2025-07,10,R,KWH,1086,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-07 10:00,8,2025-07,10,R,KWH,1086,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-07 10:00,8,2025-07,10,R,KWH,1086,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 10:00,8,2025-07,10,R,KWH,1086,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 10:00,8,2025-07,10,R,KWH,1086,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 22:00,9,2025-07,22,R,ST,1054,1,electricity_status_share,signal_bearing,1
+layer,2025-07 22:00,9,2025-07,22,R,ST,1054,1,electricity_status_share,weak_signal,0
+layer,2025-07 22:00,9,2025-07,22,R,ST,1054,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 22:00,9,2025-07,22,R,ST,1054,1,total_outcome_share,retained,0.999051233397
+layer,2025-07 22:00,9,2025-07,22,R,ST,1054,1,total_outcome_share,neutralized,0.000948766603416
+layer,2025-07 22:00,9,2025-07,22,R,ST,1054,1,total_outcome_share,reversed,0
+layer,2025-07 22:00,9,2025-07,22,R,ST,1054,1,joint_electricity_total_share,signal_bearing__retained,0.999051233397
+layer,2025-07 22:00,9,2025-07,22,R,ST,1054,1,joint_electricity_total_share,signal_bearing__neutralized,0.000948766603416
+layer,2025-07 22:00,9,2025-07,22,R,ST,1054,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-07 22:00,9,2025-07,22,R,ST,1054,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-07 22:00,9,2025-07,22,R,ST,1054,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-07 22:00,9,2025-07,22,R,ST,1054,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-07 22:00,9,2025-07,22,R,ST,1054,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 22:00,9,2025-07,22,R,ST,1054,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 22:00,9,2025-07,22,R,ST,1054,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 22:00,9,2025-07,22,R,TX,1054,1,electricity_status_share,signal_bearing,1
+layer,2025-07 22:00,9,2025-07,22,R,TX,1054,1,electricity_status_share,weak_signal,0
+layer,2025-07 22:00,9,2025-07,22,R,TX,1054,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 22:00,9,2025-07,22,R,TX,1054,1,total_outcome_share,retained,0.999646568033
+layer,2025-07 22:00,9,2025-07,22,R,TX,1054,1,total_outcome_share,neutralized,0.000353431967315
+layer,2025-07 22:00,9,2025-07,22,R,TX,1054,1,total_outcome_share,reversed,0
+layer,2025-07 22:00,9,2025-07,22,R,TX,1054,1,joint_electricity_total_share,signal_bearing__retained,0.999646568033
+layer,2025-07 22:00,9,2025-07,22,R,TX,1054,1,joint_electricity_total_share,signal_bearing__neutralized,0.000353431967315
+layer,2025-07 22:00,9,2025-07,22,R,TX,1054,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-07 22:00,9,2025-07,22,R,TX,1054,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-07 22:00,9,2025-07,22,R,TX,1054,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-07 22:00,9,2025-07,22,R,TX,1054,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-07 22:00,9,2025-07,22,R,TX,1054,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 22:00,9,2025-07,22,R,TX,1054,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 22:00,9,2025-07,22,R,TX,1054,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 22:00,9,2025-07,22,R,KWH,1054,1,electricity_status_share,signal_bearing,1
+layer,2025-07 22:00,9,2025-07,22,R,KWH,1054,1,electricity_status_share,weak_signal,0
+layer,2025-07 22:00,9,2025-07,22,R,KWH,1054,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 22:00,9,2025-07,22,R,KWH,1054,1,total_outcome_share,retained,0.999689399079
+layer,2025-07 22:00,9,2025-07,22,R,KWH,1054,1,total_outcome_share,neutralized,0.000310600920887
+layer,2025-07 22:00,9,2025-07,22,R,KWH,1054,1,total_outcome_share,reversed,0
+layer,2025-07 22:00,9,2025-07,22,R,KWH,1054,1,joint_electricity_total_share,signal_bearing__retained,0.999689399079
+layer,2025-07 22:00,9,2025-07,22,R,KWH,1054,1,joint_electricity_total_share,signal_bearing__neutralized,0.000310600920887
+layer,2025-07 22:00,9,2025-07,22,R,KWH,1054,1,joint_electricity_total_share,signal_bearing__reversed,0
+layer,2025-07 22:00,9,2025-07,22,R,KWH,1054,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-07 22:00,9,2025-07,22,R,KWH,1054,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-07 22:00,9,2025-07,22,R,KWH,1054,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-07 22:00,9,2025-07,22,R,KWH,1054,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 22:00,9,2025-07,22,R,KWH,1054,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 22:00,9,2025-07,22,R,KWH,1054,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 23:00,10,2025-07,23,R,ST,1042,1,electricity_status_share,signal_bearing,1
+layer,2025-07 23:00,10,2025-07,23,R,ST,1042,1,electricity_status_share,weak_signal,0
+layer,2025-07 23:00,10,2025-07,23,R,ST,1042,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 23:00,10,2025-07,23,R,ST,1042,1,total_outcome_share,retained,0.991362763916
+layer,2025-07 23:00,10,2025-07,23,R,ST,1042,1,total_outcome_share,neutralized,0.00191938579655
+layer,2025-07 23:00,10,2025-07,23,R,ST,1042,1,total_outcome_share,reversed,0.00671785028791
+layer,2025-07 23:00,10,2025-07,23,R,ST,1042,1,joint_electricity_total_share,signal_bearing__retained,0.991362763916
+layer,2025-07 23:00,10,2025-07,23,R,ST,1042,1,joint_electricity_total_share,signal_bearing__neutralized,0.00191938579655
+layer,2025-07 23:00,10,2025-07,23,R,ST,1042,1,joint_electricity_total_share,signal_bearing__reversed,0.00671785028791
+layer,2025-07 23:00,10,2025-07,23,R,ST,1042,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-07 23:00,10,2025-07,23,R,ST,1042,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-07 23:00,10,2025-07,23,R,ST,1042,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-07 23:00,10,2025-07,23,R,ST,1042,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 23:00,10,2025-07,23,R,ST,1042,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 23:00,10,2025-07,23,R,ST,1042,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 23:00,10,2025-07,23,R,TX,1042,1,electricity_status_share,signal_bearing,1
+layer,2025-07 23:00,10,2025-07,23,R,TX,1042,1,electricity_status_share,weak_signal,0
+layer,2025-07 23:00,10,2025-07,23,R,TX,1042,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 23:00,10,2025-07,23,R,TX,1042,1,total_outcome_share,retained,0.992386617523
+layer,2025-07 23:00,10,2025-07,23,R,TX,1042,1,total_outcome_share,neutralized,0.00199353690393
+layer,2025-07 23:00,10,2025-07,23,R,TX,1042,1,total_outcome_share,reversed,0.00561984557271
+layer,2025-07 23:00,10,2025-07,23,R,TX,1042,1,joint_electricity_total_share,signal_bearing__retained,0.992386617523
+layer,2025-07 23:00,10,2025-07,23,R,TX,1042,1,joint_electricity_total_share,signal_bearing__neutralized,0.00199353690393
+layer,2025-07 23:00,10,2025-07,23,R,TX,1042,1,joint_electricity_total_share,signal_bearing__reversed,0.00561984557271
+layer,2025-07 23:00,10,2025-07,23,R,TX,1042,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-07 23:00,10,2025-07,23,R,TX,1042,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-07 23:00,10,2025-07,23,R,TX,1042,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-07 23:00,10,2025-07,23,R,TX,1042,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 23:00,10,2025-07,23,R,TX,1042,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 23:00,10,2025-07,23,R,TX,1042,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer,2025-07 23:00,10,2025-07,23,R,KWH,1042,1,electricity_status_share,signal_bearing,1
+layer,2025-07 23:00,10,2025-07,23,R,KWH,1042,1,electricity_status_share,weak_signal,0
+layer,2025-07 23:00,10,2025-07,23,R,KWH,1042,1,electricity_status_share,discordant_electricity_signal,0
+layer,2025-07 23:00,10,2025-07,23,R,KWH,1042,1,total_outcome_share,retained,0.991997467959
+layer,2025-07 23:00,10,2025-07,23,R,KWH,1042,1,total_outcome_share,neutralized,0.00274154717367
+layer,2025-07 23:00,10,2025-07,23,R,KWH,1042,1,total_outcome_share,reversed,0.00526098486739
+layer,2025-07 23:00,10,2025-07,23,R,KWH,1042,1,joint_electricity_total_share,signal_bearing__retained,0.991997467959
+layer,2025-07 23:00,10,2025-07,23,R,KWH,1042,1,joint_electricity_total_share,signal_bearing__neutralized,0.00274154717367
+layer,2025-07 23:00,10,2025-07,23,R,KWH,1042,1,joint_electricity_total_share,signal_bearing__reversed,0.00526098486739
+layer,2025-07 23:00,10,2025-07,23,R,KWH,1042,1,joint_electricity_total_share,weak_signal__retained,0
+layer,2025-07 23:00,10,2025-07,23,R,KWH,1042,1,joint_electricity_total_share,weak_signal__neutralized,0
+layer,2025-07 23:00,10,2025-07,23,R,KWH,1042,1,joint_electricity_total_share,weak_signal__reversed,0
+layer,2025-07 23:00,10,2025-07,23,R,KWH,1042,1,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer,2025-07 23:00,10,2025-07,23,R,KWH,1042,1,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer,2025-07 23:00,10,2025-07,23,R,KWH,1042,1,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,2623,6,electricity_status_share,signal_bearing,0.78951752328
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,2623,6,electricity_status_share,weak_signal,0.209902766575
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,2623,6,electricity_status_share,discordant_electricity_signal,0.000579710144928
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,2623,6,total_outcome_share,retained,0.782523154416
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,2623,6,total_outcome_share,neutralized,0.215638348655
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,2623,6,total_outcome_share,reversed,0.00183849692993
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,2623,6,joint_electricity_total_share,signal_bearing__retained,0.781693920895
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,2623,6,joint_electricity_total_share,signal_bearing__neutralized,0.00688941741564
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,2623,6,joint_electricity_total_share,signal_bearing__reversed,0.000934184969371
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,2623,6,joint_electricity_total_share,weak_signal__retained,0.0008292335204
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,2623,6,joint_electricity_total_share,weak_signal__neutralized,0.208169221094
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,2623,6,joint_electricity_total_share,weak_signal__reversed,0.000904311960562
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,2623,6,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,2623,6,joint_electricity_total_share,discordant_electricity_signal__neutralized,0.000579710144928
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,2623,6,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,2623,6,electricity_status_share,signal_bearing,0.827955777961
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,2623,6,electricity_status_share,weak_signal,0.171684655079
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,2623,6,electricity_status_share,discordant_electricity_signal,0.000359566959984
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,2623,6,total_outcome_share,retained,0.821443064738
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,2623,6,total_outcome_share,neutralized,0.175677655271
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,2623,6,total_outcome_share,reversed,0.00287927999054
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,2623,6,joint_electricity_total_share,signal_bearing__retained,0.820962760958
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,2623,6,joint_electricity_total_share,signal_bearing__neutralized,0.00493307079739
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,2623,6,joint_electricity_total_share,signal_bearing__reversed,0.002059946205
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,2623,6,joint_electricity_total_share,weak_signal__retained,0.000480303779978
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,2623,6,joint_electricity_total_share,weak_signal__neutralized,0.170385017514
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,2623,6,joint_electricity_total_share,weak_signal__reversed,0.000819333785535
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,2623,6,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,2623,6,joint_electricity_total_share,discordant_electricity_signal__neutralized,0.000359566959984
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,2623,6,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,2623,6,electricity_status_share,signal_bearing,0.794843508998
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,2623,6,electricity_status_share,weak_signal,0.20477180111
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,2623,6,electricity_status_share,discordant_electricity_signal,0.000384689891963
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,2623,6,total_outcome_share,retained,0.786423685892
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,2623,6,total_outcome_share,neutralized,0.209166878097
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,2623,6,total_outcome_share,reversed,0.00440943601068
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,2623,6,joint_electricity_total_share,signal_bearing__retained,0.785875500137
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,2623,6,joint_electricity_total_share,signal_bearing__neutralized,0.00580428506511
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,2623,6,joint_electricity_total_share,signal_bearing__reversed,0.00316372379572
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,2623,6,joint_electricity_total_share,weak_signal__retained,0.000548185754565
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,2623,6,joint_electricity_total_share,weak_signal__neutralized,0.20297790314
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,2623,6,joint_electricity_total_share,weak_signal__reversed,0.00124571221497
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,2623,6,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,2623,6,joint_electricity_total_share,discordant_electricity_signal__neutralized,0.000384689891963
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,2623,6,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,2246,6,electricity_status_share,signal_bearing,1
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,2246,6,electricity_status_share,weak_signal,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,2246,6,electricity_status_share,discordant_electricity_signal,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,2246,6,total_outcome_share,retained,0.986877016973
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,2246,6,total_outcome_share,neutralized,0.0120125891717
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,2246,6,total_outcome_share,reversed,0.00111039385487
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,2246,6,joint_electricity_total_share,signal_bearing__retained,0.986877016973
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,2246,6,joint_electricity_total_share,signal_bearing__neutralized,0.0120125891717
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,2246,6,joint_electricity_total_share,signal_bearing__reversed,0.00111039385487
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,2246,6,joint_electricity_total_share,weak_signal__retained,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,2246,6,joint_electricity_total_share,weak_signal__neutralized,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,2246,6,joint_electricity_total_share,weak_signal__reversed,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,2246,6,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,2246,6,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,2246,6,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,2246,6,electricity_status_share,signal_bearing,1
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,2246,6,electricity_status_share,weak_signal,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,2246,6,electricity_status_share,discordant_electricity_signal,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,2246,6,total_outcome_share,retained,0.989921665166
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,2246,6,total_outcome_share,neutralized,0.00760199708211
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,2246,6,total_outcome_share,reversed,0.00247633775222
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,2246,6,joint_electricity_total_share,signal_bearing__retained,0.989921665166
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,2246,6,joint_electricity_total_share,signal_bearing__neutralized,0.00760199708211
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,2246,6,joint_electricity_total_share,signal_bearing__reversed,0.00247633775222
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,2246,6,joint_electricity_total_share,weak_signal__retained,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,2246,6,joint_electricity_total_share,weak_signal__neutralized,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,2246,6,joint_electricity_total_share,weak_signal__reversed,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,2246,6,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,2246,6,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,2246,6,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,2246,6,electricity_status_share,signal_bearing,1
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,2246,6,electricity_status_share,weak_signal,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,2246,6,electricity_status_share,discordant_electricity_signal,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,2246,6,total_outcome_share,retained,0.986104884195
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,2246,6,total_outcome_share,neutralized,0.00987922071331
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,2246,6,total_outcome_share,reversed,0.0040158950918
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,2246,6,joint_electricity_total_share,signal_bearing__retained,0.986104884195
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,2246,6,joint_electricity_total_share,signal_bearing__neutralized,0.00987922071331
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,2246,6,joint_electricity_total_share,signal_bearing__reversed,0.0040158950918
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,2246,6,joint_electricity_total_share,weak_signal__retained,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,2246,6,joint_electricity_total_share,weak_signal__neutralized,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,2246,6,joint_electricity_total_share,weak_signal__reversed,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,2246,6,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,2246,6,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer_equal,JANUARY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,2246,6,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,5510,4,electricity_status_share,signal_bearing,0.963651536336
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,5510,4,electricity_status_share,weak_signal,0.0363484636645
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,5510,4,electricity_status_share,discordant_electricity_signal,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,5510,4,total_outcome_share,retained,0.962257285934
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,5510,4,total_outcome_share,neutralized,0.0331066394562
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,5510,4,total_outcome_share,reversed,0.00463607460995
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,5510,4,joint_electricity_total_share,signal_bearing__retained,0.95774845295
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,5510,4,joint_electricity_total_share,signal_bearing__neutralized,0.00248501511084
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,5510,4,joint_electricity_total_share,signal_bearing__reversed,0.00341806827465
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,5510,4,joint_electricity_total_share,weak_signal__retained,0.00450883298382
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,5510,4,joint_electricity_total_share,weak_signal__neutralized,0.0306216243454
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,5510,4,joint_electricity_total_share,weak_signal__reversed,0.00121800633529
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,5510,4,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,5510,4,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,5510,4,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,5510,4,electricity_status_share,signal_bearing,0.986686641582
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,5510,4,electricity_status_share,weak_signal,0.0133133584177
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,5510,4,electricity_status_share,discordant_electricity_signal,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,5510,4,total_outcome_share,retained,0.983901415812
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,5510,4,total_outcome_share,neutralized,0.0126298242536
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,5510,4,total_outcome_share,reversed,0.00346875993417
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,5510,4,joint_electricity_total_share,signal_bearing__retained,0.982012672552
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,5510,4,joint_electricity_total_share,signal_bearing__neutralized,0.00170141137958
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,5510,4,joint_electricity_total_share,signal_bearing__reversed,0.00297255765054
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,5510,4,joint_electricity_total_share,weak_signal__retained,0.00188874325997
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,5510,4,joint_electricity_total_share,weak_signal__neutralized,0.0109284128741
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,5510,4,joint_electricity_total_share,weak_signal__reversed,0.000496202283632
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,5510,4,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,5510,4,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,5510,4,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,5510,4,electricity_status_share,signal_bearing,0.984350654596
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,5510,4,electricity_status_share,weak_signal,0.0156493454044
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,5510,4,electricity_status_share,discordant_electricity_signal,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,5510,4,total_outcome_share,retained,0.981224441494
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,5510,4,total_outcome_share,neutralized,0.0152004360395
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,5510,4,total_outcome_share,reversed,0.00357512246632
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,5510,4,joint_electricity_total_share,signal_bearing__retained,0.978941167764
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,5510,4,joint_electricity_total_share,signal_bearing__neutralized,0.00242434988206
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,5510,4,joint_electricity_total_share,signal_bearing__reversed,0.00298513694939
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,5510,4,joint_electricity_total_share,weak_signal__retained,0.00228327373007
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,5510,4,joint_electricity_total_share,weak_signal__neutralized,0.0127760861574
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,5510,4,joint_electricity_total_share,weak_signal__reversed,0.000589985516926
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,5510,4,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,5510,4,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,5510,4,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,5285,4,electricity_status_share,signal_bearing,1
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,5285,4,electricity_status_share,weak_signal,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,5285,4,electricity_status_share,discordant_electricity_signal,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,5285,4,total_outcome_share,retained,0.993829621968
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,5285,4,total_outcome_share,neutralized,0.00260397678007
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,5285,4,total_outcome_share,reversed,0.00356640125205
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,5285,4,joint_electricity_total_share,signal_bearing__retained,0.993829621968
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,5285,4,joint_electricity_total_share,signal_bearing__neutralized,0.00260397678007
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,5285,4,joint_electricity_total_share,signal_bearing__reversed,0.00356640125205
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,5285,4,joint_electricity_total_share,weak_signal__retained,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,5285,4,joint_electricity_total_share,weak_signal__neutralized,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,5285,4,joint_electricity_total_share,weak_signal__reversed,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,5285,4,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,5285,4,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,5285,4,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,5285,4,electricity_status_share,signal_bearing,1
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,5285,4,electricity_status_share,weak_signal,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,5285,4,electricity_status_share,discordant_electricity_signal,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,5285,4,total_outcome_share,retained,0.995263936883
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,5285,4,total_outcome_share,neutralized,0.00172529982995
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,5285,4,total_outcome_share,reversed,0.00301076328702
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,5285,4,joint_electricity_total_share,signal_bearing__retained,0.995263936883
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,5285,4,joint_electricity_total_share,signal_bearing__neutralized,0.00172529982995
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,5285,4,joint_electricity_total_share,signal_bearing__reversed,0.00301076328702
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,5285,4,joint_electricity_total_share,weak_signal__retained,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,5285,4,joint_electricity_total_share,weak_signal__neutralized,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,5285,4,joint_electricity_total_share,weak_signal__reversed,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,5285,4,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,5285,4,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,5285,4,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,5285,4,electricity_status_share,signal_bearing,1
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,5285,4,electricity_status_share,weak_signal,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,5285,4,electricity_status_share,discordant_electricity_signal,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,5285,4,total_outcome_share,retained,0.994498612744
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,5285,4,total_outcome_share,neutralized,0.00246612925516
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,5285,4,total_outcome_share,reversed,0.00303525800098
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,5285,4,joint_electricity_total_share,signal_bearing__retained,0.994498612744
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,5285,4,joint_electricity_total_share,signal_bearing__neutralized,0.00246612925516
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,5285,4,joint_electricity_total_share,signal_bearing__reversed,0.00303525800098
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,5285,4,joint_electricity_total_share,weak_signal__retained,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,5285,4,joint_electricity_total_share,weak_signal__neutralized,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,5285,4,joint_electricity_total_share,weak_signal__reversed,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,5285,4,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,5285,4,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer_equal,JULY_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,5285,4,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,8133,10,electricity_status_share,signal_bearing,0.859171128502
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,8133,10,electricity_status_share,weak_signal,0.140481045411
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,8133,10,electricity_status_share,discordant_electricity_signal,0.000347826086957
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,8133,10,total_outcome_share,retained,0.854416807023
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,8133,10,total_outcome_share,neutralized,0.142625664975
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,8133,10,total_outcome_share,reversed,0.00295752800194
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,8133,10,joint_electricity_total_share,signal_bearing__retained,0.852115733717
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,8133,10,joint_electricity_total_share,signal_bearing__neutralized,0.00512765649372
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,8133,10,joint_electricity_total_share,signal_bearing__reversed,0.00192773829148
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,8133,10,joint_electricity_total_share,weak_signal__retained,0.00230107330577
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,8133,10,joint_electricity_total_share,weak_signal__neutralized,0.137150182395
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,8133,10,joint_electricity_total_share,weak_signal__reversed,0.00102978971045
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,8133,10,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,8133,10,joint_electricity_total_share,discordant_electricity_signal__neutralized,0.000347826086957
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,ST,8133,10,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,8133,10,electricity_status_share,signal_bearing,0.891448123409
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,8133,10,electricity_status_share,weak_signal,0.108336136415
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,8133,10,electricity_status_share,discordant_electricity_signal,0.00021574017599
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,8133,10,total_outcome_share,retained,0.886426405168
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,8133,10,total_outcome_share,neutralized,0.110458522864
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,8133,10,total_outcome_share,reversed,0.00311507196799
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,8133,10,joint_electricity_total_share,signal_bearing__retained,0.885382725596
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,8133,10,joint_electricity_total_share,signal_bearing__neutralized,0.00364040703027
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,8133,10,joint_electricity_total_share,signal_bearing__reversed,0.00242499078322
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,8133,10,joint_electricity_total_share,weak_signal__retained,0.00104367957198
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,8133,10,joint_electricity_total_share,weak_signal__neutralized,0.106602375658
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,8133,10,joint_electricity_total_share,weak_signal__reversed,0.000690081184774
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,8133,10,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,8133,10,joint_electricity_total_share,discordant_electricity_signal__neutralized,0.00021574017599
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,TX,8133,10,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,8133,10,electricity_status_share,signal_bearing,0.870646367237
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,8133,10,electricity_status_share,weak_signal,0.129122818828
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,8133,10,electricity_status_share,discordant_electricity_signal,0.000230813935178
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,8133,10,total_outcome_share,retained,0.864343988133
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,8133,10,total_outcome_share,neutralized,0.131580301274
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,8133,10,total_outcome_share,reversed,0.00407571059294
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,8133,10,joint_electricity_total_share,signal_bearing__retained,0.863101767188
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,8133,10,joint_electricity_total_share,signal_bearing__neutralized,0.00445231099189
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,8133,10,joint_electricity_total_share,signal_bearing__reversed,0.00309228905719
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,8133,10,joint_electricity_total_share,weak_signal__retained,0.00124222094477
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,8133,10,joint_electricity_total_share,weak_signal__neutralized,0.126897176347
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,8133,10,joint_electricity_total_share,weak_signal__reversed,0.00098342153575
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,8133,10,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,8133,10,joint_electricity_total_share,discordant_electricity_signal__neutralized,0.000230813935178
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,A,KWH,8133,10,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,7531,10,electricity_status_share,signal_bearing,1
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,7531,10,electricity_status_share,weak_signal,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,7531,10,electricity_status_share,discordant_electricity_signal,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,7531,10,total_outcome_share,retained,0.989658058971
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,7531,10,total_outcome_share,neutralized,0.00824914421505
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,7531,10,total_outcome_share,reversed,0.00209279681375
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,7531,10,joint_electricity_total_share,signal_bearing__retained,0.989658058971
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,7531,10,joint_electricity_total_share,signal_bearing__neutralized,0.00824914421505
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,7531,10,joint_electricity_total_share,signal_bearing__reversed,0.00209279681375
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,7531,10,joint_electricity_total_share,weak_signal__retained,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,7531,10,joint_electricity_total_share,weak_signal__neutralized,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,7531,10,joint_electricity_total_share,weak_signal__reversed,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,7531,10,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,7531,10,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,ST,7531,10,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,7531,10,electricity_status_share,signal_bearing,1
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,7531,10,electricity_status_share,weak_signal,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,7531,10,electricity_status_share,discordant_electricity_signal,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,7531,10,total_outcome_share,retained,0.992058573853
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,7531,10,total_outcome_share,neutralized,0.00525131818125
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,7531,10,total_outcome_share,reversed,0.00269010796614
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,7531,10,joint_electricity_total_share,signal_bearing__retained,0.992058573853
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,7531,10,joint_electricity_total_share,signal_bearing__neutralized,0.00525131818125
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,7531,10,joint_electricity_total_share,signal_bearing__reversed,0.00269010796614
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,7531,10,joint_electricity_total_share,weak_signal__retained,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,7531,10,joint_electricity_total_share,weak_signal__neutralized,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,7531,10,joint_electricity_total_share,weak_signal__reversed,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,7531,10,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,7531,10,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,TX,7531,10,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,7531,10,electricity_status_share,signal_bearing,1
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,7531,10,electricity_status_share,weak_signal,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,7531,10,electricity_status_share,discordant_electricity_signal,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,7531,10,total_outcome_share,retained,0.989462375614
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,7531,10,total_outcome_share,neutralized,0.00691398413005
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,7531,10,total_outcome_share,reversed,0.00362364025547
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,7531,10,joint_electricity_total_share,signal_bearing__retained,0.989462375614
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,7531,10,joint_electricity_total_share,signal_bearing__neutralized,0.00691398413005
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,7531,10,joint_electricity_total_share,signal_bearing__reversed,0.00362364025547
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,7531,10,joint_electricity_total_share,weak_signal__retained,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,7531,10,joint_electricity_total_share,weak_signal__neutralized,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,7531,10,joint_electricity_total_share,weak_signal__reversed,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,7531,10,joint_electricity_total_share,discordant_electricity_signal__retained,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,7531,10,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+layer_equal,TWO_MONTH_LAYER_EQUAL,0,LAYER_EQUAL,,R,KWH,7531,10,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,ST,8133,10,electricity_status_share,signal_bearing,0.925980572974
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,ST,8133,10,electricity_status_share,weak_signal,0.073773515308
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,ST,8133,10,electricity_status_share,discordant_electricity_signal,0.000245911717693
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,ST,8133,10,total_outcome_share,retained,0.923644411656
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,ST,8133,10,total_outcome_share,neutralized,0.0720521332842
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,ST,8133,10,total_outcome_share,reversed,0.00430345505963
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,ST,8133,10,joint_electricity_total_share,signal_bearing__retained,0.919586868314
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,ST,8133,10,joint_electricity_total_share,signal_bearing__neutralized,0.00331980818886
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,ST,8133,10,joint_electricity_total_share,signal_bearing__reversed,0.00307389647117
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,ST,8133,10,joint_electricity_total_share,weak_signal__retained,0.00405754334194
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,ST,8133,10,joint_electricity_total_share,weak_signal__neutralized,0.0684864133776
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,ST,8133,10,joint_electricity_total_share,weak_signal__reversed,0.00122955858847
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,ST,8133,10,joint_electricity_total_share,discordant_electricity_signal__retained,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,ST,8133,10,joint_electricity_total_share,discordant_electricity_signal__neutralized,0.000245911717693
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,ST,8133,10,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,TX,8133,10,electricity_status_share,signal_bearing,0.978113481017
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,TX,8133,10,electricity_status_share,weak_signal,0.0218161514657
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,TX,8133,10,electricity_status_share,discordant_electricity_signal,7.03675174585e-05
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,TX,8133,10,total_outcome_share,retained,0.973536951307
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,TX,8133,10,total_outcome_share,neutralized,0.0227275418193
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,TX,8133,10,total_outcome_share,reversed,0.00373550687337
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,TX,8133,10,joint_electricity_total_share,signal_bearing__retained,0.972402330981
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,TX,8133,10,joint_electricity_total_share,signal_bearing__neutralized,0.00221104101969
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,TX,8133,10,joint_electricity_total_share,signal_bearing__reversed,0.00350010901568
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,TX,8133,10,joint_electricity_total_share,weak_signal__retained,0.00113462032586
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,TX,8133,10,joint_electricity_total_share,weak_signal__neutralized,0.0204461332821
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,TX,8133,10,joint_electricity_total_share,weak_signal__reversed,0.000235397857694
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,TX,8133,10,joint_electricity_total_share,discordant_electricity_signal__retained,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,TX,8133,10,joint_electricity_total_share,discordant_electricity_signal__neutralized,7.03675174585e-05
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,TX,8133,10,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,KWH,8133,10,electricity_status_share,signal_bearing,0.97562173377
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,KWH,8133,10,electricity_status_share,weak_signal,0.0243098616377
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,KWH,8133,10,electricity_status_share,discordant_electricity_signal,6.84045924074e-05
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,KWH,8133,10,total_outcome_share,retained,0.970306500286
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,KWH,8133,10,total_outcome_share,neutralized,0.0259751042812
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,KWH,8133,10,total_outcome_share,reversed,0.00371839543305
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,KWH,8133,10,joint_electricity_total_share,signal_bearing__retained,0.969211811469
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,KWH,8133,10,joint_electricity_total_share,signal_bearing__neutralized,0.0029485801437
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,KWH,8133,10,joint_electricity_total_share,signal_bearing__reversed,0.00346134215719
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,KWH,8133,10,joint_electricity_total_share,weak_signal__retained,0.00109468881676
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,KWH,8133,10,joint_electricity_total_share,weak_signal__neutralized,0.0229581195451
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,KWH,8133,10,joint_electricity_total_share,weak_signal__reversed,0.000257053275859
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,KWH,8133,10,joint_electricity_total_share,discordant_electricity_signal__retained,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,KWH,8133,10,joint_electricity_total_share,discordant_electricity_signal__neutralized,6.84045924074e-05
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,A,KWH,8133,10,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,ST,7531,10,electricity_status_share,signal_bearing,1
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,ST,7531,10,electricity_status_share,weak_signal,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,ST,7531,10,electricity_status_share,discordant_electricity_signal,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,ST,7531,10,total_outcome_share,retained,0.99309520648
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,ST,7531,10,total_outcome_share,neutralized,0.00358518125083
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,ST,7531,10,total_outcome_share,reversed,0.00331961226929
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,ST,7531,10,joint_electricity_total_share,signal_bearing__retained,0.99309520648
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,ST,7531,10,joint_electricity_total_share,signal_bearing__neutralized,0.00358518125083
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,ST,7531,10,joint_electricity_total_share,signal_bearing__reversed,0.00331961226929
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,ST,7531,10,joint_electricity_total_share,weak_signal__retained,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,ST,7531,10,joint_electricity_total_share,weak_signal__neutralized,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,ST,7531,10,joint_electricity_total_share,weak_signal__reversed,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,ST,7531,10,joint_electricity_total_share,discordant_electricity_signal__retained,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,ST,7531,10,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,ST,7531,10,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,TX,7531,10,electricity_status_share,signal_bearing,1
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,TX,7531,10,electricity_status_share,weak_signal,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,TX,7531,10,electricity_status_share,discordant_electricity_signal,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,TX,7531,10,total_outcome_share,retained,0.994160488715
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,TX,7531,10,total_outcome_share,neutralized,0.00226051381276
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,TX,7531,10,total_outcome_share,reversed,0.00357899747229
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,TX,7531,10,joint_electricity_total_share,signal_bearing__retained,0.994160488715
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,TX,7531,10,joint_electricity_total_share,signal_bearing__neutralized,0.00226051381276
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,TX,7531,10,joint_electricity_total_share,signal_bearing__reversed,0.00357899747229
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,TX,7531,10,joint_electricity_total_share,weak_signal__retained,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,TX,7531,10,joint_electricity_total_share,weak_signal__neutralized,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,TX,7531,10,joint_electricity_total_share,weak_signal__reversed,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,TX,7531,10,joint_electricity_total_share,discordant_electricity_signal__retained,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,TX,7531,10,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,TX,7531,10,joint_electricity_total_share,discordant_electricity_signal__reversed,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,KWH,7531,10,electricity_status_share,signal_bearing,1
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,KWH,7531,10,electricity_status_share,weak_signal,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,KWH,7531,10,electricity_status_share,discordant_electricity_signal,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,KWH,7531,10,total_outcome_share,retained,0.993429604427
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,KWH,7531,10,total_outcome_share,neutralized,0.00302217774429
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,KWH,7531,10,total_outcome_share,reversed,0.00354821782918
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,KWH,7531,10,joint_electricity_total_share,signal_bearing__retained,0.993429604427
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,KWH,7531,10,joint_electricity_total_share,signal_bearing__neutralized,0.00302217774429
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,KWH,7531,10,joint_electricity_total_share,signal_bearing__reversed,0.00354821782918
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,KWH,7531,10,joint_electricity_total_share,weak_signal__retained,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,KWH,7531,10,joint_electricity_total_share,weak_signal__neutralized,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,KWH,7531,10,joint_electricity_total_share,weak_signal__reversed,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,KWH,7531,10,joint_electricity_total_share,discordant_electricity_signal__retained,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,KWH,7531,10,joint_electricity_total_share,discordant_electricity_signal__neutralized,0
+pooled_units,TWO_MONTH_POOLED_UNITS,0,POOLED,,R,KWH,7531,10,joint_electricity_total_share,discordant_electricity_signal__reversed,0

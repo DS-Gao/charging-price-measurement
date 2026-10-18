@@ -1,0 +1,11 @@
+layer_order,month,boundary_hour,n_formation_supported,n_full_A_overlap,n_formation_outside_full_A,n_cached_formation_price,n_formation_R_known,n_validation_available_within_formation_R,n_formation_classification_missing,n_validation_prices_filled
+1,2025-01,7,234,133,101,78,26,26,156,0
+2,2025-01,10,126,123,3,117,45,45,9,0
+3,2025-01,13,137,137,0,136,11,11,1,0
+4,2025-01,17,206,188,18,176,138,138,30,0
+5,2025-01,22,277,246,31,200,191,191,77,0
+6,2025-01,23,360,308,52,253,244,244,107,0
+7,2025-07,7,2251,2146,105,2057,1954,1954,194,0
+8,2025-07,10,1133,1055,78,969,936,936,164,0
+11,2025-07,22,1081,1007,74,931,918,918,150,0
+12,2025-07,23,1078,1006,72,929,909,909,149,0

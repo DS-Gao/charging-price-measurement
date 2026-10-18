@@ -1,0 +1,5 @@
+candidate_partition,month,stations_with_at_least_20_transaction_days,stations_with_at_least_24_day_span,stations_with_complete_price_menu,stations_meeting_all_behavior_quantity_conditions,cross_month_behavior_candidates,behavior_quantity_status
+COMMON_10,2025-01,3018,3946,14,14,12,INSUFFICIENT_QUANTITY
+COMMON_10,2025-07,6056,7071,838,833,12,INSUFFICIENT_QUANTITY
+NATIVE_8,2025-01,3018,3946,56,56,50,INSUFFICIENT_QUANTITY
+NATIVE_8,2025-07,6056,7071,895,887,50,INSUFFICIENT_QUANTITY

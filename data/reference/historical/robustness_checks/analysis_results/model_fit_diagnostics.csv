@@ -1,0 +1,15 @@
+fit,face,valid,minus2_reml,iterations,successful_starts,reliable_starts,attempted_starts,kkt_pass_starts,max_kkt_violation,boundary_components,message
+POINT,ALL_POSITIVE,False,-18282.6058366,,3,0,3,0,0.00523811464572,sigma2_independent_residual,no_reliable_strict_interior_start
+POINT,INDEPENDENT_RESIDUAL_ZERO,True,-18282.6058366,7,3,2,3,2,0,sigma2_independent_residual,CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH
+POINT,STATION_ZERO,False,-17402.7905599,,3,0,3,0,4962.59664301,sigma2_station|sigma2_independent_residual,no_reliable_strict_interior_start
+POINT,SHARED_ZERO_BASELINE,False,-16658.5163816,,3,0,3,0,2482.22268125,sigma2_shared_segment,no_reliable_strict_interior_start
+POINT,SHARED_ONLY,False,-17402.79056,,3,0,3,0,4962.59664331,sigma2_station|sigma2_independent_residual,no_reliable_strict_interior_start
+POINT,RESIDUAL_ONLY,False,-16078.4431613,,3,0,3,0,3029.12565078,sigma2_station|sigma2_shared_segment,no_reliable_strict_interior_start
+BOOTSTRAP_FACE_DIAGNOSTIC,ALL_POSITIVE,True,,37,4024,2,4024,457,2465.0562727,sigma2_independent_residual,reliable_attempts=2; boundary_attempts=3544
+BOOTSTRAP_FACE_DIAGNOSTIC,INDEPENDENT_RESIDUAL_ZERO,True,,8,4024,3126,4024,3126,275.430051007,sigma2_independent_residual,reliable_attempts=3126; boundary_attempts=4024
+BOOTSTRAP_FACE_DIAGNOSTIC,STATION_ZERO,False,,38,4023,0,4024,0,6768.01208772,sigma2_independent_residual|sigma2_station,reliable_attempts=0; boundary_attempts=4024
+BOOTSTRAP_FACE_DIAGNOSTIC,SHARED_ZERO_BASELINE,False,,9,4021,0,4024,0,3409.65033158,sigma2_shared_segment|sigma2_station,reliable_attempts=0; boundary_attempts=4024
+BOOTSTRAP_FACE_DIAGNOSTIC,SHARED_ONLY,False,,6,4018,0,4024,0,6768.01300822,sigma2_independent_residual|sigma2_station,reliable_attempts=0; boundary_attempts=4024
+BOOTSTRAP_FACE_DIAGNOSTIC,RESIDUAL_ONLY,False,,7,4016,0,4024,0,4240.72258332,sigma2_shared_segment|sigma2_station,reliable_attempts=0; boundary_attempts=4024
+BOOTSTRAP_FACE_FREQUENCY,INDEPENDENT_RESIDUAL_ZERO,True,,,,,,,,,999/1000 reliable draws selected this face
+BOOTSTRAP_FACE_FREQUENCY,ALL_POSITIVE,True,,,,,,,,,1/1000 reliable draws selected this face

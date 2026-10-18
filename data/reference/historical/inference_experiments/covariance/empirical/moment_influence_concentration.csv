@@ -1,0 +1,4 @@
+metric,stations,largest_variance_contribution_fraction,top_one_percent_stations,top_one_percent_variance_fraction,variance_contribution_participation_count
+station_marginal_share,2216,0.5421274670072599,23,0.8357528841422818,3.3033638091284927
+shared_segment_marginal_share,2216,0.15407140709332942,23,0.6442692932178038,20.53610134147739
+independent_residual_marginal_share,2216,0.3728711487173434,23,0.7472545863707176,6.482873947128009

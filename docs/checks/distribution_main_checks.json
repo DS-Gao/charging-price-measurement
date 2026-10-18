@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "primary_counts": {
+    "Beijing": {
+      "A": 8133,
+      "R": 7531,
+      "H": 7479,
+      "C": 3916
+    },
+    "UrbanEV": {
+      "A": 49369,
+      "R": 4921,
+      "H": 1377,
+      "C": 48180
+    }
+  },
+  "layer_export_counts": {
+    "Beijing": {
+      "A": 8133,
+      "R": 7531,
+      "H": 7479,
+      "C": 3916
+    },
+    "UrbanEV": {
+      "A": 49369,
+      "R": 4921,
+      "H": 1377,
+      "C": 48180
+    }
+  },
+  "all_quantile_population_sizes_checked": true,
+  "weighted_point_max_abs_difference": 4.978240042419202e-12,
+  "pairing_FIQR_max_abs_difference": 5.551115123125783e-17,
+  "covariance_saved_successful_draws": 1000,
+  "frozen_summary_source_count": 115,
+  "frozen_summary_numeric_cells": 409142,
+  "scope": "Panel estimates recomputed; two saved bootstrap series reaggregated; other numerical summaries extracted with source/row/column locators. No raw reconstruction or model refit."
+}

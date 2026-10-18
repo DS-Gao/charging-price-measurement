@@ -1,0 +1,12 @@
+panel,metric,estimate,lower,upper,status
+primary,Independent-residual VPC,0.318274,0.241,0.42,baseline
+primary,Heteroscedastic VPC,0.227,,,point sensitivity
+primary,Shared-segment covariance model,0.335932753168,0.217739928121,0.474447495327,post-review sensitivity
+secondary,Station-wide,0.137,0.0,0.282,homoscedastic
+secondary,Station $\times$ boundary,0.354,0.096,0.599,homoscedastic
+secondary,Residual,0.509,0.343,0.653,homoscedastic
+secondary,Station-wide,0.048,,,heteroscedastic point
+secondary,Station $\times$ boundary,0.401,,,heteroscedastic point
+secondary,Residual,0.552,,,heteroscedastic point
+ratio,Homoscedastic,0.720804792837,0.252914979928,1.0,"derived from 1,000 previously fitted draws"
+ratio,Heteroscedastic,0.894064270148,,,point only

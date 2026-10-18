@@ -1,0 +1,15 @@
+﻿flow_order,scope,month,stage,n_rows,n_station_months,n_stations,definition
+1,month,2025-01,raw_transactions,2137234,,,frozen public order rows
+2,month,2025-01,core_price_base_transactions,2102683,,,frozen core price-base eligibility
+3,month,2025-01,A_sm_price_base_active_station_months,6239,6239,6239,at least one core price-base transaction and 100% station linkage
+4,month,2025-01,target_station_month_boundaries,37434,6239,6239,A_sm=1 crossed with predefined PURE_TOU boundaries
+5,month,2025-01,Z_supported,2623,949,949,both adjacent NATIVE_8 segments meet 20-session/5-day support
+6,month,2025-01,R_support_plus_signal_bearing,2246,841,841,Z=1 and frozen full-month signal-bearing label
+7,month,2025-01,final_standardization_target,5631,1486,1486,OVERLAP_RESTRICTED_TARGET
+1,month,2025-07,raw_transactions,6407461,,,frozen public order rows
+2,month,2025-07,core_price_base_transactions,6393176,,,frozen core price-base eligibility
+3,month,2025-07,A_sm_price_base_active_station_months,7967,7967,7967,at least one core price-base transaction and 100% station linkage
+4,month,2025-07,target_station_month_boundaries,31868,7967,7967,A_sm=1 crossed with predefined PURE_TOU boundaries
+5,month,2025-07,Z_supported,5510,2251,2251,both adjacent NATIVE_8 segments meet 20-session/5-day support
+6,month,2025-07,R_support_plus_signal_bearing,5285,2133,2133,Z=1 and frozen full-month signal-bearing label
+7,month,2025-07,final_standardization_target,5501,2513,2513,OVERLAP_RESTRICTED_TARGET

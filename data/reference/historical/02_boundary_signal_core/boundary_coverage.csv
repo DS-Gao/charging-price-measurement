@@ -1,0 +1,11 @@
+layer_order,month,boundary_hour,n_cells,n_unique_stations,n_signal_bearing,n_weak_signal,n_discordant_electricity_signal,dispersion_class,n_matched_cells,n_matched_unique_stations,service_action_agreement_rate,passes_main_support_count,passes_signal_bearing_count,passes_crossfit_count,headline_eligible,coverage_scope,stability_scope,final_stage2_decision
+1,2025-01,7,148,148,79,69,0,dispersion_amplification,78,78,0.935897435897,True,True,True,True,FULL_TWO_MONTH,STABLE_ARCHITECTURE,GO_STABLE
+2,2025-01,10,175,175,96,79,0,dispersion_compression,117,117,0.982905982906,True,True,True,True,FULL_TWO_MONTH,STABLE_ARCHITECTURE,GO_STABLE
+3,2025-01,13,776,776,634,142,0,dispersion_amplification,136,136,0.992647058824,True,True,True,True,FULL_TWO_MONTH,STABLE_ARCHITECTURE,GO_STABLE
+4,2025-01,17,575,575,518,55,2,inconclusive,176,176,0.920454545455,True,True,True,True,FULL_TWO_MONTH,STABLE_ARCHITECTURE,GO_STABLE
+5,2025-01,22,417,417,404,13,0,precisely_small,200,200,0.88,True,True,True,True,FULL_TWO_MONTH,STABLE_ARCHITECTURE,GO_STABLE
+6,2025-01,23,532,532,515,17,0,dispersion_amplification,253,253,0.897233201581,True,True,True,True,FULL_TWO_MONTH,STABLE_ARCHITECTURE,GO_STABLE
+7,2025-07,7,2231,2231,2103,128,0,dispersion_amplification,2057,2057,0.923189110355,True,True,True,True,FULL_TWO_MONTH,STABLE_ARCHITECTURE,GO_STABLE
+8,2025-07,10,1134,1134,1086,48,0,inconclusive,969,969,0.863777089783,True,True,True,True,FULL_TWO_MONTH,STABLE_ARCHITECTURE,GO_STABLE
+9,2025-07,22,1073,1073,1054,19,0,dispersion_amplification,931,931,0.863587540279,True,True,True,True,FULL_TWO_MONTH,STABLE_ARCHITECTURE,GO_STABLE
+10,2025-07,23,1072,1072,1042,30,0,dispersion_amplification,929,929,0.889128094726,True,True,True,True,FULL_TWO_MONTH,STABLE_ARCHITECTURE,GO_STABLE

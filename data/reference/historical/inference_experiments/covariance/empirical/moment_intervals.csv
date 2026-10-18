@@ -1,0 +1,7 @@
+method,metric,critical,fit_valid,interval_valid,ci_lower,ci_upper,interval_status,unconstrained_estimate,projected_display_estimate,negative_component_count,denominator_certified_positive,boundary_only
+moment_Fieller_pointwise,station_marginal_share,3.841458820694124,True,True,0.15654692404842013,0.2611627950832572,projected_Fieller,0.2140771950700578,0.2140771950700578,1,True,False
+moment_Fieller_pointwise,shared_segment_marginal_share,3.841458820694124,True,True,0.6788756641425924,0.8918194545112299,projected_Fieller,0.7902811230748086,0.7902811230748086,1,True,False
+moment_Fieller_pointwise,independent_residual_marginal_share,3.841458820694124,True,True,0.0,0.1373150231345574,projected_Fieller,-0.0043583181448663254,0.0,1,True,False
+moment_Fieller_simultaneous,station_marginal_share,7.814727903251179,True,True,0.12693206930684836,0.2793050515384219,projected_Fieller,0.2140771950700578,0.2140771950700578,1,True,False
+moment_Fieller_simultaneous,shared_segment_marginal_share,7.814727903251179,True,True,0.6255124361630627,0.9343444674901568,projected_Fieller,0.7902811230748086,0.7902811230748086,1,True,False
+moment_Fieller_simultaneous,independent_residual_marginal_share,7.814727903251179,True,True,0.0,0.20809090778509115,projected_Fieller,-0.0043583181448663254,0.0,1,True,False

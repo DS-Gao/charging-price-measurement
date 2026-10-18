@@ -1,0 +1,11 @@
+candidate_partition,month,stage,n_transactions,unique_stations,station_months
+ALL,2025-01,01_raw_file,2137234,6246,6246
+ALL,2025-07,01_raw_file,6407461,7972,7972
+ALL,2025-01,02_named_month_valid_station_time,2137234,6246,6246
+ALL,2025-07,02_named_month_valid_station_time,6393968,7967,7967
+ALL,2025-01,03_price_base_sample,2102683,6239,6239
+ALL,2025-07,03_price_base_sample,6393176,7967,7967
+COMMON_10,2025-01,04_fully_contained_price_base,1332591,5658,5658
+COMMON_10,2025-07,04_fully_contained_price_base,4543009,7705,7705
+NATIVE_8,2025-01,04_fully_contained_price_base,1454853,5770,5770
+NATIVE_8,2025-07,04_fully_contained_price_base,4808006,7759,7759

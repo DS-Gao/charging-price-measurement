@@ -1,0 +1,3 @@
+analysis_scope,month,boundary_hour,n_main_supported_cells,n_signal_bearing_cells,share_weak_signal,share_discordant_electricity_signal,median_E_star,median_S_star,median_T_star,median_B30,share_abs_aggregation_residual_gt_0_03,F_IQR,share_retained,share_neutralized,share_reversed,excluded_from_headline_bootstrap_and_gates
+INSTITUTIONAL_MIXED,2025-07,13,2273,2009,0.116146062473,0,0.373846030902,0,0.303982289495,9.11946868486,0.00835899692037,0.000308684428448,0.994524639124,0.00447984071677,0.000995520159283,True
+INSTITUTIONAL_MIXED,2025-07,17,1592,1061,0.0810301507538,0.252512562814,0.12996939446,-1.11022302463e-16,0.110249945425,3.30749836276,0.0125628140704,0.0312803093958,0.88972667295,0.0556079170594,0.0546654099906,True

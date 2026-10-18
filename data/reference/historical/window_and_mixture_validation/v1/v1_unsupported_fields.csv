@@ -1,0 +1,5 @@
+field_or_estimand,status,reason,target
+formation/validation half price medians for formation-supported stations outside full-month A,UNSUPPORTED,segment panel has native support flags and full-month medians only; panel half-price fields are restricted to fixed full-month A,ALL
+half-month TX/KWH exposure weights,UNSUPPORTED_AS_HALF_SPECIFIC_WEIGHTS,only fixed full-month A target weights are present; matched-half paired rows use those weights conditioned to fixed-A cohorts,"TX,KWH"
+formation-outside-A E_star/T_star/B30 paired errors,UNSUPPORTED,formation-outside-A units have no half-price fields in the frozen panel,ALL
+"causal effect, latent price, or temporal stability",NOT_ESTIMATED,V1 is a fixed-A descriptive validation only,ALL

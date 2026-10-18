@@ -1,0 +1,11 @@
+panel,specification,component,estimate,ci_lower,ci_upper,display_role
+A,Primary homoscedastic,Station-consistent VPC,0.3182739170143291,0.2408834859731229,0.4197551391582261,estimate_with_bootstrap_ci
+A,Heteroscedastic sensitivity,Station-consistent VPC,0.2267483857673984,,,point_estimate_only
+B,Primary homoscedastic,Station-wide,0.1372188313224564,0.0,0.2815611835171632,component_or_aggregate
+B,Heteroscedastic sensitivity,Station-wide,0.0475018275950713,,,point_estimate_only
+B,Primary homoscedastic,Station × boundary,0.3542610644706928,0.0956691476260664,0.5985889737643287,component_or_aggregate
+B,Heteroscedastic sensitivity,Station × boundary,0.4009004976789959,,,point_estimate_only
+B,Primary homoscedastic,Residual,0.5085201042068507,0.3433537669277552,0.652516673063731,component_or_aggregate
+B,Heteroscedastic sensitivity,Residual,0.5515976747259328,,,point_estimate_only
+B,Primary homoscedastic,Same-pair repeatable,0.4914798957931492,0.3474833269362691,0.6566462330722449,component_or_aggregate
+B,Heteroscedastic sensitivity,Same-pair repeatable,0.4484023252740672,,,point_estimate_only

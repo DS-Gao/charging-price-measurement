@@ -1,0 +1,40 @@
+{
+  "schema": "focused-manuscript-revision/extensions-v1",
+  "created_utc": "2026-09-14T14:26:46.498150+00:00",
+  "parameters": {
+    "primary_e_threshold_RMB_per_kWh": 0.01,
+    "primary_total_threshold_RMB_per_kWh": 0.03,
+    "common_input_audit_kappa_RMB_per_kWh": 0.03,
+    "reference_kWh": 30.0,
+    "primary_amount_threshold_RMB": 0.9,
+    "amount_thresholds_RMB_per_kWh": [
+      0.02,
+      0.03,
+      0.05
+    ],
+    "external_electricity_thresholds_RMB_per_kWh": [
+      0.005,
+      0.01,
+      0.02
+    ],
+    "external_total_thresholds_RMB_per_kWh": [
+      0.02,
+      0.03,
+      0.05
+    ],
+    "threshold_sensitivity_registration": "post-review specified supplement; not original preregistration",
+    "weighting": "equal unit within each observation system; no UrbanEV transaction weights"
+  },
+  "outputs": [
+    "unit_level_signed.csv",
+    "summary_short.csv",
+    "monthly_boundary_strata.csv",
+    "residual_classification_transition.csv",
+    "threshold_sensitivity.csv",
+    "input_audit_3x3.csv",
+    "input_audit_C.csv",
+    "baseline_counts.json",
+    "count_closure_checks.json",
+    "source_audit.json"
+  ]
+}

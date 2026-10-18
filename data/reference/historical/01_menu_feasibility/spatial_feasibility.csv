@@ -1,0 +1,5 @@
+candidate_partition,month,grids_with_at_least_5_menu_stations,eligible_stations_in_qualifying_grids,eligible_stations_with_grid,share_menu_stations_in_qualifying_grids,cross_month_comparable_grids,spatial_quantity_status
+COMMON_10,2025-01,0,,14,,0,SPATIAL_MAIN_NOT_ELIGIBLE
+COMMON_10,2025-07,1,5,838,0.00596658711217,0,SPATIAL_MAIN_NOT_ELIGIBLE
+NATIVE_8,2025-01,0,,56,,0,SPATIAL_MAIN_NOT_ELIGIBLE
+NATIVE_8,2025-07,2,10,895,0.0111731843575,0,SPATIAL_MAIN_NOT_ELIGIBLE

@@ -1,0 +1,7 @@
+system,set_label,n,share_of_A,R_n_primary,H_n_primary,D30_signed_median_RMB,D30_absolute_median_RMB,E_negative_n,E_neutral_n,E_positive_n,T_negative_n,T_neutral_n,T_positive_n,max_abs_E_difference_after_membership_only,max_abs_T_difference_after_membership_only,max_abs_D30_difference_after_membership_only
+Beijing,A,8133,1,7531,7479,0.00034361451172415514,0.012117678669044674,1,609,7523,35,586,7512,,,
+Beijing,C,3916,0.48149514324357556,3781,3763,0.00058788572201567968,0.29028346992983567,0,136,3780,12,133,3771,,,
+Beijing,C_membership_only_check,3916,0.48149514324357556,3781,3763,,,,,,,,,0,0,0
+UrbanEV,A,49369,1,4921,1377,0,0,14,44434,4921,1889,45773,1707,,,
+UrbanEV,C,48180,0.97591606068585546,3743,699,0,0,14,44423,3743,1873,45278,1029,,,
+UrbanEV,C_membership_only_check,48180,0.97591606068585546,3743,699,,,,,,,,,0,0,0

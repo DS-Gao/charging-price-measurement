@@ -1,0 +1,138 @@
+month,group,statistic_type,feature,category,n_stations,coverage_of_price_estimable,median,q25,q75,proportion,group_relationship
+2025-01,any_main_supported_boundary,categorical,construction_site,交通枢纽,15,0.300411522634,,,,0.0158061116965,nested subset of price_estimable
+2025-01,any_main_supported_boundary,categorical,construction_site,企事业单位,16,0.300411522634,,,,0.0168598524763,nested subset of price_estimable
+2025-01,any_main_supported_boundary,categorical,construction_site,公交场站,2,0.300411522634,,,,0.00210748155954,nested subset of price_estimable
+2025-01,any_main_supported_boundary,categorical,construction_site,公共机构,205,0.300411522634,,,,0.216016859852,nested subset of price_estimable
+2025-01,any_main_supported_boundary,categorical,construction_site,其他,416,0.300411522634,,,,0.438356164384,nested subset of price_estimable
+2025-01,any_main_supported_boundary,categorical,construction_site,写字楼,75,0.300411522634,,,,0.0790305584826,nested subset of price_estimable
+2025-01,any_main_supported_boundary,categorical,construction_site,出租车,4,0.300411522634,,,,0.00421496311907,nested subset of price_estimable
+2025-01,any_main_supported_boundary,categorical,construction_site,加油加气站,1,0.300411522634,,,,0.00105374077977,nested subset of price_estimable
+2025-01,any_main_supported_boundary,categorical,construction_site,城际高速服务区,19,0.300411522634,,,,0.0200210748156,nested subset of price_estimable
+2025-01,any_main_supported_boundary,categorical,construction_site,大型建筑配建停车场,116,0.300411522634,,,,0.122233930453,nested subset of price_estimable
+2025-01,any_main_supported_boundary,categorical,construction_site,大型文体设施,28,0.300411522634,,,,0.0295047418335,nested subset of price_estimable
+2025-01,any_main_supported_boundary,categorical,construction_site,居住区,27,0.300411522634,,,,0.0284510010537,nested subset of price_estimable
+2025-01,any_main_supported_boundary,categorical,construction_site,居民区,6,0.300411522634,,,,0.00632244467861,nested subset of price_estimable
+2025-01,any_main_supported_boundary,categorical,construction_site,工业园区,10,0.300411522634,,,,0.0105374077977,nested subset of price_estimable
+2025-01,any_main_supported_boundary,categorical,construction_site,路边停车位,9,0.300411522634,,,,0.00948366701791,nested subset of price_estimable
+2025-01,any_main_supported_boundary,count,stations,,949,0.300411522634,,,,,nested subset of price_estimable
+2025-01,any_main_supported_boundary,numeric,charging_gun_num,,949,0.300411522634,14,8,24,,nested subset of price_estimable
+2025-01,any_main_supported_boundary,numeric,contained_sessions,,949,0.300411522634,840,536,1384,,nested subset of price_estimable
+2025-01,any_main_supported_boundary,numeric,dc_connector_share,,949,0.300411522634,1,1,1,,nested subset of price_estimable
+2025-01,any_main_supported_boundary,numeric,dc_piles_num,,949,0.300411522634,8,4,12,,nested subset of price_estimable
+2025-01,any_main_supported_boundary,numeric,median_rated_gun_power_kw,,948,0.300411522634,120,120,240,,nested subset of price_estimable
+2025-01,any_main_supported_boundary,numeric,piles_num,,949,0.300411522634,8,4,13,,nested subset of price_estimable
+2025-01,any_main_supported_boundary,numeric,station_total_power_kw,,949,0.300411522634,960,520,1620,,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,categorical,construction_site,交通枢纽,15,0.266223488446,,,,0.0178359096314,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,categorical,construction_site,企事业单位,15,0.266223488446,,,,0.0178359096314,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,categorical,construction_site,公共机构,204,0.266223488446,,,,0.242568370987,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,categorical,construction_site,其他,380,0.266223488446,,,,0.451843043995,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,categorical,construction_site,写字楼,46,0.266223488446,,,,0.0546967895363,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,categorical,construction_site,出租车,4,0.266223488446,,,,0.00475624256837,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,categorical,construction_site,加油加气站,1,0.266223488446,,,,0.00118906064209,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,categorical,construction_site,城际高速服务区,19,0.266223488446,,,,0.0225921521998,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,categorical,construction_site,大型建筑配建停车场,82,0.266223488446,,,,0.0975029726516,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,categorical,construction_site,大型文体设施,26,0.266223488446,,,,0.0309155766944,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,categorical,construction_site,居住区,26,0.266223488446,,,,0.0309155766944,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,categorical,construction_site,居民区,5,0.266223488446,,,,0.00594530321046,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,categorical,construction_site,工业园区,9,0.266223488446,,,,0.0107015457788,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,categorical,construction_site,路边停车位,9,0.266223488446,,,,0.0107015457788,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,count,stations,,841,0.266223488446,,,,,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,numeric,charging_gun_num,,841,0.266223488446,16,10,24,,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,numeric,contained_sessions,,841,0.266223488446,910,602,1493,,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,numeric,dc_connector_share,,841,0.266223488446,1,1,1,,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,numeric,dc_piles_num,,841,0.266223488446,8,5,13,,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,numeric,median_rated_gun_power_kw,,840,0.266223488446,120,120,180,,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,numeric,piles_num,,841,0.266223488446,8,5,14,,nested subset of price_estimable
+2025-01,any_signal_bearing_boundary,numeric,station_total_power_kw,,841,0.266223488446,1080,600,1800,,nested subset of price_estimable
+2025-01,price_estimable,categorical,construction_site,交通枢纽,33,1,,,,0.0104463437797,denominator
+2025-01,price_estimable,categorical,construction_site,企事业单位,230,1,,,,0.0728078505856,denominator
+2025-01,price_estimable,categorical,construction_site,公交场站,2,1,,,,0.000633111744223,denominator
+2025-01,price_estimable,categorical,construction_site,公共机构,872,1,,,,0.276036720481,denominator
+2025-01,price_estimable,categorical,construction_site,其他,1042,1,,,,0.32985121874,denominator
+2025-01,price_estimable,categorical,construction_site,写字楼,194,1,,,,0.0614118391896,denominator
+2025-01,price_estimable,categorical,construction_site,出租车,8,1,,,,0.00253244697689,denominator
+2025-01,price_estimable,categorical,construction_site,加油加气站,2,1,,,,0.000633111744223,denominator
+2025-01,price_estimable,categorical,construction_site,城市绿地,10,1,,,,0.00316555872111,denominator
+2025-01,price_estimable,categorical,construction_site,城际高速服务区,39,1,,,,0.0123456790123,denominator
+2025-01,price_estimable,categorical,construction_site,大型建筑配建停车场,240,1,,,,0.0759734093067,denominator
+2025-01,price_estimable,categorical,construction_site,大型文体设施,60,1,,,,0.0189933523267,denominator
+2025-01,price_estimable,categorical,construction_site,居住区,240,1,,,,0.0759734093067,denominator
+2025-01,price_estimable,categorical,construction_site,居民区,106,1,,,,0.0335549224438,denominator
+2025-01,price_estimable,categorical,construction_site,工业园区,53,1,,,,0.0167774612219,denominator
+2025-01,price_estimable,categorical,construction_site,路边停车位,28,1,,,,0.00886356441912,denominator
+2025-01,price_estimable,count,stations,,3159,1,,,,,denominator
+2025-01,price_estimable,numeric,charging_gun_num,,3159,1,9,6,16,,denominator
+2025-01,price_estimable,numeric,contained_sessions,,3159,1,186,52,523,,denominator
+2025-01,price_estimable,numeric,dc_connector_share,,3159,1,1,0.555555555556,1,,denominator
+2025-01,price_estimable,numeric,dc_piles_num,,3159,1,4,2,8,,denominator
+2025-01,price_estimable,numeric,median_rated_gun_power_kw,,3158,1,60,60,120,,denominator
+2025-01,price_estimable,numeric,piles_num,,3159,1,6,4,12,,denominator
+2025-01,price_estimable,numeric,station_total_power_kw,,3159,1,480,197,900,,denominator
+2025-07,any_main_supported_boundary,categorical,construction_site,交通枢纽,46,0.42375753012,,,,0.0204353620613,nested subset of price_estimable
+2025-07,any_main_supported_boundary,categorical,construction_site,企事业单位,70,0.42375753012,,,,0.0310972900933,nested subset of price_estimable
+2025-07,any_main_supported_boundary,categorical,construction_site,公共机构,557,0.42375753012,,,,0.247445579742,nested subset of price_estimable
+2025-07,any_main_supported_boundary,categorical,construction_site,其他,881,0.42375753012,,,,0.391381608174,nested subset of price_estimable
+2025-07,any_main_supported_boundary,categorical,construction_site,写字楼,166,0.42375753012,,,,0.0737450022212,nested subset of price_estimable
+2025-07,any_main_supported_boundary,categorical,construction_site,加油加气站,2,0.42375753012,,,,0.000888494002665,nested subset of price_estimable
+2025-07,any_main_supported_boundary,categorical,construction_site,城市绿地,8,0.42375753012,,,,0.00355397601066,nested subset of price_estimable
+2025-07,any_main_supported_boundary,categorical,construction_site,城际高速服务区,39,0.42375753012,,,,0.017325633052,nested subset of price_estimable
+2025-07,any_main_supported_boundary,categorical,construction_site,大型建筑配建停车场,213,0.42375753012,,,,0.0946246112839,nested subset of price_estimable
+2025-07,any_main_supported_boundary,categorical,construction_site,大型文体设施,50,0.42375753012,,,,0.0222123500666,nested subset of price_estimable
+2025-07,any_main_supported_boundary,categorical,construction_site,居住区,132,0.42375753012,,,,0.0586406041759,nested subset of price_estimable
+2025-07,any_main_supported_boundary,categorical,construction_site,居民区,11,0.42375753012,,,,0.00488671701466,nested subset of price_estimable
+2025-07,any_main_supported_boundary,categorical,construction_site,工业园区,42,0.42375753012,,,,0.018658374056,nested subset of price_estimable
+2025-07,any_main_supported_boundary,categorical,construction_site,路边停车位,34,0.42375753012,,,,0.0151043980453,nested subset of price_estimable
+2025-07,any_main_supported_boundary,count,stations,,2251,0.42375753012,,,,,nested subset of price_estimable
+2025-07,any_main_supported_boundary,numeric,charging_gun_num,,2251,0.42375753012,12,6,20,,nested subset of price_estimable
+2025-07,any_main_supported_boundary,numeric,contained_sessions,,2251,0.42375753012,994,468,2673.5,,nested subset of price_estimable
+2025-07,any_main_supported_boundary,numeric,dc_connector_share,,2251,0.42375753012,1,1,1,,nested subset of price_estimable
+2025-07,any_main_supported_boundary,numeric,dc_piles_num,,2251,0.42375753012,6,3,10,,nested subset of price_estimable
+2025-07,any_main_supported_boundary,numeric,median_rated_gun_power_kw,,2251,0.42375753012,120,60,240,,nested subset of price_estimable
+2025-07,any_main_supported_boundary,numeric,piles_num,,2251,0.42375753012,7,4,12,,nested subset of price_estimable
+2025-07,any_main_supported_boundary,numeric,station_total_power_kw,,2251,0.42375753012,720,469.5,1440,,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,categorical,construction_site,交通枢纽,44,0.401543674699,,,,0.0206282231599,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,categorical,construction_site,企事业单位,66,0.401543674699,,,,0.0309423347398,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,categorical,construction_site,公共机构,551,0.401543674699,,,,0.258321612752,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,categorical,construction_site,其他,833,0.401543674699,,,,0.390529770277,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,categorical,construction_site,写字楼,145,0.401543674699,,,,0.0679793717768,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,categorical,construction_site,加油加气站,2,0.401543674699,,,,0.000937646507267,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,categorical,construction_site,城市绿地,8,0.401543674699,,,,0.00375058602907,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,categorical,construction_site,城际高速服务区,39,0.401543674699,,,,0.0182841068917,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,categorical,construction_site,大型建筑配建停车场,188,0.401543674699,,,,0.0881387716831,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,categorical,construction_site,大型文体设施,48,0.401543674699,,,,0.0225035161744,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,categorical,construction_site,居住区,124,0.401543674699,,,,0.0581340834505,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,categorical,construction_site,居民区,10,0.401543674699,,,,0.00468823253633,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,categorical,construction_site,工业园区,41,0.401543674699,,,,0.019221753399,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,categorical,construction_site,路边停车位,34,0.401543674699,,,,0.0159399906235,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,count,stations,,2133,0.401543674699,,,,,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,numeric,charging_gun_num,,2133,0.401543674699,12,7,20,,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,numeric,contained_sessions,,2133,0.401543674699,1058,478,2806,,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,numeric,dc_connector_share,,2133,0.401543674699,1,1,1,,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,numeric,dc_piles_num,,2133,0.401543674699,6,3,10,,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,numeric,median_rated_gun_power_kw,,2133,0.401543674699,120,60,240,,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,numeric,piles_num,,2133,0.401543674699,7,4,12,,nested subset of price_estimable
+2025-07,any_signal_bearing_boundary,numeric,station_total_power_kw,,2133,0.401543674699,720,480,1440,,nested subset of price_estimable
+2025-07,price_estimable,categorical,construction_site,交通枢纽,61,1,,,,0.0114834337349,denominator
+2025-07,price_estimable,categorical,construction_site,企事业单位,468,1,,,,0.0881024096386,denominator
+2025-07,price_estimable,categorical,construction_site,公共机构,1186,1,,,,0.223268072289,denominator
+2025-07,price_estimable,categorical,construction_site,其他,1743,1,,,,0.328125,denominator
+2025-07,price_estimable,categorical,construction_site,写字楼,347,1,,,,0.0653237951807,denominator
+2025-07,price_estimable,categorical,construction_site,出租车,1,1,,,,0.000188253012048,denominator
+2025-07,price_estimable,categorical,construction_site,加油加气站,2,1,,,,0.000376506024096,denominator
+2025-07,price_estimable,categorical,construction_site,城市绿地,17,1,,,,0.00320030120482,denominator
+2025-07,price_estimable,categorical,construction_site,城际高速服务区,51,1,,,,0.00960090361446,denominator
+2025-07,price_estimable,categorical,construction_site,大型建筑配建停车场,400,1,,,,0.0753012048193,denominator
+2025-07,price_estimable,categorical,construction_site,大型文体设施,92,1,,,,0.0173192771084,denominator
+2025-07,price_estimable,categorical,construction_site,居住区,685,1,,,,0.128953313253,denominator
+2025-07,price_estimable,categorical,construction_site,居民区,102,1,,,,0.0192018072289,denominator
+2025-07,price_estimable,categorical,construction_site,工业园区,102,1,,,,0.0192018072289,denominator
+2025-07,price_estimable,categorical,construction_site,路边停车位,49,1,,,,0.00922439759036,denominator
+2025-07,price_estimable,categorical,construction_site,风景区,6,1,,,,0.00112951807229,denominator
+2025-07,price_estimable,count,stations,,5312,1,,,,,denominator
+2025-07,price_estimable,numeric,charging_gun_num,,5312,1,9,6,16,,denominator
+2025-07,price_estimable,numeric,contained_sessions,,5312,1,165,49,734.25,,denominator
+2025-07,price_estimable,numeric,dc_connector_share,,5312,1,1,0.0909090909091,1,,denominator
+2025-07,price_estimable,numeric,dc_piles_num,,5312,1,3,1,6,,denominator
+2025-07,price_estimable,numeric,median_rated_gun_power_kw,,5312,1,60,7,120,,denominator
+2025-07,price_estimable,numeric,piles_num,,5312,1,7,4,12,,denominator
+2025-07,price_estimable,numeric,station_total_power_kw,,5312,1,320,116,720,,denominator

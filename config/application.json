@@ -1,0 +1,101 @@
+{
+  "status": "LOCKED_PLAN_SNAPSHOT",
+  "locked_utc": "2026-09-14T15:15:46.736223+00:00",
+  "input": {
+    "path": "data/derived/common/unit_level_signed.csv",
+    "sha256": "103cecc145bd6e5d378da5a66f826e9642554c328b6aeb021ab21849c28a5132"
+  },
+  "chronology": "Post-review descriptive extension designed with prior results known. Rules fixed before inspecting new amount/screening and discrepancy concentration summaries. Not project-wide preregistration or blind validation.",
+  "amount": {
+    "populations": [
+      "A",
+      "R",
+      "H"
+    ],
+    "units": "RMB per reference 30 kWh",
+    "quantiles": [
+      0.1,
+      0.25,
+      0.5,
+      0.75,
+      0.9
+    ],
+    "quantile_rule": "numpy linear / type 7",
+    "exceedance": 0.9,
+    "strict_exceedance": true,
+    "zero_reference": 0,
+    "summaries": [
+      "signed D30 quantiles",
+      "absolute D30 quantiles",
+      "negative/near/positive reference counts"
+    ],
+    "precision": "round-trip input parsing; original unrounded values for amount statistics"
+  },
+  "screening": {
+    "primary_population": "A",
+    "secondary_population": "R",
+    "strata": [
+      "system",
+      "month",
+      "boundary"
+    ],
+    "input_scores": [
+      "abs(E_star)",
+      "abs(T_star)"
+    ],
+    "nominal_fractions": [
+      0.2,
+      0.1
+    ],
+    "primary_fraction": 0.2,
+    "threshold_rule": "For n units, k=ceil(q*n); cutoff is kth largest rounded score; include every unit at or above cutoff. Never break ties arbitrarily.",
+    "tie_grid_RMB_per_kWh": 1e-06,
+    "all_zero": "Include all units and explicitly flag no discrimination. Report actual selection fractions and ties, including all-zero strata.",
+    "pooling": "Sum counts over fixed disjoint strata; denominator remains original A or R. Report layer summaries separately.",
+    "metrics": [
+      "input-specific selected counts",
+      "intersection",
+      "union",
+      "symmetric difference",
+      "symmetric difference / n",
+      "Jaccard",
+      "cutoff tie counts",
+      "actual selected fractions",
+      "flat or all-zero layers",
+      "signed D30/absolute D30 summaries within discrepant selected groups"
+    ],
+    "interpretation": "Observed input sensitivity on identical local tasks. Not truth accuracy, bills, savings, user choice, demand response or flexible-load ranking."
+  },
+  "concentration": {
+    "events": [
+      "E/T labels unequal at common kappa=0.03 on A",
+      "abs(D30)>0.90 on A",
+      "primary screening symmetric difference on A"
+    ],
+    "groups": [
+      "station",
+      "month",
+      "boundary"
+    ],
+    "station_top_k": [
+      1,
+      5,
+      10
+    ],
+    "report": [
+      "event counts",
+      "denominator counts",
+      "event shares",
+      "within-group event rate",
+      "remaining rate after top-k contributors excluded"
+    ],
+    "interpretation": "Post-observation descriptive concentration; exclusions are sensitivity summaries, not new primary samples."
+  },
+  "preserve": [
+    "A/R/H/C original membership",
+    "original primary thresholds and estimates",
+    "negative coverage evidence",
+    "latent and covariance limitations",
+    "previous release integrity"
+  ]
+}

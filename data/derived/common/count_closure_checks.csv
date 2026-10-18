@@ -1,0 +1,3 @@
+system,R_category_sum,R_n,R_closure,H_category_sum,H_n,H_closure,H_abs_gt_amount_signed_sum,H_abs_gt_amount_n,H_signed_absolute_closure,C_subset_A
+Beijing,7531,7531,True,7479,7479,True,2706,2706,True,True
+UrbanEV,4921,4921,True,1377,1377,True,1338,1338,True,True

@@ -1,0 +1,67 @@
+{
+  "schema": "focused-manuscript-revision-plan/2",
+  "date": "2026-09-14",
+  "status": "HISTORICAL_ANALYSIS_SPECIFICATION",
+  "main_question": "公共充电的局部 TOU 价格信号应如何测量，其方向、幅度与总体差异如何得到可靠解释？",
+  "scientific_axes": [
+    "观测支持",
+    "信号解释（包含组件配对与总体权重）",
+    "推断可靠性"
+  ],
+  "baseline_counts": {
+    "Beijing": {
+      "A": 8133,
+      "R": 7531,
+      "H": 7479,
+      "C": 3916
+    },
+    "UrbanEV": {
+      "A": 49369,
+      "R": 4921,
+      "H": 1377,
+      "C": 48180
+    },
+    "provenance": "前序规划及独立评审的已核对计数；本次未重跑数据分析"
+  },
+  "analysis_parameters": {
+    "primary": {
+      "electricity_qualification_gt": 0.01,
+      "total_direction_gt": 0.03,
+      "reference_kWh": 30,
+      "abs_discrepancy_gt_RMB": 0.9
+    },
+    "input_audit": {
+      "support": "A within each observation system separately",
+      "common_label_threshold_RMB_per_kWh": 0.03,
+      "role": "embedded_application",
+      "new_predictive_model": false
+    },
+    "external_sensitivity": {
+      "method": "one factor at a time; all others fixed at primary",
+      "electricity_qualification": [
+        0.005,
+        0.01,
+        0.02
+      ],
+      "total_direction": [
+        0.02,
+        0.03,
+        0.05
+      ],
+      "amount_threshold_RMB_per_kWh_on_fixed_primary_H": [
+        0.02,
+        0.03,
+        0.05
+      ],
+      "registration": "post-review supplement; record before new computation, not retrospective preregistration"
+    }
+  },
+  "extension_registration": "Post-review specification frozen before this run; previous descriptive findings were already known.",
+  "historical_source_identifiers": {
+    "manuscript": "outputs/09_price_architecture/external_evidence_integration_20260914/working_source",
+    "beijing_panel": "outputs/09_price_architecture/09b_charging_activity_exposure/station_boundary_exposure_panel.parquet",
+    "beijing_menu": "outputs/09_price_architecture/01_menu_feasibility/station_month_menu_eligibility.parquet",
+    "external_panel": "outputs/09_price_architecture/urbanev_external_analysis_20260913/monthly_boundary_panel.parquet",
+    "e2_code": "analysis/price_architecture_v2/urbanev_external_analysis_20260913/e2_masking.py"
+  }
+}

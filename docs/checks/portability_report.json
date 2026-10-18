@@ -1,0 +1,21 @@
+{
+  "test_directory": "[local execution path omitted]",
+  "probe_denied": true,
+  "original_project_denied_except_test_runtime": true,
+  "guard_process_activations": 15,
+  "unexpected_access_attempts": "",
+  "runs": [
+    {
+      "workflow": "core",
+      "returncode": 0,
+      "seconds": 23.7582098999992
+    },
+    {
+      "workflow": "distribution",
+      "returncode": 0,
+      "seconds": 30.43738739998662
+    }
+  ],
+  "scope": "Python audit hook on file open/directory enumeration, plus static path audit; not an OS security sandbox",
+  "status": "PASS"
+}

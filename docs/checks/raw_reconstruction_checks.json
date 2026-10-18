@@ -1,0 +1,108 @@
+{
+  "status": "PASS",
+  "mode": "raw",
+  "scope": "Beijing all-native endpoint caches, original/CD/DW contrasts and B point estimates; no new bootstrap or historical latent-target simulation in raw mode.",
+  "raw_counters": {
+    "2025-01": {
+      "rows_seen": 2137234,
+      "row_groups": 3,
+      "batches": 9,
+      "price_base_rows_before_finite_filter": 2102683,
+      "price_base_rows_dropped_nonfinite_or_fee_identity": 0,
+      "price_base_rows": 2102683,
+      "time_order_violations": 0,
+      "null_end_times": 0,
+      "assigned_native_rows": 2102683,
+      "contained_native_rows": 1454853,
+      "contained_target_rows": 1454853,
+      "formation_target_rows": 436183,
+      "validation_target_rows": 994322,
+      "outside_split_target_rows": 24348,
+      "pile_id_nonnull_rows": 2137234
+    },
+    "2025-07": {
+      "rows_seen": 6407461,
+      "row_groups": 7,
+      "batches": 26,
+      "price_base_rows_before_finite_filter": 6393176,
+      "price_base_rows_dropped_nonfinite_or_fee_identity": 0,
+      "price_base_rows": 6393176,
+      "time_order_violations": 0,
+      "null_end_times": 0,
+      "assigned_native_rows": 6393176,
+      "contained_native_rows": 4808006,
+      "contained_target_rows": 4808006,
+      "formation_target_rows": 2388565,
+      "validation_target_rows": 2278870,
+      "outside_split_target_rows": 140571,
+      "pile_id_nonnull_rows": 6407461
+    }
+  },
+  "membership": {
+    "expected": {
+      "A": 8133,
+      "R": 7531,
+      "H": 7479
+    },
+    "observed": {
+      "A": 8133,
+      "R": 7531,
+      "H": 7479
+    },
+    "all_match": true
+  },
+  "A_summary": {
+    "rows": 150,
+    "max_abs_difference": 8.881784197001252e-16,
+    "field_max_differences": {
+      "n_units": 0.0,
+      "median_signed_D30": 9.833713704443525e-17,
+      "median_abs_D30": 9.020562075079397e-17,
+      "D30_p10": 4.440892098500626e-16,
+      "D30_p25": 4.440892098500626e-16,
+      "D30_p50": 9.833713704443525e-17,
+      "D30_p75": 1.1102230246251565e-16,
+      "D30_p90": 8.881784197001252e-16,
+      "D30_below_minus_0_90": 0.0,
+      "D30_within_band": 0.0,
+      "D30_above_plus_0_90": 0.0,
+      "FIQR": 9.71445146547012e-17,
+      "n_original_A": 0.0,
+      "n_original_R": 0.0,
+      "n_original_H": 0.0,
+      "n_config_R": 0.0,
+      "n_config_H": 0.0
+    },
+    "float_tolerance": 1e-10,
+    "counts_exact": true
+  },
+  "B_points": {
+    "rows": 780,
+    "max_abs_difference": 1.6653345369377348e-16,
+    "field_max_differences": {
+      "n": 0.0,
+      "mae": 1.1102230246251565e-16,
+      "me": 1.6132928326584306e-16,
+      "p90_abs_error": 1.6653345369377348e-16,
+      "label_disagreement": 9.8879238130678e-17,
+      "calibration_n_min": 0.0,
+      "calibration_n_max": 0.0,
+      "n_layers": 0.0
+    },
+    "float_tolerance": 1e-10,
+    "counts_exact": true
+  },
+  "coverage": {
+    "rows": 20,
+    "max_abs_difference": 1.1102230246251565e-16,
+    "field_max_differences": {
+      "n_entry": 0.0,
+      "n_later_observable": 0.0,
+      "input_coverage_vs_Af": 9.020562075079397e-17,
+      "later_availability": 1.1102230246251565e-16,
+      "denominator_Af_layer": 0.0
+    },
+    "float_tolerance": 1e-10,
+    "counts_exact": true
+  }
+}
