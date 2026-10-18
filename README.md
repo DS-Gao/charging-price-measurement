@@ -1,4 +1,4 @@
-# Component-resolved charging-price measurement
+# Component-resolved measurement of EV charging prices
 
 Research code for **Component-resolved measurement of time-of-use prices for public charging assessment**  
 Dongsheng Gao · Junjie Hu · Jaeyoung Jay Lee
@@ -12,8 +12,8 @@ The study uses Beijing public charging transactions and independent UrbanEV stat
 Requires Python 3.12. Clone the repository, create a virtual environment, and install the tested dependencies:
 
 ```sh
-git clone https://github.com/superGDS/EV-Charing.git
-cd EV-Charing
+git clone https://github.com/superGDS/charging-price-measurement.git
+cd charging-price-measurement
 python -m venv .venv
 # Windows: .venv\Scripts\activate
 # macOS/Linux: source .venv/bin/activate
@@ -38,7 +38,7 @@ For the formal reconstruction simulation, use `--phase formal --reps 2000`. This
 ## Layout
 
 ```text
-EV-Charing/
+charging-price-measurement/
 ├── run.py                  # Single entry point
 ├── src/
 │   ├── prices/             # Reconstruction, estimators and resampling
