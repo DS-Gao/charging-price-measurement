@@ -12,7 +12,7 @@ The study uses Beijing public charging transactions and independent UrbanEV stat
 Requires Python 3.12. Clone the repository, create a virtual environment, and install the tested dependencies:
 
 ```sh
-git clone https://github.com/superGDS/charging-price-measurement.git
+git clone https://github.com/DS-Gao/charging-price-measurement.git
 cd charging-price-measurement
 python -m venv .venv
 # Windows: .venv\Scripts\activate

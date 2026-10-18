@@ -25,8 +25,8 @@
     },
     {
       "path": "CITATION.cff",
-      "bytes": 650,
-      "sha256": "d1dbcebace6baa20a72d5f33a9b7c1bdb88520ee580f489ff4e09118143fb4a1"
+      "bytes": 646,
+      "sha256": "ef1edd518f12a44c2653be441b2e3d616a32e6306060ee697858cce77a82d69c"
     },
     {
       "path": "config/application.json",
@@ -5415,8 +5415,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4856,
-      "sha256": "dbca6236d3bc5d83e719ac5c50408d0abc61b3974784e52ca2813ca9c5488b53"
+      "bytes": 4854,
+      "sha256": "718357f6d4f01febc2c23fce38cab8700f0ece51d75af0b643521308c0b79ab2"
     },
     {
       "path": "requirements-lock.txt",

@@ -9,8 +9,8 @@ authors:
     given-names: Junjie
   - family-names: Lee
     given-names: Jaeyoung Jay
-repository-code: "https://github.com/superGDS/charging-price-measurement"
-url: "https://github.com/superGDS/charging-price-measurement"
+repository-code: "https://github.com/DS-Gao/charging-price-measurement"
+url: "https://github.com/DS-Gao/charging-price-measurement"
 license: MIT
 keywords:
   - electric vehicle charging
